@@ -1,7 +1,7 @@
 model: ECAPA_TDNN
 C: 1024
 n_out: 192
-batch_size: 16
+batch_size: 128
 n_per_speaker: 2
 loss_function: angleproto
 augment: True
