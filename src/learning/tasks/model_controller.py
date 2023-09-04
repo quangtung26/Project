@@ -77,6 +77,8 @@ class ModelController(object):
 
             if self.lr_step == "iteration":
                 self.__scheduler__.step()
+            
+            break
 
         if self.lr_step == "epoch":
             self.__scheduler__.step()
@@ -144,6 +146,7 @@ class ModelController(object):
             score = (score_1 + score_2) / 2
             score = score.detach().cpu().numpy()
             scores.append(score)
+            print(line)
             labels.append(int(line.split()[0]))
 
         return scores, labels

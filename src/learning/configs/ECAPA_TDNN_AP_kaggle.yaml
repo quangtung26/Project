@@ -7,12 +7,11 @@ loss_function: angleproto
 augment: True
 max_epoch: 2
 save_path: output/ECAPA_TDNN_AP
-train_list: /kaggle/input/vin-project/data/data/datameta/kaggle/input/vin-project/data/data/datatrain/training_metadata.txt
+train_list: /kaggle/input/vin-project/data/data/metadata/train/training_metadata.txt
 train_path: ./
-test_list: /kaggle/input/vin-project/data/data/datameta/kaggle/input/vin-project/data/data/datatest/sample_test_pairs.txt
-test_path: /kaggle/input/vin-project/data/data/datatest/sv_vlsp_2021/public_test/competition_public_test
-musan_path: /kaggle/input/vin-project/data/data/datamusan_augment
-rir_path: /kaggle/input/vin-project/data/data/datarirs_noises
+test_list: /kaggle/input/vin-project/data/data/metadata/test/sample_test_pairs.txt
+test_path: /kaggle/input/vin-project/data/data/test/sv_vlsp_2021/public_test/competition_public_test
+musan_path: /kaggle/input/vin-project/data/data/musan_augment
+rir_path: /kaggle/input/vin-project/data/data/rirs_noises
 output_path: output/testing_results/public_test
-
 
