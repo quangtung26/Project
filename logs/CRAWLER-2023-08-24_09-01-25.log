@@ -1,0 +1,337 @@
+2023-08-24 09:01:36,248 OutlierRemover INFO Detect device: cuda
+2023-08-24 09:01:48,750 Pipeline INFO Start full process
+2023-08-24 09:01:48,770 Pipeline INFO Start downloading videos of voice: Tiệm giày cũ VQ
+2023-08-24 09:01:48,770 Pipeline INFO Url number 1/192
+2023-08-24 09:01:48,771 Pipeline WARNING Skip url https://www.youtube.com/watch?v=tZE5KkTZTT8 because it has finished the process
+2023-08-24 09:01:48,771 Pipeline INFO Url number 2/192
+2023-08-24 09:01:48,771 Pipeline WARNING Skip url https://www.youtube.com/watch?v=-em8iOd_ptY because it has finished the process
+2023-08-24 09:01:48,771 Pipeline INFO Finish processing for voice: Tiệm giày cũ VQ
+2023-08-24 09:01:48,771 Pipeline INFO Start downloading videos of voice: Nguyễn Ngọc Ngạn
+2023-08-24 09:01:48,772 Pipeline INFO Url number 3/192
+2023-08-24 09:01:48,772 Pipeline WARNING Skip url https://www.youtube.com/watch?v=IeDjubTdvXY because it has finished the process
+2023-08-24 09:01:48,772 Pipeline INFO Url number 4/192
+2023-08-24 09:01:48,772 Pipeline WARNING Skip url https://www.youtube.com/watch?v=-7aAnBs8WQc because it has finished the process
+2023-08-24 09:01:48,772 Pipeline INFO Finish processing for voice: Nguyễn Ngọc Ngạn
+2023-08-24 09:01:48,772 Pipeline INFO Start downloading videos of voice: Huy Dao
+2023-08-24 09:01:48,773 Pipeline INFO Url number 5/192
+2023-08-24 09:01:48,773 Pipeline WARNING Skip url https://www.youtube.com/watch?v=BxdMT8NXttY because it has finished the process
+2023-08-24 09:01:48,773 Pipeline INFO Url number 6/192
+2023-08-24 09:01:48,773 Pipeline WARNING Skip url https://www.youtube.com/watch?v=Y3m0_xQ8YPA because it has finished the process
+2023-08-24 09:01:48,773 Pipeline INFO Finish processing for voice: Huy Dao
+2023-08-24 09:01:48,773 Pipeline INFO Start downloading videos of voice: meowisthebest
+2023-08-24 09:01:48,773 Pipeline INFO Url number 7/192
+2023-08-24 09:01:48,774 Pipeline WARNING Skip url https://www.youtube.com/watch?v=7v1pFab1FJ8 because it has finished the process
+2023-08-24 09:01:48,774 Pipeline INFO Url number 8/192
+2023-08-24 09:01:48,774 Pipeline WARNING Skip url https://www.youtube.com/watch?v=BL3uhL60rfQ because it has finished the process
+2023-08-24 09:01:48,774 Pipeline INFO Url number 9/192
+2023-08-24 09:01:48,774 Pipeline WARNING Skip url https://www.youtube.com/watch?v=SbxPsd9H8Ws&t=128s because it has finished the process
+2023-08-24 09:01:48,774 Pipeline INFO Url number 10/192
+2023-08-24 09:01:48,775 Pipeline WARNING Skip url https://www.youtube.com/watch?v=SSmhydiVn2s because it has finished the process
+2023-08-24 09:01:48,775 Pipeline INFO Finish processing for voice: meowisthebest
+2023-08-24 09:01:48,775 Pipeline INFO Start downloading videos of voice: Ngọc Yakult
+2023-08-24 09:01:48,775 Pipeline INFO Url number 11/192
+2023-08-24 09:01:48,776 Pipeline WARNING Skip url https://www.youtube.com/watch?v=AqAZQJFLD-g because it has finished the process
+2023-08-24 09:01:48,776 Pipeline INFO Url number 12/192
+2023-08-24 09:01:48,776 Pipeline WARNING Skip url https://www.youtube.com/watch?v=_uDIe7wGTUM because it has finished the process
+2023-08-24 09:01:48,776 Pipeline INFO Url number 13/192
+2023-08-24 09:01:48,777 Pipeline WARNING Skip url https://www.youtube.com/watch?v=4225gWu9cGE because it has finished the process
+2023-08-24 09:01:48,777 Pipeline INFO Url number 14/192
+2023-08-24 09:01:48,777 Pipeline WARNING Skip url https://www.youtube.com/watch?v=XjUmgttLhCE because it has finished the process
+2023-08-24 09:01:48,777 Pipeline INFO Url number 15/192
+2023-08-24 09:01:48,777 Pipeline WARNING Skip url https://www.youtube.com/watch?v=mS-jZt1VzAo&t=6s because it has finished the process
+2023-08-24 09:01:48,777 Pipeline INFO Url number 16/192
+2023-08-24 09:01:48,778 Pipeline WARNING Skip url https://www.youtube.com/watch?v=46MKGUYekBs because it has finished the process
+2023-08-24 09:01:48,778 Pipeline INFO Url number 17/192
+2023-08-24 09:01:48,778 Pipeline WARNING Skip url https://www.youtube.com/watch?v=VwhJfC4ex_c because it has finished the process
+2023-08-24 09:01:48,778 Pipeline INFO Url number 18/192
+2023-08-24 09:01:48,778 Pipeline WARNING Skip url https://www.youtube.com/watch?v=g3aPx0FF2Bs because it has finished the process
+2023-08-24 09:01:48,778 Pipeline INFO Url number 19/192
+2023-08-24 09:01:48,778 Pipeline WARNING Skip url https://www.youtube.com/watch?v=cYM5OV2etes because it has finished the process
+2023-08-24 09:01:48,778 Pipeline INFO Url number 20/192
+2023-08-24 09:01:48,778 Pipeline WARNING Skip url https://www.youtube.com/watch?v=RqEpSj4c7MU because it has finished the process
+2023-08-24 09:01:48,778 Pipeline INFO Url number 21/192
+2023-08-24 09:01:48,779 Pipeline WARNING Skip url https://www.youtube.com/watch?v=JsEU16KhsjA because it has finished the process
+2023-08-24 09:01:48,779 Pipeline INFO Url number 22/192
+2023-08-24 09:01:48,779 Pipeline WARNING Skip url https://www.youtube.com/watch?v=rQCLLZQHXYg because it has finished the process
+2023-08-24 09:01:48,779 Pipeline INFO Url number 23/192
+2023-08-24 09:01:48,779 Pipeline WARNING Skip url https://www.youtube.com/watch?v=6g7jbIbOCHw because it has finished the process
+2023-08-24 09:01:48,779 Pipeline INFO Url number 24/192
+2023-08-24 09:01:48,779 Pipeline WARNING Skip url https://www.youtube.com/watch?v=XYo3rxMN3DY because it has finished the process
+2023-08-24 09:01:48,779 Pipeline INFO Url number 25/192
+2023-08-24 09:01:48,779 Pipeline WARNING Skip url https://www.youtube.com/watch?v=wlhzF-4sfB4 because it has finished the process
+2023-08-24 09:01:48,779 Pipeline INFO Url number 26/192
+2023-08-24 09:01:48,780 Pipeline WARNING Skip url https://www.youtube.com/watch?v=kg4fDelk8Cc because it has finished the process
+2023-08-24 09:01:48,780 Pipeline INFO Url number 27/192
+2023-08-24 09:01:48,780 Pipeline WARNING Skip url https://www.youtube.com/watch?v=pxyfeAw14_U because it has finished the process
+2023-08-24 09:01:48,780 Pipeline INFO Url number 28/192
+2023-08-24 09:01:48,780 Pipeline WARNING Skip url https://www.youtube.com/watch?v=Xei1z7TOtPM because it has finished the process
+2023-08-24 09:01:48,780 Pipeline INFO Finish processing for voice: Ngọc Yakult
+2023-08-24 09:01:48,780 Pipeline INFO Start downloading videos of voice: Bảo Châu Mobile
+2023-08-24 09:01:48,780 Pipeline INFO Url number 29/192
+2023-08-24 09:01:48,780 Pipeline WARNING Skip url https://www.youtube.com/watch?v=OcxLiRYqJ2I because it has finished the process
+2023-08-24 09:01:48,780 Pipeline INFO Url number 30/192
+2023-08-24 09:01:48,780 Pipeline WARNING Skip url https://www.youtube.com/watch?v=AyClbHM4llM because it has finished the process
+2023-08-24 09:01:48,780 Pipeline INFO Finish processing for voice: Bảo Châu Mobile
+2023-08-24 09:01:48,781 Pipeline INFO Start downloading videos of voice: Tun Cảm Ơn
+2023-08-24 09:01:48,781 Pipeline INFO Url number 31/192
+2023-08-24 09:01:48,781 Pipeline WARNING Skip url https://www.youtube.com/watch?v=odjCDVBCepU because it has finished the process
+2023-08-24 09:01:48,781 Pipeline INFO Finish processing for voice: Tun Cảm Ơn
+2023-08-24 09:01:48,781 Pipeline INFO Start downloading videos of voice: Minh Niệm
+2023-08-24 09:01:48,781 Pipeline INFO Url number 32/192
+2023-08-24 09:01:48,781 Pipeline WARNING Skip url https://www.youtube.com/watch?v=Nv5xNrbPhF0 because it has finished the process
+2023-08-24 09:01:48,781 Pipeline INFO Finish processing for voice: Minh Niệm
+2023-08-24 09:01:48,781 Pipeline INFO Start downloading videos of voice: Thái Hoàng Phi
+2023-08-24 09:01:48,781 Pipeline INFO Url number 33/192
+2023-08-24 09:01:48,781 Pipeline WARNING Skip url https://www.youtube.com/watch?v=xFYA-ZOuzwo because it has finished the process
+2023-08-24 09:01:48,781 Pipeline INFO Finish processing for voice: Thái Hoàng Phi
+2023-08-24 09:01:48,781 Pipeline INFO Start downloading videos of voice: The Hanoi Chamomile
+2023-08-24 09:01:48,781 Pipeline INFO Url number 34/192
+2023-08-24 09:01:48,781 Pipeline WARNING Skip url https://www.youtube.com/watch?v=4AIhLv-qtYk because it has finished the process
+2023-08-24 09:01:48,781 Pipeline INFO Url number 35/192
+2023-08-24 09:01:48,782 Pipeline WARNING Skip url https://www.youtube.com/watch?v=f8NHXvf4ms0 because it has finished the process
+2023-08-24 09:01:48,782 Pipeline INFO Finish processing for voice: The Hanoi Chamomile
+2023-08-24 09:01:48,782 Pipeline INFO Start downloading videos of voice: Web5ngay
+2023-08-24 09:01:48,782 Pipeline INFO Url number 36/192
+2023-08-24 09:01:48,782 Pipeline WARNING Skip url https://www.youtube.com/watch?v=yu3Y3wv3nZk because it has finished the process
+2023-08-24 09:01:48,782 Pipeline INFO Finish processing for voice: Web5ngay
+2023-08-24 09:01:48,782 Pipeline INFO Start downloading videos of voice: Hieu Nguyen (Hieu TV)
+2023-08-24 09:01:48,782 Pipeline INFO Url number 37/192
+2023-08-24 09:01:48,782 Pipeline WARNING Skip url https://www.youtube.com/watch?v=PSsM0K7O5_0 because it has finished the process
+2023-08-24 09:01:48,782 Pipeline INFO Finish processing for voice: Hieu Nguyen (Hieu TV)
+2023-08-24 09:01:48,782 Pipeline INFO Start downloading videos of voice: Duy Thanh Nguyen
+2023-08-24 09:01:48,782 Pipeline INFO Url number 38/192
+2023-08-24 09:01:48,782 Pipeline WARNING Skip url https://www.youtube.com/watch?v=0hJlVqNrnIo because it has finished the process
+2023-08-24 09:01:48,782 Pipeline INFO Finish processing for voice: Duy Thanh Nguyen
+2023-08-24 09:01:48,782 Pipeline INFO Start downloading videos of voice: The Present Writer
+2023-08-24 09:01:48,782 Pipeline INFO Url number 39/192
+2023-08-24 09:01:48,782 Pipeline WARNING Skip url https://www.youtube.com/watch?v=dGLFthZoKeo because it has finished the process
+2023-08-24 09:01:48,783 Pipeline INFO Finish processing for voice: The Present Writer
+2023-08-24 09:01:48,783 Pipeline INFO Start downloading videos of voice: Fonos (Nguyễn Phi Yến)
+2023-08-24 09:01:48,783 Pipeline INFO Url number 40/192
+2023-08-24 09:01:48,783 Pipeline WARNING Skip url https://www.youtube.com/watch?v=c0GMAhY0s5E because it has finished the process
+2023-08-24 09:01:48,783 Pipeline INFO Finish processing for voice: Fonos (Nguyễn Phi Yến)
+2023-08-24 09:01:48,783 Pipeline INFO Start downloading videos of voice: MYSU - Thy Thanh Pham
+2023-08-24 09:01:48,783 Pipeline INFO Url number 41/192
+2023-08-24 09:01:48,783 Pipeline WARNING Skip url https://www.youtube.com/watch?v=pMgUikrV3mQ because it has finished the process
+2023-08-24 09:01:48,783 Pipeline INFO Finish processing for voice: MYSU - Thy Thanh Pham
+2023-08-24 09:01:48,783 Pipeline INFO Start downloading videos of voice: Chuyện ma chú 3 Duy
+2023-08-24 09:01:48,783 Pipeline INFO Url number 42/192
+2023-08-24 09:01:48,784 Pipeline WARNING Skip url https://www.youtube.com/watch?v=00cRV9NTU0s because it has finished the process
+2023-08-24 09:01:48,784 Pipeline INFO Finish processing for voice: Chuyện ma chú 3 Duy
+2023-08-24 09:01:48,784 Pipeline INFO Start downloading videos of voice: Gia Huy Su Su
+2023-08-24 09:01:48,784 Pipeline INFO Url number 43/192
+2023-08-24 09:01:48,784 Pipeline WARNING Skip url https://www.youtube.com/watch?v=nDmlOrTc-IM because it has finished the process
+2023-08-24 09:01:48,784 Pipeline INFO Url number 44/192
+2023-08-24 09:01:48,784 Pipeline WARNING Skip url https://www.youtube.com/watch?v=w3w5d8s5QO8 because it has finished the process
+2023-08-24 09:01:48,784 Pipeline INFO Finish processing for voice: Gia Huy Su Su
+2023-08-24 09:01:48,784 Pipeline INFO Start downloading videos of voice: Phạm Thoại
+2023-08-24 09:01:48,785 Pipeline INFO Url number 45/192
+2023-08-24 09:01:48,785 Pipeline WARNING Skip url https://www.youtube.com/watch?v=rKR8S3SFCfs because it has finished the process
+2023-08-24 09:01:48,785 Pipeline INFO Finish processing for voice: Phạm Thoại
+2023-08-24 09:01:48,785 Pipeline INFO Start downloading videos of voice: Tuấn Luxury
+2023-08-24 09:01:48,785 Pipeline INFO Url number 46/192
+2023-08-24 09:01:48,785 Pipeline WARNING Skip url https://www.youtube.com/watch?v=TLb4D8HjEkE because it has finished the process
+2023-08-24 09:01:48,785 Pipeline INFO Finish processing for voice: Tuấn Luxury
+2023-08-24 09:01:48,785 Pipeline INFO Start downloading videos of voice: Anna Bắc Giang
+2023-08-24 09:01:48,786 Pipeline INFO Url number 47/192
+2023-08-24 09:01:48,786 Pipeline WARNING Skip url https://www.youtube.com/watch?v=9MnfHAjmrV4 because it has finished the process
+2023-08-24 09:01:48,786 Pipeline INFO Url number 48/192
+2023-08-24 09:01:48,786 Pipeline WARNING Skip url https://www.youtube.com/watch?v=Y-sqyxEYDQQ because it has finished the process
+2023-08-24 09:01:48,786 Pipeline INFO Finish processing for voice: Anna Bắc Giang
+2023-08-24 09:01:48,786 Pipeline INFO Start downloading videos of voice: ngọc nguyễn
+2023-08-24 09:01:48,786 Pipeline INFO Url number 49/192
+2023-08-24 09:01:48,786 Pipeline WARNING Skip url https://www.youtube.com/watch?v=JgkAW5uTLgo because it has finished the process
+2023-08-24 09:01:48,786 Pipeline INFO Finish processing for voice: ngọc nguyễn
+2023-08-24 09:01:48,787 Pipeline INFO Start downloading videos of voice: Tuấn A7
+2023-08-24 09:01:48,787 Pipeline INFO Url number 50/192
+2023-08-24 09:01:48,787 Pipeline WARNING Skip url https://www.youtube.com/watch?v=P7myE3fGFeM because it has finished the process
+2023-08-24 09:01:48,787 Pipeline INFO Finish processing for voice: Tuấn A7
+2023-08-24 09:01:48,787 Pipeline INFO Start downloading videos of voice: Áo dài Xuân Quỳnh
+2023-08-24 09:01:48,787 Pipeline INFO Url number 51/192
+2023-08-24 09:01:48,787 Pipeline WARNING Skip url https://www.youtube.com/watch?v=BIRNMSqgjj4 because it has finished the process
+2023-08-24 09:01:48,787 Pipeline INFO Finish processing for voice: Áo dài Xuân Quỳnh
+2023-08-24 09:01:48,787 Pipeline INFO Start downloading videos of voice: Phương Hằng
+2023-08-24 09:01:48,787 Pipeline INFO Url number 52/192
+2023-08-24 09:01:48,787 Pipeline WARNING Skip url https://www.youtube.com/watch?v=Txd1HCUdOH8 because it has finished the process
+2023-08-24 09:01:48,787 Pipeline INFO Finish processing for voice: Phương Hằng
+2023-08-24 09:01:48,787 Pipeline INFO Start downloading videos of voice: Giới thượng lưu
+2023-08-24 09:01:48,788 Pipeline INFO Url number 53/192
+2023-08-24 09:01:48,788 Pipeline WARNING Skip url https://www.youtube.com/watch?v=xF2iBJDAlqo because it has finished the process
+2023-08-24 09:01:48,788 Pipeline INFO Url number 54/192
+2023-08-24 09:01:48,788 Pipeline WARNING Skip url https://www.youtube.com/watch?v=GGFUgyWwW20 because it has finished the process
+2023-08-24 09:01:48,788 Pipeline INFO Finish processing for voice: Giới thượng lưu
+2023-08-24 09:01:48,788 Pipeline INFO Start downloading videos of voice: Jenn Le
+2023-08-24 09:01:48,788 Pipeline INFO Url number 55/192
+2023-08-24 09:01:48,788 Pipeline WARNING Skip url https://www.youtube.com/watch?v=kcShWMmFOIo because it has finished the process
+2023-08-24 09:01:48,788 Pipeline INFO Url number 56/192
+2023-08-24 09:01:48,788 Pipeline WARNING Skip url https://www.youtube.com/watch?v=UrsUYEP49f8 because it has finished the process
+2023-08-24 09:01:48,788 Pipeline INFO Finish processing for voice: Jenn Le
+2023-08-24 09:01:48,789 Pipeline INFO Start downloading videos of voice: Tài chính và kinh doanh
+2023-08-24 09:01:48,789 Pipeline INFO Url number 57/192
+2023-08-24 09:01:48,789 Pipeline WARNING Skip url https://www.youtube.com/watch?v=_MXy4GZkZPg because it has finished the process
+2023-08-24 09:01:48,789 Pipeline INFO Url number 58/192
+2023-08-24 09:01:48,789 Pipeline WARNING Skip url https://www.youtube.com/watch?v=J0MBSUMZOj4 because it has finished the process
+2023-08-24 09:01:48,789 Pipeline INFO Finish processing for voice: Tài chính và kinh doanh
+2023-08-24 09:01:48,789 Pipeline INFO Start downloading videos of voice: Helen Bartender Channel
+2023-08-24 09:01:48,789 Pipeline INFO Url number 59/192
+2023-08-24 09:01:48,789 Pipeline WARNING Skip url https://www.youtube.com/watch?v=fOLAP52SP7k because it has finished the process
+2023-08-24 09:01:48,789 Pipeline INFO Url number 60/192
+2023-08-24 09:01:48,790 Pipeline WARNING Skip url https://www.youtube.com/watch?v=jdZNz141LEU because it has finished the process
+2023-08-24 09:01:48,790 Pipeline INFO Finish processing for voice: Helen Bartender Channel
+2023-08-24 09:01:48,790 Pipeline INFO Start downloading videos of voice: Linh Kona
+2023-08-24 09:01:48,790 Pipeline INFO Url number 61/192
+2023-08-24 09:01:48,790 Pipeline WARNING Skip url https://www.youtube.com/watch?v=_nbZDyeAdeY because it has finished the process
+2023-08-24 09:01:48,790 Pipeline INFO Url number 62/192
+2023-08-24 09:01:48,790 Pipeline WARNING Skip url https://www.youtube.com/watch?v=TsWJUsPOikU because it has finished the process
+2023-08-24 09:01:48,790 Pipeline INFO Finish processing for voice: Linh Kona
+2023-08-24 09:01:48,790 Pipeline INFO Start downloading videos of voice: Andrew Bay Bổng
+2023-08-24 09:01:48,790 Pipeline INFO Url number 63/192
+2023-08-24 09:01:48,791 Pipeline WARNING Skip url https://www.youtube.com/watch?v=GogSJGbG4vE because it has finished the process
+2023-08-24 09:01:48,791 Pipeline INFO Url number 64/192
+2023-08-24 09:01:48,791 Pipeline WARNING Skip url https://www.youtube.com/watch?v=iMn0U6IWeq0 because it has finished the process
+2023-08-24 09:01:48,791 Pipeline INFO Finish processing for voice: Andrew Bay Bổng
+2023-08-24 09:01:48,791 Pipeline INFO Start downloading videos of voice: Cường Auto
+2023-08-24 09:01:48,791 Pipeline INFO Url number 65/192
+2023-08-24 09:01:48,791 Pipeline WARNING Skip url https://www.youtube.com/watch?v=fSmpSt0z8zU because it has finished the process
+2023-08-24 09:01:48,791 Pipeline INFO Url number 66/192
+2023-08-24 09:01:48,791 Pipeline WARNING Skip url https://www.youtube.com/watch?v=CHkgc-Bbwfo because it has finished the process
+2023-08-24 09:01:48,792 Pipeline INFO Finish processing for voice: Cường Auto
+2023-08-24 09:01:48,792 Pipeline INFO Start downloading videos of voice: Cô Tiếng Tử Vi
+2023-08-24 09:01:48,792 Pipeline INFO Url number 67/192
+2023-08-24 09:01:48,792 Pipeline WARNING Skip url https://www.youtube.com/watch?v=pEhndSwnWh0 because it has finished the process
+2023-08-24 09:01:48,792 Pipeline INFO Finish processing for voice: Cô Tiếng Tử Vi
+2023-08-24 09:01:48,792 Pipeline INFO Start downloading videos of voice: Tần Nguyễn
+2023-08-24 09:01:48,792 Pipeline INFO Url number 68/192
+2023-08-24 09:01:48,792 Pipeline WARNING Skip url https://www.youtube.com/watch?v=jhrjbvYasq8 because it has finished the process
+2023-08-24 09:01:48,792 Pipeline INFO Finish processing for voice: Tần Nguyễn
+2023-08-24 09:01:48,792 Pipeline INFO Start downloading videos of voice: Thanh Pahm
+2023-08-24 09:01:48,792 Pipeline INFO Url number 69/192
+2023-08-24 09:01:48,793 Pipeline WARNING Skip url https://www.youtube.com/watch?v=NgLqkRmwgJM because it has finished the process
+2023-08-24 09:01:48,793 Pipeline INFO Finish processing for voice: Thanh Pahm
+2023-08-24 09:01:48,793 Pipeline INFO Start downloading videos of voice: Chu Đặng Phú
+2023-08-24 09:01:48,793 Pipeline INFO Url number 70/192
+2023-08-24 09:01:48,793 Pipeline WARNING Skip url https://www.youtube.com/watch?v=ToE4qW4W5oE because it has finished the process
+2023-08-24 09:01:48,793 Pipeline INFO Url number 71/192
+2023-08-24 09:01:48,793 Pipeline WARNING Skip url https://www.youtube.com/watch?v=IdW1GLf9dqs because it has finished the process
+2023-08-24 09:01:48,793 Pipeline INFO Finish processing for voice: Chu Đặng Phú
+2023-08-24 09:01:48,793 Pipeline INFO Start downloading videos of voice: MC Thu Huệ
+2023-08-24 09:01:48,793 Pipeline INFO Url number 72/192
+2023-08-24 09:01:48,793 Pipeline WARNING Skip url https://www.youtube.com/watch?v=Xg0wK0fFhh4 because it has finished the process
+2023-08-24 09:01:48,793 Pipeline INFO Finish processing for voice: MC Thu Huệ
+2023-08-24 09:01:48,793 Pipeline INFO Start downloading videos of voice: Thầy Thích Pháp Hòa
+2023-08-24 09:01:48,794 Pipeline INFO Url number 73/192
+2023-08-24 09:01:48,794 Pipeline WARNING Skip url https://www.youtube.com/watch?v=tCyjPuF-Pzk because it has finished the process
+2023-08-24 09:01:48,794 Pipeline INFO Finish processing for voice: Thầy Thích Pháp Hòa
+2023-08-24 09:01:48,794 Pipeline INFO Start downloading videos of voice: Truyện Ma Bẻ Lái
+2023-08-24 09:01:48,794 Pipeline INFO Url number 74/192
+2023-08-24 09:01:48,794 Pipeline WARNING Skip url https://www.youtube.com/watch?v=09fOyv5HCOU because it has finished the process
+2023-08-24 09:01:48,794 Pipeline INFO Finish processing for voice: Truyện Ma Bẻ Lái
+2023-08-24 09:01:48,794 Pipeline INFO Start downloading videos of voice: Trần Thịnh Lâm
+2023-08-24 09:01:48,794 Pipeline INFO Url number 75/192
+2023-08-24 09:01:48,795 Pipeline WARNING Skip url https://www.youtube.com/watch?v=w0eb3PzaAkI because it has finished the process
+2023-08-24 09:01:48,795 Pipeline INFO Url number 76/192
+2023-08-24 09:01:48,795 Pipeline WARNING Skip url https://www.youtube.com/watch?v=lIV4rKCcc7s because it has finished the process
+2023-08-24 09:01:48,795 Pipeline INFO Finish processing for voice: Trần Thịnh Lâm
+2023-08-24 09:01:48,795 Pipeline INFO Start downloading videos of voice: Big Man Marketing
+2023-08-24 09:01:48,795 Pipeline INFO Url number 77/192
+2023-08-24 09:01:48,795 Pipeline WARNING Skip url https://www.youtube.com/watch?v=O4z1_-zm0Oc because it has finished the process
+2023-08-24 09:01:48,795 Pipeline INFO Url number 78/192
+2023-08-24 09:01:48,795 Pipeline WARNING Skip url https://www.youtube.com/watch?v=Zfxhylmh74Q because it has finished the process
+2023-08-24 09:01:48,796 Pipeline INFO Finish processing for voice: Big Man Marketing
+2023-08-24 09:01:48,796 Pipeline INFO Start downloading videos of voice: Huỳnh Duy Khương
+2023-08-24 09:01:48,796 Pipeline INFO Url number 79/192
+2023-08-24 09:01:48,796 Pipeline WARNING Skip url https://www.youtube.com/watch?v=SXZfVFmM898 because it has finished the process
+2023-08-24 09:01:48,796 Pipeline INFO Finish processing for voice: Huỳnh Duy Khương
+2023-08-24 09:01:48,796 Pipeline INFO Start downloading videos of voice: From Sue
+2023-08-24 09:01:48,796 Pipeline INFO Url number 80/192
+2023-08-24 09:01:48,796 Pipeline WARNING Skip url https://www.youtube.com/watch?v=ZRKa3tb6M4w because it has finished the process
+2023-08-24 09:01:48,796 Pipeline INFO Finish processing for voice: From Sue
+2023-08-24 09:01:48,796 Pipeline INFO Start downloading videos of voice: Lê Thiên Công Official
+2023-08-24 09:01:48,797 Pipeline INFO Url number 81/192
+2023-08-24 09:01:48,797 Pipeline WARNING Skip url https://www.youtube.com/watch?v=oBXzhoC2PoE because it has finished the process
+2023-08-24 09:01:48,797 Pipeline INFO Url number 82/192
+2023-08-24 09:01:48,797 Pipeline WARNING Skip url https://www.youtube.com/watch?v=WXTrAJNPHjM because it has finished the process
+2023-08-24 09:01:48,797 Pipeline INFO Finish processing for voice: Lê Thiên Công Official
+2023-08-24 09:01:48,797 Pipeline INFO Start downloading videos of voice: Mây Xanh
+2023-08-24 09:01:48,797 Pipeline INFO Url number 83/192
+2023-08-24 09:01:48,797 Pipeline WARNING Skip url https://www.youtube.com/watch?v=LhPl6ZnY2tg because it has finished the process
+2023-08-24 09:01:48,797 Pipeline INFO Url number 84/192
+2023-08-24 09:01:48,797 Pipeline WARNING Skip url https://www.youtube.com/watch?v=dI0KZaReBTM because it has finished the process
+2023-08-24 09:01:48,798 Pipeline INFO Finish processing for voice: Mây Xanh
+2023-08-24 09:01:48,798 Pipeline INFO Start downloading videos of voice: Gió Mây
+2023-08-24 09:01:48,798 Pipeline INFO Url number 85/192
+2023-08-24 09:01:48,798 Pipeline WARNING Skip url https://www.youtube.com/watch?v=6SzPPi9tipk because it has finished the process
+2023-08-24 09:01:48,798 Pipeline INFO Finish processing for voice: Gió Mây
+2023-08-24 09:01:48,798 Pipeline INFO Start downloading videos of voice: Lê Chí Linh
+2023-08-24 09:01:48,798 Pipeline INFO Url number 86/192
+2023-08-24 09:01:48,798 Pipeline WARNING Skip url https://www.youtube.com/watch?v=GSrPfuDThGs because it has finished the process
+2023-08-24 09:01:48,798 Pipeline INFO Finish processing for voice: Lê Chí Linh
+2023-08-24 09:01:48,798 Pipeline INFO Start downloading videos of voice: Trần Minh Phương Thảo
+2023-08-24 09:01:48,798 Pipeline INFO Url number 87/192
+2023-08-24 09:01:48,799 Pipeline WARNING Skip url https://www.youtube.com/watch?v=XcOSqRAqM2E because it has finished the process
+2023-08-24 09:01:48,799 Pipeline INFO Url number 88/192
+2023-08-24 09:01:48,799 Pipeline WARNING Skip url https://www.youtube.com/watch?v=Ny3hHykLdSc because it has finished the process
+2023-08-24 09:01:48,799 Pipeline INFO Finish processing for voice: Trần Minh Phương Thảo
+2023-08-24 09:01:48,799 Pipeline INFO Start downloading videos of voice: Chau Khanh Linh
+2023-08-24 09:01:48,799 Pipeline INFO Url number 89/192
+2023-08-24 09:01:48,799 Pipeline WARNING Skip url https://www.youtube.com/watch?v=exh3VAKXZ88 because it has finished the process
+2023-08-24 09:01:48,799 Pipeline INFO Url number 90/192
+2023-08-24 09:01:48,799 Pipeline WARNING Skip url https://www.youtube.com/watch?v=mm8iNLvIoiU because it has finished the process
+2023-08-24 09:01:48,799 Pipeline INFO Finish processing for voice: Chau Khanh Linh
+2023-08-24 09:01:48,799 Pipeline INFO Start downloading videos of voice: Minh Xin Chao
+2023-08-24 09:01:48,800 Pipeline INFO Url number 91/192
+2023-08-24 09:01:48,800 Pipeline WARNING Skip url https://www.youtube.com/watch?v=QawcQYsT0d0 because it has finished the process
+2023-08-24 09:01:48,800 Pipeline INFO Finish processing for voice: Minh Xin Chao
+2023-08-24 09:01:48,800 Pipeline INFO Start downloading videos of voice: Nguyen Tien Dung
+2023-08-24 09:01:48,800 Pipeline INFO Url number 92/192
+2023-08-24 09:01:48,800 Pipeline WARNING Skip url https://www.youtube.com/watch?v=92ThzbiM5XY because it has finished the process
+2023-08-24 09:01:48,800 Pipeline INFO Url number 93/192
+2023-08-24 09:01:48,801 Pipeline WARNING Skip url https://www.youtube.com/watch?v=mZmJusmjVtk because it has finished the process
+2023-08-24 09:01:48,801 Pipeline INFO Finish processing for voice: Nguyen Tien Dung
+2023-08-24 09:01:48,801 Pipeline INFO Start downloading videos of voice: Dieu Nguyen
+2023-08-24 09:01:48,801 Pipeline INFO Url number 94/192
+2023-08-24 09:01:48,801 Pipeline WARNING Skip url https://www.youtube.com/watch?v=0vJ8Gr8Vno4 because it has finished the process
+2023-08-24 09:01:48,801 Pipeline INFO Url number 95/192
+2023-08-24 09:01:48,801 Pipeline WARNING Skip url https://www.youtube.com/watch?v=XshK7sWQCdE because it has finished the process
+2023-08-24 09:01:48,801 Pipeline INFO Finish processing for voice: Dieu Nguyen
+2023-08-24 09:01:48,801 Pipeline INFO Start downloading videos of voice: Dưa Leo
+2023-08-24 09:01:48,801 Pipeline INFO Url number 96/192
+2023-08-24 09:01:48,802 Pipeline WARNING Skip url https://www.youtube.com/watch?v=rM9DvJehcwo because it has finished the process
+2023-08-24 09:01:48,802 Pipeline INFO Finish processing for voice: Dưa Leo
+2023-08-24 09:01:48,802 Pipeline INFO Start downloading videos of voice: Đất Rồng Audio - Truyện ma Nguyễn Huy
+2023-08-24 09:01:48,802 Pipeline INFO Url number 97/192
+2023-08-24 09:01:48,802 Pipeline WARNING Skip url https://www.youtube.com/watch?v=ZlHSwJfIK98 because it has finished the process
+2023-08-24 09:01:48,802 Pipeline INFO Finish processing for voice: Đất Rồng Audio - Truyện ma Nguyễn Huy
+2023-08-24 09:01:48,802 Pipeline INFO Start downloading videos of voice: Radio Đêm - MC Thu Huệ
+2023-08-24 09:01:48,802 Pipeline INFO Url number 98/192
+2023-08-24 09:01:48,802 Pipeline WARNING Skip url https://www.youtube.com/watch?v=3rSbGW6A_S8 because it has finished the process
+2023-08-24 09:01:48,802 Pipeline INFO Finish processing for voice: Radio Đêm - MC Thu Huệ
+2023-08-24 09:01:48,803 Pipeline INFO Start downloading videos of voice: Blog Radio - hoanghiep7395
+2023-08-24 09:01:48,803 Pipeline INFO Url number 99/192
+2023-08-24 09:01:48,803 Pipeline WARNING Skip url https://www.youtube.com/watch?v=4FH61ytTKaI because it has finished the process
+2023-08-24 09:01:48,803 Pipeline INFO Finish processing for voice: Blog Radio - hoanghiep7395
+2023-08-24 09:01:48,803 Pipeline INFO Start downloading videos of voice: JhGo Channel
+2023-08-24 09:01:48,803 Pipeline INFO Url number 100/192
+2023-08-24 09:01:48,803 Pipeline WARNING Skip url https://www.youtube.com/watch?v=ociuU1zmcAU because it has finished the process
+2023-08-24 09:01:48,803 Pipeline INFO Url number 101/192
+2023-08-24 09:01:48,803 Pipeline WARNING Skip url https://www.youtube.com/watch?v=3qF9uNZbIWo because it has finished the process
+2023-08-24 09:01:48,803 Pipeline INFO Finish processing for voice: JhGo Channel
+2023-08-24 09:01:48,804 Pipeline INFO Start downloading videos of voice: Chị Dậu - MC Tâm An
+2023-08-24 09:01:48,804 Pipeline INFO Url number 102/192
+2023-08-24 09:01:48,804 Pipeline WARNING Skip url https://www.youtube.com/watch?v=Aqj5wLuBxJk because it has finished the process
+2023-08-24 09:01:48,804 Pipeline INFO Finish processing for voice: Chị Dậu - MC Tâm An
+2023-08-24 09:01:48,804 Pipeline INFO Start downloading videos of voice: Truyện Ngôn Tình Havala - MC Hà Thu
+2023-08-24 09:01:48,804 Pipeline INFO Url number 103/192
+2023-08-24 09:01:48,804 Pipeline WARNING Skip url https://www.youtube.com/watch?v=C0OXey02MYc because it has finished the process
+2023-08-24 09:01:48,804 Pipeline INFO Finish processing for voice: Truyện Ngôn Tình Havala - MC Hà Thu
+2023-08-24 09:01:48,804 Pipeline INFO Start downloading videos of voice: Nghe Audio Truyện Ngôn Tình - MC Huệ Leo
+2023-08-24 09:01:48,805 Pipeline INFO Url number 104/192
+2023-08-24 09:01:48,805 Pipeline WARNING Skip url https://www.youtube.com/watch?v=kTWC4kLvHhc because it has finished the process
+2023-08-24 09:01:48,805 Pipeline INFO Finish processing for voice: Nghe Audio Truyện Ngôn Tình - MC Huệ Leo
+2023-08-24 09:01:48,805 Pipeline INFO Start downloading videos of voice: Văn Học Bốn Phương - MC Lê Thu Cúc
+2023-08-24 09:01:48,805 Pipeline INFO Url number 105/192
+2023-08-24 09:01:48,805 Pipeline WARNING Skip url https://www.youtube.com/watch?v=-4VSVPIz2ms because it has finished the process
+2023-08-24 09:01:48,805 Pipeline INFO Finish processing for voice: Văn Học Bốn Phương - MC Lê Thu Cúc
+2023-08-24 09:01:48,805 Pipeline INFO Start downloading videos of voice: Kho Sách Nói Hay - MC Thảo Nguyên
+2023-08-24 09:01:48,805 Pipeline WARNING Create directory data/train/Kho Sách Nói Hay - MC Thảo Nguyên
+2023-08-24 09:01:48,806 Pipeline INFO Url number 106/192

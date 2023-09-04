@@ -1,0 +1,600 @@
+2023-08-24 01:01:57,878 OutlierRemover INFO Detect device: cuda
+2023-08-24 01:02:00,146 Pipeline INFO Start full process
+2023-08-24 01:02:00,152 Pipeline INFO Start downloading videos of voice: Tiệm giày cũ VQ
+2023-08-24 01:02:00,153 Pipeline INFO Url number 1/199
+2023-08-24 01:02:00,153 Pipeline WARNING Skip url https://www.youtube.com/watch?v=tZE5KkTZTT8 because it has finished the process
+2023-08-24 01:02:00,153 Pipeline INFO Url number 2/199
+2023-08-24 01:02:00,153 Pipeline WARNING Skip url https://www.youtube.com/watch?v=-em8iOd_ptY because it has finished the process
+2023-08-24 01:02:00,153 Pipeline INFO Finish processing for voice: Tiệm giày cũ VQ
+2023-08-24 01:02:00,153 Pipeline INFO Start downloading videos of voice: Nguyễn Ngọc Ngạn
+2023-08-24 01:02:00,153 Pipeline INFO Url number 3/199
+2023-08-24 01:02:00,153 Pipeline WARNING Skip url https://www.youtube.com/watch?v=IeDjubTdvXY because it has finished the process
+2023-08-24 01:02:00,153 Pipeline INFO Url number 4/199
+2023-08-24 01:02:00,153 Pipeline WARNING Skip url https://www.youtube.com/watch?v=-7aAnBs8WQc because it has finished the process
+2023-08-24 01:02:00,153 Pipeline INFO Finish processing for voice: Nguyễn Ngọc Ngạn
+2023-08-24 01:02:00,153 Pipeline INFO Start downloading videos of voice: Huy Dao
+2023-08-24 01:02:00,153 Pipeline INFO Url number 5/199
+2023-08-24 01:02:00,154 Pipeline WARNING Skip url https://www.youtube.com/watch?v=BxdMT8NXttY because it has finished the process
+2023-08-24 01:02:00,154 Pipeline INFO Url number 6/199
+2023-08-24 01:02:00,154 Pipeline WARNING Skip url https://www.youtube.com/watch?v=Y3m0_xQ8YPA because it has finished the process
+2023-08-24 01:02:00,154 Pipeline INFO Finish processing for voice: Huy Dao
+2023-08-24 01:02:00,154 Pipeline INFO Start downloading videos of voice: meowisthebest
+2023-08-24 01:02:00,154 Pipeline INFO Url number 7/199
+2023-08-24 01:02:00,154 Pipeline WARNING Skip url https://www.youtube.com/watch?v=7v1pFab1FJ8 because it has finished the process
+2023-08-24 01:02:00,154 Pipeline INFO Url number 8/199
+2023-08-24 01:02:00,154 Pipeline WARNING Skip url https://www.youtube.com/watch?v=BL3uhL60rfQ because it has finished the process
+2023-08-24 01:02:00,154 Pipeline INFO Url number 9/199
+2023-08-24 01:02:00,154 Pipeline WARNING Skip url https://www.youtube.com/watch?v=SbxPsd9H8Ws&t=128s because it has finished the process
+2023-08-24 01:02:00,154 Pipeline INFO Url number 10/199
+2023-08-24 01:02:00,154 Pipeline WARNING Skip url https://www.youtube.com/watch?v=SSmhydiVn2s because it has finished the process
+2023-08-24 01:02:00,154 Pipeline INFO Finish processing for voice: meowisthebest
+2023-08-24 01:02:00,155 Pipeline INFO Start downloading videos of voice: Ngọc Yakult
+2023-08-24 01:02:00,155 Pipeline INFO Url number 11/199
+2023-08-24 01:02:00,155 Pipeline WARNING Skip url https://www.youtube.com/watch?v=AqAZQJFLD-g because it has finished the process
+2023-08-24 01:02:00,155 Pipeline INFO Url number 12/199
+2023-08-24 01:02:00,155 Pipeline WARNING Skip url https://www.youtube.com/watch?v=_uDIe7wGTUM because it has finished the process
+2023-08-24 01:02:00,155 Pipeline INFO Url number 13/199
+2023-08-24 01:02:00,155 Pipeline WARNING Skip url https://www.youtube.com/watch?v=4225gWu9cGE because it has finished the process
+2023-08-24 01:02:00,155 Pipeline INFO Url number 14/199
+2023-08-24 01:02:00,155 Pipeline WARNING Skip url https://www.youtube.com/watch?v=XjUmgttLhCE because it has finished the process
+2023-08-24 01:02:00,155 Pipeline INFO Url number 15/199
+2023-08-24 01:02:00,156 Pipeline WARNING Skip url https://www.youtube.com/watch?v=mS-jZt1VzAo&t=6s because it has finished the process
+2023-08-24 01:02:00,156 Pipeline INFO Url number 16/199
+2023-08-24 01:02:00,156 Pipeline WARNING Skip url https://www.youtube.com/watch?v=46MKGUYekBs because it has finished the process
+2023-08-24 01:02:00,156 Pipeline INFO Url number 17/199
+2023-08-24 01:02:00,156 Pipeline WARNING Skip url https://www.youtube.com/watch?v=VwhJfC4ex_c because it has finished the process
+2023-08-24 01:02:00,156 Pipeline INFO Url number 18/199
+2023-08-24 01:02:00,157 Pipeline WARNING Skip url https://www.youtube.com/watch?v=g3aPx0FF2Bs because it has finished the process
+2023-08-24 01:02:00,157 Pipeline INFO Url number 19/199
+2023-08-24 01:02:00,157 Pipeline WARNING Skip url https://www.youtube.com/watch?v=cYM5OV2etes because it has finished the process
+2023-08-24 01:02:00,157 Pipeline INFO Url number 20/199
+2023-08-24 01:02:00,157 Pipeline WARNING Skip url https://www.youtube.com/watch?v=RqEpSj4c7MU because it has finished the process
+2023-08-24 01:02:00,157 Pipeline INFO Url number 21/199
+2023-08-24 01:02:00,158 Pipeline WARNING Skip url https://www.youtube.com/watch?v=JsEU16KhsjA because it has finished the process
+2023-08-24 01:02:00,158 Pipeline INFO Url number 22/199
+2023-08-24 01:02:00,158 Pipeline WARNING Skip url https://www.youtube.com/watch?v=rQCLLZQHXYg because it has finished the process
+2023-08-24 01:02:00,158 Pipeline INFO Url number 23/199
+2023-08-24 01:02:00,158 Pipeline WARNING Skip url https://www.youtube.com/watch?v=6g7jbIbOCHw because it has finished the process
+2023-08-24 01:02:00,158 Pipeline INFO Url number 24/199
+2023-08-24 01:02:00,159 Pipeline WARNING Skip url https://www.youtube.com/watch?v=XYo3rxMN3DY because it has finished the process
+2023-08-24 01:02:00,159 Pipeline INFO Url number 25/199
+2023-08-24 01:02:00,159 Pipeline WARNING Skip url https://www.youtube.com/watch?v=wlhzF-4sfB4 because it has finished the process
+2023-08-24 01:02:00,159 Pipeline INFO Url number 26/199
+2023-08-24 01:02:00,159 Pipeline WARNING Skip url https://www.youtube.com/watch?v=kg4fDelk8Cc because it has finished the process
+2023-08-24 01:02:00,159 Pipeline INFO Url number 27/199
+2023-08-24 01:02:00,159 Pipeline WARNING Skip url https://www.youtube.com/watch?v=pxyfeAw14_U because it has finished the process
+2023-08-24 01:02:00,160 Pipeline INFO Url number 28/199
+2023-08-24 01:02:00,160 Pipeline WARNING Skip url https://www.youtube.com/watch?v=Xei1z7TOtPM because it has finished the process
+2023-08-24 01:02:00,160 Pipeline INFO Finish processing for voice: Ngọc Yakult
+2023-08-24 01:02:00,160 Pipeline INFO Start downloading videos of voice: Bảo Châu Mobile
+2023-08-24 01:02:00,160 Pipeline INFO Url number 29/199
+2023-08-24 01:02:00,160 Pipeline WARNING Skip url https://www.youtube.com/watch?v=OcxLiRYqJ2I because it has finished the process
+2023-08-24 01:02:00,161 Pipeline INFO Url number 30/199
+2023-08-24 01:02:00,161 Pipeline WARNING Skip url https://www.youtube.com/watch?v=AyClbHM4llM because it has finished the process
+2023-08-24 01:02:00,161 Pipeline INFO Finish processing for voice: Bảo Châu Mobile
+2023-08-24 01:02:00,161 Pipeline INFO Start downloading videos of voice: Tun Cảm Ơn
+2023-08-24 01:02:00,161 Pipeline INFO Url number 31/199
+2023-08-24 01:02:00,161 Pipeline WARNING Skip url https://www.youtube.com/watch?v=odjCDVBCepU because it has finished the process
+2023-08-24 01:02:00,162 Pipeline INFO Finish processing for voice: Tun Cảm Ơn
+2023-08-24 01:02:00,162 Pipeline INFO Start downloading videos of voice: Minh Niệm
+2023-08-24 01:02:00,162 Pipeline INFO Url number 32/199
+2023-08-24 01:02:00,162 Pipeline WARNING Skip url https://www.youtube.com/watch?v=Nv5xNrbPhF0 because it has finished the process
+2023-08-24 01:02:00,162 Pipeline INFO Finish processing for voice: Minh Niệm
+2023-08-24 01:02:00,162 Pipeline INFO Start downloading videos of voice: Thái Hoàng Phi
+2023-08-24 01:02:00,162 Pipeline INFO Url number 33/199
+2023-08-24 01:02:00,163 Pipeline WARNING Skip url https://www.youtube.com/watch?v=xFYA-ZOuzwo because it has finished the process
+2023-08-24 01:02:00,163 Pipeline INFO Finish processing for voice: Thái Hoàng Phi
+2023-08-24 01:02:00,163 Pipeline INFO Start downloading videos of voice: The Hanoi Chamomile
+2023-08-24 01:02:00,163 Pipeline INFO Url number 34/199
+2023-08-24 01:02:00,163 Pipeline WARNING Skip url https://www.youtube.com/watch?v=4AIhLv-qtYk because it has finished the process
+2023-08-24 01:02:00,164 Pipeline INFO Url number 35/199
+2023-08-24 01:02:00,164 Pipeline WARNING Skip url https://www.youtube.com/watch?v=f8NHXvf4ms0 because it has finished the process
+2023-08-24 01:02:00,164 Pipeline INFO Finish processing for voice: The Hanoi Chamomile
+2023-08-24 01:02:00,164 Pipeline INFO Start downloading videos of voice: Web5ngay
+2023-08-24 01:02:00,164 Pipeline INFO Url number 36/199
+2023-08-24 01:02:00,164 Pipeline WARNING Skip url https://www.youtube.com/watch?v=yu3Y3wv3nZk because it has finished the process
+2023-08-24 01:02:00,164 Pipeline INFO Finish processing for voice: Web5ngay
+2023-08-24 01:02:00,164 Pipeline INFO Start downloading videos of voice: Hieu Nguyen (Hieu TV)
+2023-08-24 01:02:00,164 Pipeline INFO Url number 37/199
+2023-08-24 01:02:00,164 Pipeline WARNING Skip url https://www.youtube.com/watch?v=PSsM0K7O5_0 because it has finished the process
+2023-08-24 01:02:00,164 Pipeline INFO Finish processing for voice: Hieu Nguyen (Hieu TV)
+2023-08-24 01:02:00,164 Pipeline INFO Start downloading videos of voice: Duy Thanh Nguyen
+2023-08-24 01:02:00,164 Pipeline INFO Url number 38/199
+2023-08-24 01:02:00,164 Pipeline WARNING Skip url https://www.youtube.com/watch?v=0hJlVqNrnIo because it has finished the process
+2023-08-24 01:02:00,164 Pipeline INFO Finish processing for voice: Duy Thanh Nguyen
+2023-08-24 01:02:00,165 Pipeline INFO Start downloading videos of voice: The Present Writer
+2023-08-24 01:02:00,165 Pipeline INFO Url number 39/199
+2023-08-24 01:02:00,165 Pipeline WARNING Skip url https://www.youtube.com/watch?v=dGLFthZoKeo because it has finished the process
+2023-08-24 01:02:00,165 Pipeline INFO Finish processing for voice: The Present Writer
+2023-08-24 01:02:00,165 Pipeline INFO Start downloading videos of voice: Fonos (Nguyễn Phi Yến)
+2023-08-24 01:02:00,165 Pipeline INFO Url number 40/199
+2023-08-24 01:02:00,165 Pipeline WARNING Skip url https://www.youtube.com/watch?v=c0GMAhY0s5E because it has finished the process
+2023-08-24 01:02:00,165 Pipeline INFO Finish processing for voice: Fonos (Nguyễn Phi Yến)
+2023-08-24 01:02:00,165 Pipeline INFO Start downloading videos of voice: MYSU - Thy Thanh Pham
+2023-08-24 01:02:00,165 Pipeline INFO Url number 41/199
+2023-08-24 01:02:00,165 Pipeline WARNING Skip url https://www.youtube.com/watch?v=pMgUikrV3mQ because it has finished the process
+2023-08-24 01:02:00,165 Pipeline INFO Finish processing for voice: MYSU - Thy Thanh Pham
+2023-08-24 01:02:00,165 Pipeline INFO Start downloading videos of voice: Chuyện ma chú 3 Duy
+2023-08-24 01:02:00,165 Pipeline WARNING Create directory data/train/Chuyện ma chú 3 Duy
+2023-08-24 01:02:00,165 Pipeline INFO Url number 42/199
+2023-08-24 01:02:03,233 Downloader INFO Start downloading audio at https://www.youtube.com/watch?v=00cRV9NTU0s
+2023-08-24 01:02:05,159 Downloader WARNING Rename /home/quantum/python/ml_vin/data/train/Chuyện ma chú 3 Duy/CHUYỆN MA CHÚ 3 DUY  TẬP 127 VỤ CHƠI BÙA CHẤN ĐỘNG TRI TÔN (An Giang).webm to /home/quantum/python/ml_vin/data/train/Chuyện ma chú 3 Duy/CHUYỆN MA CHÚ 3 DUY  TẬP 127 VỤ CHƠI BÙA CHẤN ĐỘNG TRI TÔN (An Giang).mp3
+2023-08-24 01:02:05,160 Downloader INFO Downloaded audio successfully, store at /home/quantum/python/ml_vin/data/train/Chuyện ma chú 3 Duy/CHUYỆN MA CHÚ 3 DUY  TẬP 127 VỤ CHƠI BÙA CHẤN ĐỘNG TRI TÔN (An Giang).mp3
+2023-08-24 01:02:36,456 Downloader INFO Convert into .wav and resample audio
+2023-08-24 01:02:43,353 Downloader INFO Remove /home/quantum/python/ml_vin/data/train/Chuyện ma chú 3 Duy/CHUYỆN MA CHÚ 3 DUY  TẬP 127 VỤ CHƠI BÙA CHẤN ĐỘNG TRI TÔN (An Giang)_trimmed.mp3
+2023-08-24 01:02:43,357 VADProcessor INFO Start running VAD process with file: /home/quantum/python/ml_vin/data/train/Chuyện ma chú 3 Duy/CHUYỆN MA CHÚ 3 DUY  TẬP 127 VỤ CHƠI BÙA CHẤN ĐỘNG TRI TÔN (An Giang)_trimmed.wav
+2023-08-24 01:02:59,127 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Chuyện ma chú 3 Duy/CHUYỆN MA CHÚ 3 DUY  TẬP 127 VỤ CHƠI BÙA CHẤN ĐỘNG TRI TÔN (An Giang)_trimmed/0.wav
+2023-08-24 01:02:59,128 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Chuyện ma chú 3 Duy/CHUYỆN MA CHÚ 3 DUY  TẬP 127 VỤ CHƠI BÙA CHẤN ĐỘNG TRI TÔN (An Giang)_trimmed/1.wav
+2023-08-24 01:02:59,129 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Chuyện ma chú 3 Duy/CHUYỆN MA CHÚ 3 DUY  TẬP 127 VỤ CHƠI BÙA CHẤN ĐỘNG TRI TÔN (An Giang)_trimmed/2.wav
+2023-08-24 01:02:59,131 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Chuyện ma chú 3 Duy/CHUYỆN MA CHÚ 3 DUY  TẬP 127 VỤ CHƠI BÙA CHẤN ĐỘNG TRI TÔN (An Giang)_trimmed/3.wav
+2023-08-24 01:02:59,132 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Chuyện ma chú 3 Duy/CHUYỆN MA CHÚ 3 DUY  TẬP 127 VỤ CHƠI BÙA CHẤN ĐỘNG TRI TÔN (An Giang)_trimmed/4.wav
+2023-08-24 01:02:59,133 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Chuyện ma chú 3 Duy/CHUYỆN MA CHÚ 3 DUY  TẬP 127 VỤ CHƠI BÙA CHẤN ĐỘNG TRI TÔN (An Giang)_trimmed/5.wav
+2023-08-24 01:02:59,135 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Chuyện ma chú 3 Duy/CHUYỆN MA CHÚ 3 DUY  TẬP 127 VỤ CHƠI BÙA CHẤN ĐỘNG TRI TÔN (An Giang)_trimmed/6.wav
+2023-08-24 01:02:59,136 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Chuyện ma chú 3 Duy/CHUYỆN MA CHÚ 3 DUY  TẬP 127 VỤ CHƠI BÙA CHẤN ĐỘNG TRI TÔN (An Giang)_trimmed/7.wav
+2023-08-24 01:02:59,137 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Chuyện ma chú 3 Duy/CHUYỆN MA CHÚ 3 DUY  TẬP 127 VỤ CHƠI BÙA CHẤN ĐỘNG TRI TÔN (An Giang)_trimmed/8.wav
+2023-08-24 01:02:59,139 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Chuyện ma chú 3 Duy/CHUYỆN MA CHÚ 3 DUY  TẬP 127 VỤ CHƠI BÙA CHẤN ĐỘNG TRI TÔN (An Giang)_trimmed/9.wav
+2023-08-24 01:02:59,140 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Chuyện ma chú 3 Duy/CHUYỆN MA CHÚ 3 DUY  TẬP 127 VỤ CHƠI BÙA CHẤN ĐỘNG TRI TÔN (An Giang)_trimmed/10.wav
+2023-08-24 01:02:59,142 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Chuyện ma chú 3 Duy/CHUYỆN MA CHÚ 3 DUY  TẬP 127 VỤ CHƠI BÙA CHẤN ĐỘNG TRI TÔN (An Giang)_trimmed/11.wav
+2023-08-24 01:02:59,143 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Chuyện ma chú 3 Duy/CHUYỆN MA CHÚ 3 DUY  TẬP 127 VỤ CHƠI BÙA CHẤN ĐỘNG TRI TÔN (An Giang)_trimmed/12.wav
+2023-08-24 01:02:59,144 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Chuyện ma chú 3 Duy/CHUYỆN MA CHÚ 3 DUY  TẬP 127 VỤ CHƠI BÙA CHẤN ĐỘNG TRI TÔN (An Giang)_trimmed/13.wav
+2023-08-24 01:02:59,145 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Chuyện ma chú 3 Duy/CHUYỆN MA CHÚ 3 DUY  TẬP 127 VỤ CHƠI BÙA CHẤN ĐỘNG TRI TÔN (An Giang)_trimmed/14.wav
+2023-08-24 01:02:59,147 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Chuyện ma chú 3 Duy/CHUYỆN MA CHÚ 3 DUY  TẬP 127 VỤ CHƠI BÙA CHẤN ĐỘNG TRI TÔN (An Giang)_trimmed/15.wav
+2023-08-24 01:02:59,148 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Chuyện ma chú 3 Duy/CHUYỆN MA CHÚ 3 DUY  TẬP 127 VỤ CHƠI BÙA CHẤN ĐỘNG TRI TÔN (An Giang)_trimmed/16.wav
+2023-08-24 01:02:59,149 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Chuyện ma chú 3 Duy/CHUYỆN MA CHÚ 3 DUY  TẬP 127 VỤ CHƠI BÙA CHẤN ĐỘNG TRI TÔN (An Giang)_trimmed/17.wav
+2023-08-24 01:02:59,150 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Chuyện ma chú 3 Duy/CHUYỆN MA CHÚ 3 DUY  TẬP 127 VỤ CHƠI BÙA CHẤN ĐỘNG TRI TÔN (An Giang)_trimmed/18.wav
+2023-08-24 01:02:59,152 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Chuyện ma chú 3 Duy/CHUYỆN MA CHÚ 3 DUY  TẬP 127 VỤ CHƠI BÙA CHẤN ĐỘNG TRI TÔN (An Giang)_trimmed/19.wav
+2023-08-24 01:02:59,153 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Chuyện ma chú 3 Duy/CHUYỆN MA CHÚ 3 DUY  TẬP 127 VỤ CHƠI BÙA CHẤN ĐỘNG TRI TÔN (An Giang)_trimmed/20.wav
+2023-08-24 01:02:59,154 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Chuyện ma chú 3 Duy/CHUYỆN MA CHÚ 3 DUY  TẬP 127 VỤ CHƠI BÙA CHẤN ĐỘNG TRI TÔN (An Giang)_trimmed/21.wav
+2023-08-24 01:02:59,156 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Chuyện ma chú 3 Duy/CHUYỆN MA CHÚ 3 DUY  TẬP 127 VỤ CHƠI BÙA CHẤN ĐỘNG TRI TÔN (An Giang)_trimmed/22.wav
+2023-08-24 01:02:59,157 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Chuyện ma chú 3 Duy/CHUYỆN MA CHÚ 3 DUY  TẬP 127 VỤ CHƠI BÙA CHẤN ĐỘNG TRI TÔN (An Giang)_trimmed/23.wav
+2023-08-24 01:02:59,158 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Chuyện ma chú 3 Duy/CHUYỆN MA CHÚ 3 DUY  TẬP 127 VỤ CHƠI BÙA CHẤN ĐỘNG TRI TÔN (An Giang)_trimmed/24.wav
+2023-08-24 01:02:59,160 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Chuyện ma chú 3 Duy/CHUYỆN MA CHÚ 3 DUY  TẬP 127 VỤ CHƠI BÙA CHẤN ĐỘNG TRI TÔN (An Giang)_trimmed/25.wav
+2023-08-24 01:02:59,161 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Chuyện ma chú 3 Duy/CHUYỆN MA CHÚ 3 DUY  TẬP 127 VỤ CHƠI BÙA CHẤN ĐỘNG TRI TÔN (An Giang)_trimmed/26.wav
+2023-08-24 01:02:59,163 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Chuyện ma chú 3 Duy/CHUYỆN MA CHÚ 3 DUY  TẬP 127 VỤ CHƠI BÙA CHẤN ĐỘNG TRI TÔN (An Giang)_trimmed/27.wav
+2023-08-24 01:02:59,164 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Chuyện ma chú 3 Duy/CHUYỆN MA CHÚ 3 DUY  TẬP 127 VỤ CHƠI BÙA CHẤN ĐỘNG TRI TÔN (An Giang)_trimmed/28.wav
+2023-08-24 01:02:59,165 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Chuyện ma chú 3 Duy/CHUYỆN MA CHÚ 3 DUY  TẬP 127 VỤ CHƠI BÙA CHẤN ĐỘNG TRI TÔN (An Giang)_trimmed/29.wav
+2023-08-24 01:02:59,167 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Chuyện ma chú 3 Duy/CHUYỆN MA CHÚ 3 DUY  TẬP 127 VỤ CHƠI BÙA CHẤN ĐỘNG TRI TÔN (An Giang)_trimmed/30.wav
+2023-08-24 01:02:59,168 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Chuyện ma chú 3 Duy/CHUYỆN MA CHÚ 3 DUY  TẬP 127 VỤ CHƠI BÙA CHẤN ĐỘNG TRI TÔN (An Giang)_trimmed/31.wav
+2023-08-24 01:02:59,169 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Chuyện ma chú 3 Duy/CHUYỆN MA CHÚ 3 DUY  TẬP 127 VỤ CHƠI BÙA CHẤN ĐỘNG TRI TÔN (An Giang)_trimmed/32.wav
+2023-08-24 01:02:59,171 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Chuyện ma chú 3 Duy/CHUYỆN MA CHÚ 3 DUY  TẬP 127 VỤ CHƠI BÙA CHẤN ĐỘNG TRI TÔN (An Giang)_trimmed/33.wav
+2023-08-24 01:02:59,172 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Chuyện ma chú 3 Duy/CHUYỆN MA CHÚ 3 DUY  TẬP 127 VỤ CHƠI BÙA CHẤN ĐỘNG TRI TÔN (An Giang)_trimmed/34.wav
+2023-08-24 01:02:59,173 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Chuyện ma chú 3 Duy/CHUYỆN MA CHÚ 3 DUY  TẬP 127 VỤ CHƠI BÙA CHẤN ĐỘNG TRI TÔN (An Giang)_trimmed/35.wav
+2023-08-24 01:02:59,175 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Chuyện ma chú 3 Duy/CHUYỆN MA CHÚ 3 DUY  TẬP 127 VỤ CHƠI BÙA CHẤN ĐỘNG TRI TÔN (An Giang)_trimmed/36.wav
+2023-08-24 01:02:59,177 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Chuyện ma chú 3 Duy/CHUYỆN MA CHÚ 3 DUY  TẬP 127 VỤ CHƠI BÙA CHẤN ĐỘNG TRI TÔN (An Giang)_trimmed/37.wav
+2023-08-24 01:02:59,178 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Chuyện ma chú 3 Duy/CHUYỆN MA CHÚ 3 DUY  TẬP 127 VỤ CHƠI BÙA CHẤN ĐỘNG TRI TÔN (An Giang)_trimmed/38.wav
+2023-08-24 01:02:59,179 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Chuyện ma chú 3 Duy/CHUYỆN MA CHÚ 3 DUY  TẬP 127 VỤ CHƠI BÙA CHẤN ĐỘNG TRI TÔN (An Giang)_trimmed/39.wav
+2023-08-24 01:02:59,180 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Chuyện ma chú 3 Duy/CHUYỆN MA CHÚ 3 DUY  TẬP 127 VỤ CHƠI BÙA CHẤN ĐỘNG TRI TÔN (An Giang)_trimmed/40.wav
+2023-08-24 01:02:59,181 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Chuyện ma chú 3 Duy/CHUYỆN MA CHÚ 3 DUY  TẬP 127 VỤ CHƠI BÙA CHẤN ĐỘNG TRI TÔN (An Giang)_trimmed/41.wav
+2023-08-24 01:02:59,182 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Chuyện ma chú 3 Duy/CHUYỆN MA CHÚ 3 DUY  TẬP 127 VỤ CHƠI BÙA CHẤN ĐỘNG TRI TÔN (An Giang)_trimmed/42.wav
+2023-08-24 01:02:59,184 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Chuyện ma chú 3 Duy/CHUYỆN MA CHÚ 3 DUY  TẬP 127 VỤ CHƠI BÙA CHẤN ĐỘNG TRI TÔN (An Giang)_trimmed/43.wav
+2023-08-24 01:02:59,185 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Chuyện ma chú 3 Duy/CHUYỆN MA CHÚ 3 DUY  TẬP 127 VỤ CHƠI BÙA CHẤN ĐỘNG TRI TÔN (An Giang)_trimmed/44.wav
+2023-08-24 01:02:59,186 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Chuyện ma chú 3 Duy/CHUYỆN MA CHÚ 3 DUY  TẬP 127 VỤ CHƠI BÙA CHẤN ĐỘNG TRI TÔN (An Giang)_trimmed/45.wav
+2023-08-24 01:02:59,187 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Chuyện ma chú 3 Duy/CHUYỆN MA CHÚ 3 DUY  TẬP 127 VỤ CHƠI BÙA CHẤN ĐỘNG TRI TÔN (An Giang)_trimmed/46.wav
+2023-08-24 01:02:59,189 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Chuyện ma chú 3 Duy/CHUYỆN MA CHÚ 3 DUY  TẬP 127 VỤ CHƠI BÙA CHẤN ĐỘNG TRI TÔN (An Giang)_trimmed/47.wav
+2023-08-24 01:02:59,190 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Chuyện ma chú 3 Duy/CHUYỆN MA CHÚ 3 DUY  TẬP 127 VỤ CHƠI BÙA CHẤN ĐỘNG TRI TÔN (An Giang)_trimmed/48.wav
+2023-08-24 01:02:59,191 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Chuyện ma chú 3 Duy/CHUYỆN MA CHÚ 3 DUY  TẬP 127 VỤ CHƠI BÙA CHẤN ĐỘNG TRI TÔN (An Giang)_trimmed/49.wav
+2023-08-24 01:02:59,192 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Chuyện ma chú 3 Duy/CHUYỆN MA CHÚ 3 DUY  TẬP 127 VỤ CHƠI BÙA CHẤN ĐỘNG TRI TÔN (An Giang)_trimmed/50.wav
+2023-08-24 01:02:59,194 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Chuyện ma chú 3 Duy/CHUYỆN MA CHÚ 3 DUY  TẬP 127 VỤ CHƠI BÙA CHẤN ĐỘNG TRI TÔN (An Giang)_trimmed/51.wav
+2023-08-24 01:02:59,195 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Chuyện ma chú 3 Duy/CHUYỆN MA CHÚ 3 DUY  TẬP 127 VỤ CHƠI BÙA CHẤN ĐỘNG TRI TÔN (An Giang)_trimmed/52.wav
+2023-08-24 01:02:59,196 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Chuyện ma chú 3 Duy/CHUYỆN MA CHÚ 3 DUY  TẬP 127 VỤ CHƠI BÙA CHẤN ĐỘNG TRI TÔN (An Giang)_trimmed/53.wav
+2023-08-24 01:02:59,197 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Chuyện ma chú 3 Duy/CHUYỆN MA CHÚ 3 DUY  TẬP 127 VỤ CHƠI BÙA CHẤN ĐỘNG TRI TÔN (An Giang)_trimmed/54.wav
+2023-08-24 01:02:59,198 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Chuyện ma chú 3 Duy/CHUYỆN MA CHÚ 3 DUY  TẬP 127 VỤ CHƠI BÙA CHẤN ĐỘNG TRI TÔN (An Giang)_trimmed/55.wav
+2023-08-24 01:02:59,199 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Chuyện ma chú 3 Duy/CHUYỆN MA CHÚ 3 DUY  TẬP 127 VỤ CHƠI BÙA CHẤN ĐỘNG TRI TÔN (An Giang)_trimmed/56.wav
+2023-08-24 01:02:59,200 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Chuyện ma chú 3 Duy/CHUYỆN MA CHÚ 3 DUY  TẬP 127 VỤ CHƠI BÙA CHẤN ĐỘNG TRI TÔN (An Giang)_trimmed/57.wav
+2023-08-24 01:02:59,201 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Chuyện ma chú 3 Duy/CHUYỆN MA CHÚ 3 DUY  TẬP 127 VỤ CHƠI BÙA CHẤN ĐỘNG TRI TÔN (An Giang)_trimmed/58.wav
+2023-08-24 01:02:59,203 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Chuyện ma chú 3 Duy/CHUYỆN MA CHÚ 3 DUY  TẬP 127 VỤ CHƠI BÙA CHẤN ĐỘNG TRI TÔN (An Giang)_trimmed/59.wav
+2023-08-24 01:02:59,204 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Chuyện ma chú 3 Duy/CHUYỆN MA CHÚ 3 DUY  TẬP 127 VỤ CHƠI BÙA CHẤN ĐỘNG TRI TÔN (An Giang)_trimmed/60.wav
+2023-08-24 01:02:59,206 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Chuyện ma chú 3 Duy/CHUYỆN MA CHÚ 3 DUY  TẬP 127 VỤ CHƠI BÙA CHẤN ĐỘNG TRI TÔN (An Giang)_trimmed/61.wav
+2023-08-24 01:02:59,207 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Chuyện ma chú 3 Duy/CHUYỆN MA CHÚ 3 DUY  TẬP 127 VỤ CHƠI BÙA CHẤN ĐỘNG TRI TÔN (An Giang)_trimmed/62.wav
+2023-08-24 01:02:59,208 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Chuyện ma chú 3 Duy/CHUYỆN MA CHÚ 3 DUY  TẬP 127 VỤ CHƠI BÙA CHẤN ĐỘNG TRI TÔN (An Giang)_trimmed/63.wav
+2023-08-24 01:02:59,209 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Chuyện ma chú 3 Duy/CHUYỆN MA CHÚ 3 DUY  TẬP 127 VỤ CHƠI BÙA CHẤN ĐỘNG TRI TÔN (An Giang)_trimmed/64.wav
+2023-08-24 01:02:59,211 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Chuyện ma chú 3 Duy/CHUYỆN MA CHÚ 3 DUY  TẬP 127 VỤ CHƠI BÙA CHẤN ĐỘNG TRI TÔN (An Giang)_trimmed/65.wav
+2023-08-24 01:02:59,212 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Chuyện ma chú 3 Duy/CHUYỆN MA CHÚ 3 DUY  TẬP 127 VỤ CHƠI BÙA CHẤN ĐỘNG TRI TÔN (An Giang)_trimmed/66.wav
+2023-08-24 01:02:59,213 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Chuyện ma chú 3 Duy/CHUYỆN MA CHÚ 3 DUY  TẬP 127 VỤ CHƠI BÙA CHẤN ĐỘNG TRI TÔN (An Giang)_trimmed/67.wav
+2023-08-24 01:02:59,215 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Chuyện ma chú 3 Duy/CHUYỆN MA CHÚ 3 DUY  TẬP 127 VỤ CHƠI BÙA CHẤN ĐỘNG TRI TÔN (An Giang)_trimmed/68.wav
+2023-08-24 01:02:59,216 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Chuyện ma chú 3 Duy/CHUYỆN MA CHÚ 3 DUY  TẬP 127 VỤ CHƠI BÙA CHẤN ĐỘNG TRI TÔN (An Giang)_trimmed/69.wav
+2023-08-24 01:02:59,218 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Chuyện ma chú 3 Duy/CHUYỆN MA CHÚ 3 DUY  TẬP 127 VỤ CHƠI BÙA CHẤN ĐỘNG TRI TÔN (An Giang)_trimmed/70.wav
+2023-08-24 01:02:59,220 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Chuyện ma chú 3 Duy/CHUYỆN MA CHÚ 3 DUY  TẬP 127 VỤ CHƠI BÙA CHẤN ĐỘNG TRI TÔN (An Giang)_trimmed/71.wav
+2023-08-24 01:02:59,221 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Chuyện ma chú 3 Duy/CHUYỆN MA CHÚ 3 DUY  TẬP 127 VỤ CHƠI BÙA CHẤN ĐỘNG TRI TÔN (An Giang)_trimmed/72.wav
+2023-08-24 01:02:59,222 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Chuyện ma chú 3 Duy/CHUYỆN MA CHÚ 3 DUY  TẬP 127 VỤ CHƠI BÙA CHẤN ĐỘNG TRI TÔN (An Giang)_trimmed/73.wav
+2023-08-24 01:02:59,224 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Chuyện ma chú 3 Duy/CHUYỆN MA CHÚ 3 DUY  TẬP 127 VỤ CHƠI BÙA CHẤN ĐỘNG TRI TÔN (An Giang)_trimmed/74.wav
+2023-08-24 01:02:59,225 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Chuyện ma chú 3 Duy/CHUYỆN MA CHÚ 3 DUY  TẬP 127 VỤ CHƠI BÙA CHẤN ĐỘNG TRI TÔN (An Giang)_trimmed/75.wav
+2023-08-24 01:02:59,226 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Chuyện ma chú 3 Duy/CHUYỆN MA CHÚ 3 DUY  TẬP 127 VỤ CHƠI BÙA CHẤN ĐỘNG TRI TÔN (An Giang)_trimmed/76.wav
+2023-08-24 01:02:59,227 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Chuyện ma chú 3 Duy/CHUYỆN MA CHÚ 3 DUY  TẬP 127 VỤ CHƠI BÙA CHẤN ĐỘNG TRI TÔN (An Giang)_trimmed/77.wav
+2023-08-24 01:02:59,228 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Chuyện ma chú 3 Duy/CHUYỆN MA CHÚ 3 DUY  TẬP 127 VỤ CHƠI BÙA CHẤN ĐỘNG TRI TÔN (An Giang)_trimmed/78.wav
+2023-08-24 01:02:59,230 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Chuyện ma chú 3 Duy/CHUYỆN MA CHÚ 3 DUY  TẬP 127 VỤ CHƠI BÙA CHẤN ĐỘNG TRI TÔN (An Giang)_trimmed/79.wav
+2023-08-24 01:02:59,234 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Chuyện ma chú 3 Duy/CHUYỆN MA CHÚ 3 DUY  TẬP 127 VỤ CHƠI BÙA CHẤN ĐỘNG TRI TÔN (An Giang)_trimmed/80.wav
+2023-08-24 01:02:59,236 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Chuyện ma chú 3 Duy/CHUYỆN MA CHÚ 3 DUY  TẬP 127 VỤ CHƠI BÙA CHẤN ĐỘNG TRI TÔN (An Giang)_trimmed/81.wav
+2023-08-24 01:02:59,237 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Chuyện ma chú 3 Duy/CHUYỆN MA CHÚ 3 DUY  TẬP 127 VỤ CHƠI BÙA CHẤN ĐỘNG TRI TÔN (An Giang)_trimmed/82.wav
+2023-08-24 01:02:59,238 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Chuyện ma chú 3 Duy/CHUYỆN MA CHÚ 3 DUY  TẬP 127 VỤ CHƠI BÙA CHẤN ĐỘNG TRI TÔN (An Giang)_trimmed/83.wav
+2023-08-24 01:02:59,239 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Chuyện ma chú 3 Duy/CHUYỆN MA CHÚ 3 DUY  TẬP 127 VỤ CHƠI BÙA CHẤN ĐỘNG TRI TÔN (An Giang)_trimmed/84.wav
+2023-08-24 01:02:59,240 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Chuyện ma chú 3 Duy/CHUYỆN MA CHÚ 3 DUY  TẬP 127 VỤ CHƠI BÙA CHẤN ĐỘNG TRI TÔN (An Giang)_trimmed/85.wav
+2023-08-24 01:02:59,241 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Chuyện ma chú 3 Duy/CHUYỆN MA CHÚ 3 DUY  TẬP 127 VỤ CHƠI BÙA CHẤN ĐỘNG TRI TÔN (An Giang)_trimmed/86.wav
+2023-08-24 01:02:59,243 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Chuyện ma chú 3 Duy/CHUYỆN MA CHÚ 3 DUY  TẬP 127 VỤ CHƠI BÙA CHẤN ĐỘNG TRI TÔN (An Giang)_trimmed/87.wav
+2023-08-24 01:02:59,244 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Chuyện ma chú 3 Duy/CHUYỆN MA CHÚ 3 DUY  TẬP 127 VỤ CHƠI BÙA CHẤN ĐỘNG TRI TÔN (An Giang)_trimmed/88.wav
+2023-08-24 01:02:59,245 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Chuyện ma chú 3 Duy/CHUYỆN MA CHÚ 3 DUY  TẬP 127 VỤ CHƠI BÙA CHẤN ĐỘNG TRI TÔN (An Giang)_trimmed/89.wav
+2023-08-24 01:02:59,246 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Chuyện ma chú 3 Duy/CHUYỆN MA CHÚ 3 DUY  TẬP 127 VỤ CHƠI BÙA CHẤN ĐỘNG TRI TÔN (An Giang)_trimmed/90.wav
+2023-08-24 01:02:59,247 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Chuyện ma chú 3 Duy/CHUYỆN MA CHÚ 3 DUY  TẬP 127 VỤ CHƠI BÙA CHẤN ĐỘNG TRI TÔN (An Giang)_trimmed/91.wav
+2023-08-24 01:02:59,248 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Chuyện ma chú 3 Duy/CHUYỆN MA CHÚ 3 DUY  TẬP 127 VỤ CHƠI BÙA CHẤN ĐỘNG TRI TÔN (An Giang)_trimmed/92.wav
+2023-08-24 01:02:59,250 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Chuyện ma chú 3 Duy/CHUYỆN MA CHÚ 3 DUY  TẬP 127 VỤ CHƠI BÙA CHẤN ĐỘNG TRI TÔN (An Giang)_trimmed/93.wav
+2023-08-24 01:02:59,251 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Chuyện ma chú 3 Duy/CHUYỆN MA CHÚ 3 DUY  TẬP 127 VỤ CHƠI BÙA CHẤN ĐỘNG TRI TÔN (An Giang)_trimmed/94.wav
+2023-08-24 01:02:59,253 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Chuyện ma chú 3 Duy/CHUYỆN MA CHÚ 3 DUY  TẬP 127 VỤ CHƠI BÙA CHẤN ĐỘNG TRI TÔN (An Giang)_trimmed/95.wav
+2023-08-24 01:02:59,254 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Chuyện ma chú 3 Duy/CHUYỆN MA CHÚ 3 DUY  TẬP 127 VỤ CHƠI BÙA CHẤN ĐỘNG TRI TÔN (An Giang)_trimmed/96.wav
+2023-08-24 01:02:59,255 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Chuyện ma chú 3 Duy/CHUYỆN MA CHÚ 3 DUY  TẬP 127 VỤ CHƠI BÙA CHẤN ĐỘNG TRI TÔN (An Giang)_trimmed/97.wav
+2023-08-24 01:02:59,256 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Chuyện ma chú 3 Duy/CHUYỆN MA CHÚ 3 DUY  TẬP 127 VỤ CHƠI BÙA CHẤN ĐỘNG TRI TÔN (An Giang)_trimmed/98.wav
+2023-08-24 01:02:59,257 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Chuyện ma chú 3 Duy/CHUYỆN MA CHÚ 3 DUY  TẬP 127 VỤ CHƠI BÙA CHẤN ĐỘNG TRI TÔN (An Giang)_trimmed/99.wav
+2023-08-24 01:02:59,259 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Chuyện ma chú 3 Duy/CHUYỆN MA CHÚ 3 DUY  TẬP 127 VỤ CHƠI BÙA CHẤN ĐỘNG TRI TÔN (An Giang)_trimmed/100.wav
+2023-08-24 01:02:59,260 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Chuyện ma chú 3 Duy/CHUYỆN MA CHÚ 3 DUY  TẬP 127 VỤ CHƠI BÙA CHẤN ĐỘNG TRI TÔN (An Giang)_trimmed/101.wav
+2023-08-24 01:02:59,261 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Chuyện ma chú 3 Duy/CHUYỆN MA CHÚ 3 DUY  TẬP 127 VỤ CHƠI BÙA CHẤN ĐỘNG TRI TÔN (An Giang)_trimmed/102.wav
+2023-08-24 01:02:59,262 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Chuyện ma chú 3 Duy/CHUYỆN MA CHÚ 3 DUY  TẬP 127 VỤ CHƠI BÙA CHẤN ĐỘNG TRI TÔN (An Giang)_trimmed/103.wav
+2023-08-24 01:02:59,263 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Chuyện ma chú 3 Duy/CHUYỆN MA CHÚ 3 DUY  TẬP 127 VỤ CHƠI BÙA CHẤN ĐỘNG TRI TÔN (An Giang)_trimmed/104.wav
+2023-08-24 01:02:59,264 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Chuyện ma chú 3 Duy/CHUYỆN MA CHÚ 3 DUY  TẬP 127 VỤ CHƠI BÙA CHẤN ĐỘNG TRI TÔN (An Giang)_trimmed/105.wav
+2023-08-24 01:02:59,266 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Chuyện ma chú 3 Duy/CHUYỆN MA CHÚ 3 DUY  TẬP 127 VỤ CHƠI BÙA CHẤN ĐỘNG TRI TÔN (An Giang)_trimmed/106.wav
+2023-08-24 01:02:59,267 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Chuyện ma chú 3 Duy/CHUYỆN MA CHÚ 3 DUY  TẬP 127 VỤ CHƠI BÙA CHẤN ĐỘNG TRI TÔN (An Giang)_trimmed/107.wav
+2023-08-24 01:02:59,269 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Chuyện ma chú 3 Duy/CHUYỆN MA CHÚ 3 DUY  TẬP 127 VỤ CHƠI BÙA CHẤN ĐỘNG TRI TÔN (An Giang)_trimmed/108.wav
+2023-08-24 01:02:59,271 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Chuyện ma chú 3 Duy/CHUYỆN MA CHÚ 3 DUY  TẬP 127 VỤ CHƠI BÙA CHẤN ĐỘNG TRI TÔN (An Giang)_trimmed/109.wav
+2023-08-24 01:02:59,272 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Chuyện ma chú 3 Duy/CHUYỆN MA CHÚ 3 DUY  TẬP 127 VỤ CHƠI BÙA CHẤN ĐỘNG TRI TÔN (An Giang)_trimmed/110.wav
+2023-08-24 01:02:59,273 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Chuyện ma chú 3 Duy/CHUYỆN MA CHÚ 3 DUY  TẬP 127 VỤ CHƠI BÙA CHẤN ĐỘNG TRI TÔN (An Giang)_trimmed/111.wav
+2023-08-24 01:02:59,275 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Chuyện ma chú 3 Duy/CHUYỆN MA CHÚ 3 DUY  TẬP 127 VỤ CHƠI BÙA CHẤN ĐỘNG TRI TÔN (An Giang)_trimmed/112.wav
+2023-08-24 01:02:59,276 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Chuyện ma chú 3 Duy/CHUYỆN MA CHÚ 3 DUY  TẬP 127 VỤ CHƠI BÙA CHẤN ĐỘNG TRI TÔN (An Giang)_trimmed/113.wav
+2023-08-24 01:02:59,277 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Chuyện ma chú 3 Duy/CHUYỆN MA CHÚ 3 DUY  TẬP 127 VỤ CHƠI BÙA CHẤN ĐỘNG TRI TÔN (An Giang)_trimmed/114.wav
+2023-08-24 01:02:59,278 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Chuyện ma chú 3 Duy/CHUYỆN MA CHÚ 3 DUY  TẬP 127 VỤ CHƠI BÙA CHẤN ĐỘNG TRI TÔN (An Giang)_trimmed/115.wav
+2023-08-24 01:02:59,279 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Chuyện ma chú 3 Duy/CHUYỆN MA CHÚ 3 DUY  TẬP 127 VỤ CHƠI BÙA CHẤN ĐỘNG TRI TÔN (An Giang)_trimmed/116.wav
+2023-08-24 01:02:59,281 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Chuyện ma chú 3 Duy/CHUYỆN MA CHÚ 3 DUY  TẬP 127 VỤ CHƠI BÙA CHẤN ĐỘNG TRI TÔN (An Giang)_trimmed/117.wav
+2023-08-24 01:02:59,282 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Chuyện ma chú 3 Duy/CHUYỆN MA CHÚ 3 DUY  TẬP 127 VỤ CHƠI BÙA CHẤN ĐỘNG TRI TÔN (An Giang)_trimmed/118.wav
+2023-08-24 01:02:59,284 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Chuyện ma chú 3 Duy/CHUYỆN MA CHÚ 3 DUY  TẬP 127 VỤ CHƠI BÙA CHẤN ĐỘNG TRI TÔN (An Giang)_trimmed/119.wav
+2023-08-24 01:02:59,285 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Chuyện ma chú 3 Duy/CHUYỆN MA CHÚ 3 DUY  TẬP 127 VỤ CHƠI BÙA CHẤN ĐỘNG TRI TÔN (An Giang)_trimmed/120.wav
+2023-08-24 01:02:59,286 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Chuyện ma chú 3 Duy/CHUYỆN MA CHÚ 3 DUY  TẬP 127 VỤ CHƠI BÙA CHẤN ĐỘNG TRI TÔN (An Giang)_trimmed/121.wav
+2023-08-24 01:02:59,288 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Chuyện ma chú 3 Duy/CHUYỆN MA CHÚ 3 DUY  TẬP 127 VỤ CHƠI BÙA CHẤN ĐỘNG TRI TÔN (An Giang)_trimmed/122.wav
+2023-08-24 01:02:59,289 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Chuyện ma chú 3 Duy/CHUYỆN MA CHÚ 3 DUY  TẬP 127 VỤ CHƠI BÙA CHẤN ĐỘNG TRI TÔN (An Giang)_trimmed/123.wav
+2023-08-24 01:02:59,290 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Chuyện ma chú 3 Duy/CHUYỆN MA CHÚ 3 DUY  TẬP 127 VỤ CHƠI BÙA CHẤN ĐỘNG TRI TÔN (An Giang)_trimmed/124.wav
+2023-08-24 01:02:59,291 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Chuyện ma chú 3 Duy/CHUYỆN MA CHÚ 3 DUY  TẬP 127 VỤ CHƠI BÙA CHẤN ĐỘNG TRI TÔN (An Giang)_trimmed/125.wav
+2023-08-24 01:02:59,293 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Chuyện ma chú 3 Duy/CHUYỆN MA CHÚ 3 DUY  TẬP 127 VỤ CHƠI BÙA CHẤN ĐỘNG TRI TÔN (An Giang)_trimmed/126.wav
+2023-08-24 01:02:59,294 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Chuyện ma chú 3 Duy/CHUYỆN MA CHÚ 3 DUY  TẬP 127 VỤ CHƠI BÙA CHẤN ĐỘNG TRI TÔN (An Giang)_trimmed/127.wav
+2023-08-24 01:02:59,295 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Chuyện ma chú 3 Duy/CHUYỆN MA CHÚ 3 DUY  TẬP 127 VỤ CHƠI BÙA CHẤN ĐỘNG TRI TÔN (An Giang)_trimmed/128.wav
+2023-08-24 01:02:59,296 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Chuyện ma chú 3 Duy/CHUYỆN MA CHÚ 3 DUY  TẬP 127 VỤ CHƠI BÙA CHẤN ĐỘNG TRI TÔN (An Giang)_trimmed/129.wav
+2023-08-24 01:02:59,297 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Chuyện ma chú 3 Duy/CHUYỆN MA CHÚ 3 DUY  TẬP 127 VỤ CHƠI BÙA CHẤN ĐỘNG TRI TÔN (An Giang)_trimmed/130.wav
+2023-08-24 01:02:59,298 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Chuyện ma chú 3 Duy/CHUYỆN MA CHÚ 3 DUY  TẬP 127 VỤ CHƠI BÙA CHẤN ĐỘNG TRI TÔN (An Giang)_trimmed/131.wav
+2023-08-24 01:02:59,299 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Chuyện ma chú 3 Duy/CHUYỆN MA CHÚ 3 DUY  TẬP 127 VỤ CHƠI BÙA CHẤN ĐỘNG TRI TÔN (An Giang)_trimmed/132.wav
+2023-08-24 01:02:59,301 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Chuyện ma chú 3 Duy/CHUYỆN MA CHÚ 3 DUY  TẬP 127 VỤ CHƠI BÙA CHẤN ĐỘNG TRI TÔN (An Giang)_trimmed/133.wav
+2023-08-24 01:02:59,302 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Chuyện ma chú 3 Duy/CHUYỆN MA CHÚ 3 DUY  TẬP 127 VỤ CHƠI BÙA CHẤN ĐỘNG TRI TÔN (An Giang)_trimmed/134.wav
+2023-08-24 01:02:59,304 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Chuyện ma chú 3 Duy/CHUYỆN MA CHÚ 3 DUY  TẬP 127 VỤ CHƠI BÙA CHẤN ĐỘNG TRI TÔN (An Giang)_trimmed/135.wav
+2023-08-24 01:02:59,305 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Chuyện ma chú 3 Duy/CHUYỆN MA CHÚ 3 DUY  TẬP 127 VỤ CHƠI BÙA CHẤN ĐỘNG TRI TÔN (An Giang)_trimmed/136.wav
+2023-08-24 01:02:59,306 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Chuyện ma chú 3 Duy/CHUYỆN MA CHÚ 3 DUY  TẬP 127 VỤ CHƠI BÙA CHẤN ĐỘNG TRI TÔN (An Giang)_trimmed/137.wav
+2023-08-24 01:02:59,307 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Chuyện ma chú 3 Duy/CHUYỆN MA CHÚ 3 DUY  TẬP 127 VỤ CHƠI BÙA CHẤN ĐỘNG TRI TÔN (An Giang)_trimmed/138.wav
+2023-08-24 01:02:59,308 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Chuyện ma chú 3 Duy/CHUYỆN MA CHÚ 3 DUY  TẬP 127 VỤ CHƠI BÙA CHẤN ĐỘNG TRI TÔN (An Giang)_trimmed/139.wav
+2023-08-24 01:02:59,309 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Chuyện ma chú 3 Duy/CHUYỆN MA CHÚ 3 DUY  TẬP 127 VỤ CHƠI BÙA CHẤN ĐỘNG TRI TÔN (An Giang)_trimmed/140.wav
+2023-08-24 01:02:59,311 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Chuyện ma chú 3 Duy/CHUYỆN MA CHÚ 3 DUY  TẬP 127 VỤ CHƠI BÙA CHẤN ĐỘNG TRI TÔN (An Giang)_trimmed/141.wav
+2023-08-24 01:02:59,312 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Chuyện ma chú 3 Duy/CHUYỆN MA CHÚ 3 DUY  TẬP 127 VỤ CHƠI BÙA CHẤN ĐỘNG TRI TÔN (An Giang)_trimmed/142.wav
+2023-08-24 01:02:59,313 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Chuyện ma chú 3 Duy/CHUYỆN MA CHÚ 3 DUY  TẬP 127 VỤ CHƠI BÙA CHẤN ĐỘNG TRI TÔN (An Giang)_trimmed/143.wav
+2023-08-24 01:02:59,315 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Chuyện ma chú 3 Duy/CHUYỆN MA CHÚ 3 DUY  TẬP 127 VỤ CHƠI BÙA CHẤN ĐỘNG TRI TÔN (An Giang)_trimmed/144.wav
+2023-08-24 01:02:59,316 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Chuyện ma chú 3 Duy/CHUYỆN MA CHÚ 3 DUY  TẬP 127 VỤ CHƠI BÙA CHẤN ĐỘNG TRI TÔN (An Giang)_trimmed/145.wav
+2023-08-24 01:02:59,318 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Chuyện ma chú 3 Duy/CHUYỆN MA CHÚ 3 DUY  TẬP 127 VỤ CHƠI BÙA CHẤN ĐỘNG TRI TÔN (An Giang)_trimmed/146.wav
+2023-08-24 01:02:59,319 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Chuyện ma chú 3 Duy/CHUYỆN MA CHÚ 3 DUY  TẬP 127 VỤ CHƠI BÙA CHẤN ĐỘNG TRI TÔN (An Giang)_trimmed/147.wav
+2023-08-24 01:02:59,320 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Chuyện ma chú 3 Duy/CHUYỆN MA CHÚ 3 DUY  TẬP 127 VỤ CHƠI BÙA CHẤN ĐỘNG TRI TÔN (An Giang)_trimmed/148.wav
+2023-08-24 01:02:59,321 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Chuyện ma chú 3 Duy/CHUYỆN MA CHÚ 3 DUY  TẬP 127 VỤ CHƠI BÙA CHẤN ĐỘNG TRI TÔN (An Giang)_trimmed/149.wav
+2023-08-24 01:02:59,322 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Chuyện ma chú 3 Duy/CHUYỆN MA CHÚ 3 DUY  TẬP 127 VỤ CHƠI BÙA CHẤN ĐỘNG TRI TÔN (An Giang)_trimmed/150.wav
+2023-08-24 01:02:59,323 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Chuyện ma chú 3 Duy/CHUYỆN MA CHÚ 3 DUY  TẬP 127 VỤ CHƠI BÙA CHẤN ĐỘNG TRI TÔN (An Giang)_trimmed/151.wav
+2023-08-24 01:02:59,325 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Chuyện ma chú 3 Duy/CHUYỆN MA CHÚ 3 DUY  TẬP 127 VỤ CHƠI BÙA CHẤN ĐỘNG TRI TÔN (An Giang)_trimmed/152.wav
+2023-08-24 01:02:59,326 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Chuyện ma chú 3 Duy/CHUYỆN MA CHÚ 3 DUY  TẬP 127 VỤ CHƠI BÙA CHẤN ĐỘNG TRI TÔN (An Giang)_trimmed/153.wav
+2023-08-24 01:02:59,327 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Chuyện ma chú 3 Duy/CHUYỆN MA CHÚ 3 DUY  TẬP 127 VỤ CHƠI BÙA CHẤN ĐỘNG TRI TÔN (An Giang)_trimmed/154.wav
+2023-08-24 01:02:59,328 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Chuyện ma chú 3 Duy/CHUYỆN MA CHÚ 3 DUY  TẬP 127 VỤ CHƠI BÙA CHẤN ĐỘNG TRI TÔN (An Giang)_trimmed/155.wav
+2023-08-24 01:02:59,330 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Chuyện ma chú 3 Duy/CHUYỆN MA CHÚ 3 DUY  TẬP 127 VỤ CHƠI BÙA CHẤN ĐỘNG TRI TÔN (An Giang)_trimmed/156.wav
+2023-08-24 01:02:59,331 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Chuyện ma chú 3 Duy/CHUYỆN MA CHÚ 3 DUY  TẬP 127 VỤ CHƠI BÙA CHẤN ĐỘNG TRI TÔN (An Giang)_trimmed/157.wav
+2023-08-24 01:02:59,332 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Chuyện ma chú 3 Duy/CHUYỆN MA CHÚ 3 DUY  TẬP 127 VỤ CHƠI BÙA CHẤN ĐỘNG TRI TÔN (An Giang)_trimmed/158.wav
+2023-08-24 01:02:59,333 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Chuyện ma chú 3 Duy/CHUYỆN MA CHÚ 3 DUY  TẬP 127 VỤ CHƠI BÙA CHẤN ĐỘNG TRI TÔN (An Giang)_trimmed/159.wav
+2023-08-24 01:02:59,335 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Chuyện ma chú 3 Duy/CHUYỆN MA CHÚ 3 DUY  TẬP 127 VỤ CHƠI BÙA CHẤN ĐỘNG TRI TÔN (An Giang)_trimmed/160.wav
+2023-08-24 01:02:59,336 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Chuyện ma chú 3 Duy/CHUYỆN MA CHÚ 3 DUY  TẬP 127 VỤ CHƠI BÙA CHẤN ĐỘNG TRI TÔN (An Giang)_trimmed/161.wav
+2023-08-24 01:02:59,337 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Chuyện ma chú 3 Duy/CHUYỆN MA CHÚ 3 DUY  TẬP 127 VỤ CHƠI BÙA CHẤN ĐỘNG TRI TÔN (An Giang)_trimmed/162.wav
+2023-08-24 01:02:59,338 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Chuyện ma chú 3 Duy/CHUYỆN MA CHÚ 3 DUY  TẬP 127 VỤ CHƠI BÙA CHẤN ĐỘNG TRI TÔN (An Giang)_trimmed/163.wav
+2023-08-24 01:02:59,340 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Chuyện ma chú 3 Duy/CHUYỆN MA CHÚ 3 DUY  TẬP 127 VỤ CHƠI BÙA CHẤN ĐỘNG TRI TÔN (An Giang)_trimmed/164.wav
+2023-08-24 01:02:59,341 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Chuyện ma chú 3 Duy/CHUYỆN MA CHÚ 3 DUY  TẬP 127 VỤ CHƠI BÙA CHẤN ĐỘNG TRI TÔN (An Giang)_trimmed/165.wav
+2023-08-24 01:02:59,342 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Chuyện ma chú 3 Duy/CHUYỆN MA CHÚ 3 DUY  TẬP 127 VỤ CHƠI BÙA CHẤN ĐỘNG TRI TÔN (An Giang)_trimmed/166.wav
+2023-08-24 01:02:59,343 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Chuyện ma chú 3 Duy/CHUYỆN MA CHÚ 3 DUY  TẬP 127 VỤ CHƠI BÙA CHẤN ĐỘNG TRI TÔN (An Giang)_trimmed/167.wav
+2023-08-24 01:02:59,344 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Chuyện ma chú 3 Duy/CHUYỆN MA CHÚ 3 DUY  TẬP 127 VỤ CHƠI BÙA CHẤN ĐỘNG TRI TÔN (An Giang)_trimmed/168.wav
+2023-08-24 01:02:59,345 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Chuyện ma chú 3 Duy/CHUYỆN MA CHÚ 3 DUY  TẬP 127 VỤ CHƠI BÙA CHẤN ĐỘNG TRI TÔN (An Giang)_trimmed/169.wav
+2023-08-24 01:02:59,346 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Chuyện ma chú 3 Duy/CHUYỆN MA CHÚ 3 DUY  TẬP 127 VỤ CHƠI BÙA CHẤN ĐỘNG TRI TÔN (An Giang)_trimmed/170.wav
+2023-08-24 01:02:59,348 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Chuyện ma chú 3 Duy/CHUYỆN MA CHÚ 3 DUY  TẬP 127 VỤ CHƠI BÙA CHẤN ĐỘNG TRI TÔN (An Giang)_trimmed/171.wav
+2023-08-24 01:02:59,349 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Chuyện ma chú 3 Duy/CHUYỆN MA CHÚ 3 DUY  TẬP 127 VỤ CHƠI BÙA CHẤN ĐỘNG TRI TÔN (An Giang)_trimmed/172.wav
+2023-08-24 01:02:59,351 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Chuyện ma chú 3 Duy/CHUYỆN MA CHÚ 3 DUY  TẬP 127 VỤ CHƠI BÙA CHẤN ĐỘNG TRI TÔN (An Giang)_trimmed/173.wav
+2023-08-24 01:02:59,353 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Chuyện ma chú 3 Duy/CHUYỆN MA CHÚ 3 DUY  TẬP 127 VỤ CHƠI BÙA CHẤN ĐỘNG TRI TÔN (An Giang)_trimmed/174.wav
+2023-08-24 01:02:59,354 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Chuyện ma chú 3 Duy/CHUYỆN MA CHÚ 3 DUY  TẬP 127 VỤ CHƠI BÙA CHẤN ĐỘNG TRI TÔN (An Giang)_trimmed/175.wav
+2023-08-24 01:02:59,356 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Chuyện ma chú 3 Duy/CHUYỆN MA CHÚ 3 DUY  TẬP 127 VỤ CHƠI BÙA CHẤN ĐỘNG TRI TÔN (An Giang)_trimmed/176.wav
+2023-08-24 01:02:59,357 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Chuyện ma chú 3 Duy/CHUYỆN MA CHÚ 3 DUY  TẬP 127 VỤ CHƠI BÙA CHẤN ĐỘNG TRI TÔN (An Giang)_trimmed/177.wav
+2023-08-24 01:02:59,358 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Chuyện ma chú 3 Duy/CHUYỆN MA CHÚ 3 DUY  TẬP 127 VỤ CHƠI BÙA CHẤN ĐỘNG TRI TÔN (An Giang)_trimmed/178.wav
+2023-08-24 01:02:59,360 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Chuyện ma chú 3 Duy/CHUYỆN MA CHÚ 3 DUY  TẬP 127 VỤ CHƠI BÙA CHẤN ĐỘNG TRI TÔN (An Giang)_trimmed/179.wav
+2023-08-24 01:02:59,361 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Chuyện ma chú 3 Duy/CHUYỆN MA CHÚ 3 DUY  TẬP 127 VỤ CHƠI BÙA CHẤN ĐỘNG TRI TÔN (An Giang)_trimmed/180.wav
+2023-08-24 01:02:59,362 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Chuyện ma chú 3 Duy/CHUYỆN MA CHÚ 3 DUY  TẬP 127 VỤ CHƠI BÙA CHẤN ĐỘNG TRI TÔN (An Giang)_trimmed/181.wav
+2023-08-24 01:02:59,364 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Chuyện ma chú 3 Duy/CHUYỆN MA CHÚ 3 DUY  TẬP 127 VỤ CHƠI BÙA CHẤN ĐỘNG TRI TÔN (An Giang)_trimmed/182.wav
+2023-08-24 01:02:59,365 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Chuyện ma chú 3 Duy/CHUYỆN MA CHÚ 3 DUY  TẬP 127 VỤ CHƠI BÙA CHẤN ĐỘNG TRI TÔN (An Giang)_trimmed/183.wav
+2023-08-24 01:02:59,367 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Chuyện ma chú 3 Duy/CHUYỆN MA CHÚ 3 DUY  TẬP 127 VỤ CHƠI BÙA CHẤN ĐỘNG TRI TÔN (An Giang)_trimmed/184.wav
+2023-08-24 01:02:59,369 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Chuyện ma chú 3 Duy/CHUYỆN MA CHÚ 3 DUY  TẬP 127 VỤ CHƠI BÙA CHẤN ĐỘNG TRI TÔN (An Giang)_trimmed/185.wav
+2023-08-24 01:02:59,370 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Chuyện ma chú 3 Duy/CHUYỆN MA CHÚ 3 DUY  TẬP 127 VỤ CHƠI BÙA CHẤN ĐỘNG TRI TÔN (An Giang)_trimmed/186.wav
+2023-08-24 01:02:59,371 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Chuyện ma chú 3 Duy/CHUYỆN MA CHÚ 3 DUY  TẬP 127 VỤ CHƠI BÙA CHẤN ĐỘNG TRI TÔN (An Giang)_trimmed/187.wav
+2023-08-24 01:02:59,372 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Chuyện ma chú 3 Duy/CHUYỆN MA CHÚ 3 DUY  TẬP 127 VỤ CHƠI BÙA CHẤN ĐỘNG TRI TÔN (An Giang)_trimmed/188.wav
+2023-08-24 01:02:59,373 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Chuyện ma chú 3 Duy/CHUYỆN MA CHÚ 3 DUY  TẬP 127 VỤ CHƠI BÙA CHẤN ĐỘNG TRI TÔN (An Giang)_trimmed/189.wav
+2023-08-24 01:02:59,374 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Chuyện ma chú 3 Duy/CHUYỆN MA CHÚ 3 DUY  TẬP 127 VỤ CHƠI BÙA CHẤN ĐỘNG TRI TÔN (An Giang)_trimmed/190.wav
+2023-08-24 01:02:59,376 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Chuyện ma chú 3 Duy/CHUYỆN MA CHÚ 3 DUY  TẬP 127 VỤ CHƠI BÙA CHẤN ĐỘNG TRI TÔN (An Giang)_trimmed/191.wav
+2023-08-24 01:02:59,377 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Chuyện ma chú 3 Duy/CHUYỆN MA CHÚ 3 DUY  TẬP 127 VỤ CHƠI BÙA CHẤN ĐỘNG TRI TÔN (An Giang)_trimmed/192.wav
+2023-08-24 01:02:59,378 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Chuyện ma chú 3 Duy/CHUYỆN MA CHÚ 3 DUY  TẬP 127 VỤ CHƠI BÙA CHẤN ĐỘNG TRI TÔN (An Giang)_trimmed/193.wav
+2023-08-24 01:02:59,379 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Chuyện ma chú 3 Duy/CHUYỆN MA CHÚ 3 DUY  TẬP 127 VỤ CHƠI BÙA CHẤN ĐỘNG TRI TÔN (An Giang)_trimmed/194.wav
+2023-08-24 01:02:59,380 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Chuyện ma chú 3 Duy/CHUYỆN MA CHÚ 3 DUY  TẬP 127 VỤ CHƠI BÙA CHẤN ĐỘNG TRI TÔN (An Giang)_trimmed/195.wav
+2023-08-24 01:02:59,382 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Chuyện ma chú 3 Duy/CHUYỆN MA CHÚ 3 DUY  TẬP 127 VỤ CHƠI BÙA CHẤN ĐỘNG TRI TÔN (An Giang)_trimmed/196.wav
+2023-08-24 01:02:59,383 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Chuyện ma chú 3 Duy/CHUYỆN MA CHÚ 3 DUY  TẬP 127 VỤ CHƠI BÙA CHẤN ĐỘNG TRI TÔN (An Giang)_trimmed/197.wav
+2023-08-24 01:02:59,384 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Chuyện ma chú 3 Duy/CHUYỆN MA CHÚ 3 DUY  TẬP 127 VỤ CHƠI BÙA CHẤN ĐỘNG TRI TÔN (An Giang)_trimmed/198.wav
+2023-08-24 01:02:59,386 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Chuyện ma chú 3 Duy/CHUYỆN MA CHÚ 3 DUY  TẬP 127 VỤ CHƠI BÙA CHẤN ĐỘNG TRI TÔN (An Giang)_trimmed/199.wav
+2023-08-24 01:02:59,387 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Chuyện ma chú 3 Duy/CHUYỆN MA CHÚ 3 DUY  TẬP 127 VỤ CHƠI BÙA CHẤN ĐỘNG TRI TÔN (An Giang)_trimmed/200.wav
+2023-08-24 01:02:59,389 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Chuyện ma chú 3 Duy/CHUYỆN MA CHÚ 3 DUY  TẬP 127 VỤ CHƠI BÙA CHẤN ĐỘNG TRI TÔN (An Giang)_trimmed/201.wav
+2023-08-24 01:02:59,389 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Chuyện ma chú 3 Duy/CHUYỆN MA CHÚ 3 DUY  TẬP 127 VỤ CHƠI BÙA CHẤN ĐỘNG TRI TÔN (An Giang)_trimmed/202.wav
+2023-08-24 01:02:59,390 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Chuyện ma chú 3 Duy/CHUYỆN MA CHÚ 3 DUY  TẬP 127 VỤ CHƠI BÙA CHẤN ĐỘNG TRI TÔN (An Giang)_trimmed/203.wav
+2023-08-24 01:02:59,391 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Chuyện ma chú 3 Duy/CHUYỆN MA CHÚ 3 DUY  TẬP 127 VỤ CHƠI BÙA CHẤN ĐỘNG TRI TÔN (An Giang)_trimmed/204.wav
+2023-08-24 01:02:59,392 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Chuyện ma chú 3 Duy/CHUYỆN MA CHÚ 3 DUY  TẬP 127 VỤ CHƠI BÙA CHẤN ĐỘNG TRI TÔN (An Giang)_trimmed/205.wav
+2023-08-24 01:02:59,394 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Chuyện ma chú 3 Duy/CHUYỆN MA CHÚ 3 DUY  TẬP 127 VỤ CHƠI BÙA CHẤN ĐỘNG TRI TÔN (An Giang)_trimmed/206.wav
+2023-08-24 01:02:59,395 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Chuyện ma chú 3 Duy/CHUYỆN MA CHÚ 3 DUY  TẬP 127 VỤ CHƠI BÙA CHẤN ĐỘNG TRI TÔN (An Giang)_trimmed/207.wav
+2023-08-24 01:02:59,396 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Chuyện ma chú 3 Duy/CHUYỆN MA CHÚ 3 DUY  TẬP 127 VỤ CHƠI BÙA CHẤN ĐỘNG TRI TÔN (An Giang)_trimmed/208.wav
+2023-08-24 01:02:59,397 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Chuyện ma chú 3 Duy/CHUYỆN MA CHÚ 3 DUY  TẬP 127 VỤ CHƠI BÙA CHẤN ĐỘNG TRI TÔN (An Giang)_trimmed/209.wav
+2023-08-24 01:02:59,398 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Chuyện ma chú 3 Duy/CHUYỆN MA CHÚ 3 DUY  TẬP 127 VỤ CHƠI BÙA CHẤN ĐỘNG TRI TÔN (An Giang)_trimmed/210.wav
+2023-08-24 01:02:59,400 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Chuyện ma chú 3 Duy/CHUYỆN MA CHÚ 3 DUY  TẬP 127 VỤ CHƠI BÙA CHẤN ĐỘNG TRI TÔN (An Giang)_trimmed/211.wav
+2023-08-24 01:02:59,401 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Chuyện ma chú 3 Duy/CHUYỆN MA CHÚ 3 DUY  TẬP 127 VỤ CHƠI BÙA CHẤN ĐỘNG TRI TÔN (An Giang)_trimmed/212.wav
+2023-08-24 01:02:59,402 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Chuyện ma chú 3 Duy/CHUYỆN MA CHÚ 3 DUY  TẬP 127 VỤ CHƠI BÙA CHẤN ĐỘNG TRI TÔN (An Giang)_trimmed/213.wav
+2023-08-24 01:02:59,403 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Chuyện ma chú 3 Duy/CHUYỆN MA CHÚ 3 DUY  TẬP 127 VỤ CHƠI BÙA CHẤN ĐỘNG TRI TÔN (An Giang)_trimmed/214.wav
+2023-08-24 01:02:59,404 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Chuyện ma chú 3 Duy/CHUYỆN MA CHÚ 3 DUY  TẬP 127 VỤ CHƠI BÙA CHẤN ĐỘNG TRI TÔN (An Giang)_trimmed/215.wav
+2023-08-24 01:02:59,405 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Chuyện ma chú 3 Duy/CHUYỆN MA CHÚ 3 DUY  TẬP 127 VỤ CHƠI BÙA CHẤN ĐỘNG TRI TÔN (An Giang)_trimmed/216.wav
+2023-08-24 01:02:59,406 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Chuyện ma chú 3 Duy/CHUYỆN MA CHÚ 3 DUY  TẬP 127 VỤ CHƠI BÙA CHẤN ĐỘNG TRI TÔN (An Giang)_trimmed/217.wav
+2023-08-24 01:02:59,407 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Chuyện ma chú 3 Duy/CHUYỆN MA CHÚ 3 DUY  TẬP 127 VỤ CHƠI BÙA CHẤN ĐỘNG TRI TÔN (An Giang)_trimmed/218.wav
+2023-08-24 01:02:59,408 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Chuyện ma chú 3 Duy/CHUYỆN MA CHÚ 3 DUY  TẬP 127 VỤ CHƠI BÙA CHẤN ĐỘNG TRI TÔN (An Giang)_trimmed/219.wav
+2023-08-24 01:02:59,409 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Chuyện ma chú 3 Duy/CHUYỆN MA CHÚ 3 DUY  TẬP 127 VỤ CHƠI BÙA CHẤN ĐỘNG TRI TÔN (An Giang)_trimmed/220.wav
+2023-08-24 01:02:59,410 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Chuyện ma chú 3 Duy/CHUYỆN MA CHÚ 3 DUY  TẬP 127 VỤ CHƠI BÙA CHẤN ĐỘNG TRI TÔN (An Giang)_trimmed/221.wav
+2023-08-24 01:02:59,412 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Chuyện ma chú 3 Duy/CHUYỆN MA CHÚ 3 DUY  TẬP 127 VỤ CHƠI BÙA CHẤN ĐỘNG TRI TÔN (An Giang)_trimmed/222.wav
+2023-08-24 01:02:59,413 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Chuyện ma chú 3 Duy/CHUYỆN MA CHÚ 3 DUY  TẬP 127 VỤ CHƠI BÙA CHẤN ĐỘNG TRI TÔN (An Giang)_trimmed/223.wav
+2023-08-24 01:02:59,414 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Chuyện ma chú 3 Duy/CHUYỆN MA CHÚ 3 DUY  TẬP 127 VỤ CHƠI BÙA CHẤN ĐỘNG TRI TÔN (An Giang)_trimmed/224.wav
+2023-08-24 01:02:59,415 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Chuyện ma chú 3 Duy/CHUYỆN MA CHÚ 3 DUY  TẬP 127 VỤ CHƠI BÙA CHẤN ĐỘNG TRI TÔN (An Giang)_trimmed/225.wav
+2023-08-24 01:02:59,417 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Chuyện ma chú 3 Duy/CHUYỆN MA CHÚ 3 DUY  TẬP 127 VỤ CHƠI BÙA CHẤN ĐỘNG TRI TÔN (An Giang)_trimmed/226.wav
+2023-08-24 01:02:59,418 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Chuyện ma chú 3 Duy/CHUYỆN MA CHÚ 3 DUY  TẬP 127 VỤ CHƠI BÙA CHẤN ĐỘNG TRI TÔN (An Giang)_trimmed/227.wav
+2023-08-24 01:02:59,420 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Chuyện ma chú 3 Duy/CHUYỆN MA CHÚ 3 DUY  TẬP 127 VỤ CHƠI BÙA CHẤN ĐỘNG TRI TÔN (An Giang)_trimmed/228.wav
+2023-08-24 01:02:59,421 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Chuyện ma chú 3 Duy/CHUYỆN MA CHÚ 3 DUY  TẬP 127 VỤ CHƠI BÙA CHẤN ĐỘNG TRI TÔN (An Giang)_trimmed/229.wav
+2023-08-24 01:02:59,422 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Chuyện ma chú 3 Duy/CHUYỆN MA CHÚ 3 DUY  TẬP 127 VỤ CHƠI BÙA CHẤN ĐỘNG TRI TÔN (An Giang)_trimmed/230.wav
+2023-08-24 01:02:59,423 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Chuyện ma chú 3 Duy/CHUYỆN MA CHÚ 3 DUY  TẬP 127 VỤ CHƠI BÙA CHẤN ĐỘNG TRI TÔN (An Giang)_trimmed/231.wav
+2023-08-24 01:02:59,425 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Chuyện ma chú 3 Duy/CHUYỆN MA CHÚ 3 DUY  TẬP 127 VỤ CHƠI BÙA CHẤN ĐỘNG TRI TÔN (An Giang)_trimmed/232.wav
+2023-08-24 01:02:59,426 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Chuyện ma chú 3 Duy/CHUYỆN MA CHÚ 3 DUY  TẬP 127 VỤ CHƠI BÙA CHẤN ĐỘNG TRI TÔN (An Giang)_trimmed/233.wav
+2023-08-24 01:02:59,427 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Chuyện ma chú 3 Duy/CHUYỆN MA CHÚ 3 DUY  TẬP 127 VỤ CHƠI BÙA CHẤN ĐỘNG TRI TÔN (An Giang)_trimmed/234.wav
+2023-08-24 01:02:59,429 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Chuyện ma chú 3 Duy/CHUYỆN MA CHÚ 3 DUY  TẬP 127 VỤ CHƠI BÙA CHẤN ĐỘNG TRI TÔN (An Giang)_trimmed/235.wav
+2023-08-24 01:02:59,430 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Chuyện ma chú 3 Duy/CHUYỆN MA CHÚ 3 DUY  TẬP 127 VỤ CHƠI BÙA CHẤN ĐỘNG TRI TÔN (An Giang)_trimmed/236.wav
+2023-08-24 01:02:59,431 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Chuyện ma chú 3 Duy/CHUYỆN MA CHÚ 3 DUY  TẬP 127 VỤ CHƠI BÙA CHẤN ĐỘNG TRI TÔN (An Giang)_trimmed/237.wav
+2023-08-24 01:02:59,432 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Chuyện ma chú 3 Duy/CHUYỆN MA CHÚ 3 DUY  TẬP 127 VỤ CHƠI BÙA CHẤN ĐỘNG TRI TÔN (An Giang)_trimmed/238.wav
+2023-08-24 01:02:59,434 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Chuyện ma chú 3 Duy/CHUYỆN MA CHÚ 3 DUY  TẬP 127 VỤ CHƠI BÙA CHẤN ĐỘNG TRI TÔN (An Giang)_trimmed/239.wav
+2023-08-24 01:02:59,435 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Chuyện ma chú 3 Duy/CHUYỆN MA CHÚ 3 DUY  TẬP 127 VỤ CHƠI BÙA CHẤN ĐỘNG TRI TÔN (An Giang)_trimmed/240.wav
+2023-08-24 01:02:59,437 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Chuyện ma chú 3 Duy/CHUYỆN MA CHÚ 3 DUY  TẬP 127 VỤ CHƠI BÙA CHẤN ĐỘNG TRI TÔN (An Giang)_trimmed/241.wav
+2023-08-24 01:02:59,438 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Chuyện ma chú 3 Duy/CHUYỆN MA CHÚ 3 DUY  TẬP 127 VỤ CHƠI BÙA CHẤN ĐỘNG TRI TÔN (An Giang)_trimmed/242.wav
+2023-08-24 01:02:59,439 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Chuyện ma chú 3 Duy/CHUYỆN MA CHÚ 3 DUY  TẬP 127 VỤ CHƠI BÙA CHẤN ĐỘNG TRI TÔN (An Giang)_trimmed/243.wav
+2023-08-24 01:02:59,441 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Chuyện ma chú 3 Duy/CHUYỆN MA CHÚ 3 DUY  TẬP 127 VỤ CHƠI BÙA CHẤN ĐỘNG TRI TÔN (An Giang)_trimmed/244.wav
+2023-08-24 01:02:59,442 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Chuyện ma chú 3 Duy/CHUYỆN MA CHÚ 3 DUY  TẬP 127 VỤ CHƠI BÙA CHẤN ĐỘNG TRI TÔN (An Giang)_trimmed/245.wav
+2023-08-24 01:02:59,444 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Chuyện ma chú 3 Duy/CHUYỆN MA CHÚ 3 DUY  TẬP 127 VỤ CHƠI BÙA CHẤN ĐỘNG TRI TÔN (An Giang)_trimmed/246.wav
+2023-08-24 01:02:59,445 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Chuyện ma chú 3 Duy/CHUYỆN MA CHÚ 3 DUY  TẬP 127 VỤ CHƠI BÙA CHẤN ĐỘNG TRI TÔN (An Giang)_trimmed/247.wav
+2023-08-24 01:02:59,446 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Chuyện ma chú 3 Duy/CHUYỆN MA CHÚ 3 DUY  TẬP 127 VỤ CHƠI BÙA CHẤN ĐỘNG TRI TÔN (An Giang)_trimmed/248.wav
+2023-08-24 01:02:59,447 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Chuyện ma chú 3 Duy/CHUYỆN MA CHÚ 3 DUY  TẬP 127 VỤ CHƠI BÙA CHẤN ĐỘNG TRI TÔN (An Giang)_trimmed/249.wav
+2023-08-24 01:02:59,449 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Chuyện ma chú 3 Duy/CHUYỆN MA CHÚ 3 DUY  TẬP 127 VỤ CHƠI BÙA CHẤN ĐỘNG TRI TÔN (An Giang)_trimmed/250.wav
+2023-08-24 01:02:59,450 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Chuyện ma chú 3 Duy/CHUYỆN MA CHÚ 3 DUY  TẬP 127 VỤ CHƠI BÙA CHẤN ĐỘNG TRI TÔN (An Giang)_trimmed/251.wav
+2023-08-24 01:02:59,451 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Chuyện ma chú 3 Duy/CHUYỆN MA CHÚ 3 DUY  TẬP 127 VỤ CHƠI BÙA CHẤN ĐỘNG TRI TÔN (An Giang)_trimmed/252.wav
+2023-08-24 01:02:59,452 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Chuyện ma chú 3 Duy/CHUYỆN MA CHÚ 3 DUY  TẬP 127 VỤ CHƠI BÙA CHẤN ĐỘNG TRI TÔN (An Giang)_trimmed/253.wav
+2023-08-24 01:02:59,453 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Chuyện ma chú 3 Duy/CHUYỆN MA CHÚ 3 DUY  TẬP 127 VỤ CHƠI BÙA CHẤN ĐỘNG TRI TÔN (An Giang)_trimmed/254.wav
+2023-08-24 01:02:59,455 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Chuyện ma chú 3 Duy/CHUYỆN MA CHÚ 3 DUY  TẬP 127 VỤ CHƠI BÙA CHẤN ĐỘNG TRI TÔN (An Giang)_trimmed/255.wav
+2023-08-24 01:02:59,456 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Chuyện ma chú 3 Duy/CHUYỆN MA CHÚ 3 DUY  TẬP 127 VỤ CHƠI BÙA CHẤN ĐỘNG TRI TÔN (An Giang)_trimmed/256.wav
+2023-08-24 01:02:59,457 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Chuyện ma chú 3 Duy/CHUYỆN MA CHÚ 3 DUY  TẬP 127 VỤ CHƠI BÙA CHẤN ĐỘNG TRI TÔN (An Giang)_trimmed/257.wav
+2023-08-24 01:02:59,458 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Chuyện ma chú 3 Duy/CHUYỆN MA CHÚ 3 DUY  TẬP 127 VỤ CHƠI BÙA CHẤN ĐỘNG TRI TÔN (An Giang)_trimmed/258.wav
+2023-08-24 01:02:59,459 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Chuyện ma chú 3 Duy/CHUYỆN MA CHÚ 3 DUY  TẬP 127 VỤ CHƠI BÙA CHẤN ĐỘNG TRI TÔN (An Giang)_trimmed/259.wav
+2023-08-24 01:02:59,460 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Chuyện ma chú 3 Duy/CHUYỆN MA CHÚ 3 DUY  TẬP 127 VỤ CHƠI BÙA CHẤN ĐỘNG TRI TÔN (An Giang)_trimmed/260.wav
+2023-08-24 01:02:59,462 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Chuyện ma chú 3 Duy/CHUYỆN MA CHÚ 3 DUY  TẬP 127 VỤ CHƠI BÙA CHẤN ĐỘNG TRI TÔN (An Giang)_trimmed/261.wav
+2023-08-24 01:02:59,463 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Chuyện ma chú 3 Duy/CHUYỆN MA CHÚ 3 DUY  TẬP 127 VỤ CHƠI BÙA CHẤN ĐỘNG TRI TÔN (An Giang)_trimmed/262.wav
+2023-08-24 01:02:59,465 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Chuyện ma chú 3 Duy/CHUYỆN MA CHÚ 3 DUY  TẬP 127 VỤ CHƠI BÙA CHẤN ĐỘNG TRI TÔN (An Giang)_trimmed/263.wav
+2023-08-24 01:02:59,466 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Chuyện ma chú 3 Duy/CHUYỆN MA CHÚ 3 DUY  TẬP 127 VỤ CHƠI BÙA CHẤN ĐỘNG TRI TÔN (An Giang)_trimmed/264.wav
+2023-08-24 01:02:59,467 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Chuyện ma chú 3 Duy/CHUYỆN MA CHÚ 3 DUY  TẬP 127 VỤ CHƠI BÙA CHẤN ĐỘNG TRI TÔN (An Giang)_trimmed/265.wav
+2023-08-24 01:02:59,468 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Chuyện ma chú 3 Duy/CHUYỆN MA CHÚ 3 DUY  TẬP 127 VỤ CHƠI BÙA CHẤN ĐỘNG TRI TÔN (An Giang)_trimmed/266.wav
+2023-08-24 01:02:59,469 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Chuyện ma chú 3 Duy/CHUYỆN MA CHÚ 3 DUY  TẬP 127 VỤ CHƠI BÙA CHẤN ĐỘNG TRI TÔN (An Giang)_trimmed/267.wav
+2023-08-24 01:02:59,471 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Chuyện ma chú 3 Duy/CHUYỆN MA CHÚ 3 DUY  TẬP 127 VỤ CHƠI BÙA CHẤN ĐỘNG TRI TÔN (An Giang)_trimmed/268.wav
+2023-08-24 01:02:59,472 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Chuyện ma chú 3 Duy/CHUYỆN MA CHÚ 3 DUY  TẬP 127 VỤ CHƠI BÙA CHẤN ĐỘNG TRI TÔN (An Giang)_trimmed/269.wav
+2023-08-24 01:02:59,473 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Chuyện ma chú 3 Duy/CHUYỆN MA CHÚ 3 DUY  TẬP 127 VỤ CHƠI BÙA CHẤN ĐỘNG TRI TÔN (An Giang)_trimmed/270.wav
+2023-08-24 01:02:59,474 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Chuyện ma chú 3 Duy/CHUYỆN MA CHÚ 3 DUY  TẬP 127 VỤ CHƠI BÙA CHẤN ĐỘNG TRI TÔN (An Giang)_trimmed/271.wav
+2023-08-24 01:02:59,475 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Chuyện ma chú 3 Duy/CHUYỆN MA CHÚ 3 DUY  TẬP 127 VỤ CHƠI BÙA CHẤN ĐỘNG TRI TÔN (An Giang)_trimmed/272.wav
+2023-08-24 01:02:59,476 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Chuyện ma chú 3 Duy/CHUYỆN MA CHÚ 3 DUY  TẬP 127 VỤ CHƠI BÙA CHẤN ĐỘNG TRI TÔN (An Giang)_trimmed/273.wav
+2023-08-24 01:02:59,477 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Chuyện ma chú 3 Duy/CHUYỆN MA CHÚ 3 DUY  TẬP 127 VỤ CHƠI BÙA CHẤN ĐỘNG TRI TÔN (An Giang)_trimmed/274.wav
+2023-08-24 01:02:59,479 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Chuyện ma chú 3 Duy/CHUYỆN MA CHÚ 3 DUY  TẬP 127 VỤ CHƠI BÙA CHẤN ĐỘNG TRI TÔN (An Giang)_trimmed/275.wav
+2023-08-24 01:02:59,480 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Chuyện ma chú 3 Duy/CHUYỆN MA CHÚ 3 DUY  TẬP 127 VỤ CHƠI BÙA CHẤN ĐỘNG TRI TÔN (An Giang)_trimmed/276.wav
+2023-08-24 01:02:59,481 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Chuyện ma chú 3 Duy/CHUYỆN MA CHÚ 3 DUY  TẬP 127 VỤ CHƠI BÙA CHẤN ĐỘNG TRI TÔN (An Giang)_trimmed/277.wav
+2023-08-24 01:02:59,483 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Chuyện ma chú 3 Duy/CHUYỆN MA CHÚ 3 DUY  TẬP 127 VỤ CHƠI BÙA CHẤN ĐỘNG TRI TÔN (An Giang)_trimmed/278.wav
+2023-08-24 01:02:59,484 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Chuyện ma chú 3 Duy/CHUYỆN MA CHÚ 3 DUY  TẬP 127 VỤ CHƠI BÙA CHẤN ĐỘNG TRI TÔN (An Giang)_trimmed/279.wav
+2023-08-24 01:02:59,486 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Chuyện ma chú 3 Duy/CHUYỆN MA CHÚ 3 DUY  TẬP 127 VỤ CHƠI BÙA CHẤN ĐỘNG TRI TÔN (An Giang)_trimmed/280.wav
+2023-08-24 01:02:59,487 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Chuyện ma chú 3 Duy/CHUYỆN MA CHÚ 3 DUY  TẬP 127 VỤ CHƠI BÙA CHẤN ĐỘNG TRI TÔN (An Giang)_trimmed/281.wav
+2023-08-24 01:02:59,488 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Chuyện ma chú 3 Duy/CHUYỆN MA CHÚ 3 DUY  TẬP 127 VỤ CHƠI BÙA CHẤN ĐỘNG TRI TÔN (An Giang)_trimmed/282.wav
+2023-08-24 01:02:59,489 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Chuyện ma chú 3 Duy/CHUYỆN MA CHÚ 3 DUY  TẬP 127 VỤ CHƠI BÙA CHẤN ĐỘNG TRI TÔN (An Giang)_trimmed/283.wav
+2023-08-24 01:02:59,490 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Chuyện ma chú 3 Duy/CHUYỆN MA CHÚ 3 DUY  TẬP 127 VỤ CHƠI BÙA CHẤN ĐỘNG TRI TÔN (An Giang)_trimmed/284.wav
+2023-08-24 01:02:59,491 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Chuyện ma chú 3 Duy/CHUYỆN MA CHÚ 3 DUY  TẬP 127 VỤ CHƠI BÙA CHẤN ĐỘNG TRI TÔN (An Giang)_trimmed/285.wav
+2023-08-24 01:02:59,492 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Chuyện ma chú 3 Duy/CHUYỆN MA CHÚ 3 DUY  TẬP 127 VỤ CHƠI BÙA CHẤN ĐỘNG TRI TÔN (An Giang)_trimmed/286.wav
+2023-08-24 01:02:59,493 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Chuyện ma chú 3 Duy/CHUYỆN MA CHÚ 3 DUY  TẬP 127 VỤ CHƠI BÙA CHẤN ĐỘNG TRI TÔN (An Giang)_trimmed/287.wav
+2023-08-24 01:02:59,495 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Chuyện ma chú 3 Duy/CHUYỆN MA CHÚ 3 DUY  TẬP 127 VỤ CHƠI BÙA CHẤN ĐỘNG TRI TÔN (An Giang)_trimmed/288.wav
+2023-08-24 01:02:59,496 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Chuyện ma chú 3 Duy/CHUYỆN MA CHÚ 3 DUY  TẬP 127 VỤ CHƠI BÙA CHẤN ĐỘNG TRI TÔN (An Giang)_trimmed/289.wav
+2023-08-24 01:02:59,497 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Chuyện ma chú 3 Duy/CHUYỆN MA CHÚ 3 DUY  TẬP 127 VỤ CHƠI BÙA CHẤN ĐỘNG TRI TÔN (An Giang)_trimmed/290.wav
+2023-08-24 01:02:59,498 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Chuyện ma chú 3 Duy/CHUYỆN MA CHÚ 3 DUY  TẬP 127 VỤ CHƠI BÙA CHẤN ĐỘNG TRI TÔN (An Giang)_trimmed/291.wav
+2023-08-24 01:02:59,499 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Chuyện ma chú 3 Duy/CHUYỆN MA CHÚ 3 DUY  TẬP 127 VỤ CHƠI BÙA CHẤN ĐỘNG TRI TÔN (An Giang)_trimmed/292.wav
+2023-08-24 01:02:59,500 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Chuyện ma chú 3 Duy/CHUYỆN MA CHÚ 3 DUY  TẬP 127 VỤ CHƠI BÙA CHẤN ĐỘNG TRI TÔN (An Giang)_trimmed/293.wav
+2023-08-24 01:02:59,502 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Chuyện ma chú 3 Duy/CHUYỆN MA CHÚ 3 DUY  TẬP 127 VỤ CHƠI BÙA CHẤN ĐỘNG TRI TÔN (An Giang)_trimmed/294.wav
+2023-08-24 01:02:59,503 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Chuyện ma chú 3 Duy/CHUYỆN MA CHÚ 3 DUY  TẬP 127 VỤ CHƠI BÙA CHẤN ĐỘNG TRI TÔN (An Giang)_trimmed/295.wav
+2023-08-24 01:02:59,504 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Chuyện ma chú 3 Duy/CHUYỆN MA CHÚ 3 DUY  TẬP 127 VỤ CHƠI BÙA CHẤN ĐỘNG TRI TÔN (An Giang)_trimmed/296.wav
+2023-08-24 01:02:59,506 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Chuyện ma chú 3 Duy/CHUYỆN MA CHÚ 3 DUY  TẬP 127 VỤ CHƠI BÙA CHẤN ĐỘNG TRI TÔN (An Giang)_trimmed/297.wav
+2023-08-24 01:02:59,507 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Chuyện ma chú 3 Duy/CHUYỆN MA CHÚ 3 DUY  TẬP 127 VỤ CHƠI BÙA CHẤN ĐỘNG TRI TÔN (An Giang)_trimmed/298.wav
+2023-08-24 01:02:59,509 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Chuyện ma chú 3 Duy/CHUYỆN MA CHÚ 3 DUY  TẬP 127 VỤ CHƠI BÙA CHẤN ĐỘNG TRI TÔN (An Giang)_trimmed/299.wav
+2023-08-24 01:02:59,511 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Chuyện ma chú 3 Duy/CHUYỆN MA CHÚ 3 DUY  TẬP 127 VỤ CHƠI BÙA CHẤN ĐỘNG TRI TÔN (An Giang)_trimmed/300.wav
+2023-08-24 01:02:59,512 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Chuyện ma chú 3 Duy/CHUYỆN MA CHÚ 3 DUY  TẬP 127 VỤ CHƠI BÙA CHẤN ĐỘNG TRI TÔN (An Giang)_trimmed/301.wav
+2023-08-24 01:02:59,513 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Chuyện ma chú 3 Duy/CHUYỆN MA CHÚ 3 DUY  TẬP 127 VỤ CHƠI BÙA CHẤN ĐỘNG TRI TÔN (An Giang)_trimmed/302.wav
+2023-08-24 01:02:59,515 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Chuyện ma chú 3 Duy/CHUYỆN MA CHÚ 3 DUY  TẬP 127 VỤ CHƠI BÙA CHẤN ĐỘNG TRI TÔN (An Giang)_trimmed/303.wav
+2023-08-24 01:02:59,516 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Chuyện ma chú 3 Duy/CHUYỆN MA CHÚ 3 DUY  TẬP 127 VỤ CHƠI BÙA CHẤN ĐỘNG TRI TÔN (An Giang)_trimmed/304.wav
+2023-08-24 01:02:59,518 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Chuyện ma chú 3 Duy/CHUYỆN MA CHÚ 3 DUY  TẬP 127 VỤ CHƠI BÙA CHẤN ĐỘNG TRI TÔN (An Giang)_trimmed/305.wav
+2023-08-24 01:02:59,519 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Chuyện ma chú 3 Duy/CHUYỆN MA CHÚ 3 DUY  TẬP 127 VỤ CHƠI BÙA CHẤN ĐỘNG TRI TÔN (An Giang)_trimmed/306.wav
+2023-08-24 01:02:59,520 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Chuyện ma chú 3 Duy/CHUYỆN MA CHÚ 3 DUY  TẬP 127 VỤ CHƠI BÙA CHẤN ĐỘNG TRI TÔN (An Giang)_trimmed/307.wav
+2023-08-24 01:02:59,521 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Chuyện ma chú 3 Duy/CHUYỆN MA CHÚ 3 DUY  TẬP 127 VỤ CHƠI BÙA CHẤN ĐỘNG TRI TÔN (An Giang)_trimmed/308.wav
+2023-08-24 01:02:59,522 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Chuyện ma chú 3 Duy/CHUYỆN MA CHÚ 3 DUY  TẬP 127 VỤ CHƠI BÙA CHẤN ĐỘNG TRI TÔN (An Giang)_trimmed/309.wav
+2023-08-24 01:02:59,524 VADProcessor INFO Start removing some unnecessary .wav file in directory: /home/quantum/python/ml_vin/data/train/Chuyện ma chú 3 Duy/CHUYỆN MA CHÚ 3 DUY  TẬP 127 VỤ CHƠI BÙA CHẤN ĐỘNG TRI TÔN (An Giang)_trimmed
+2023-08-24 01:02:59,525 VADProcessor INFO Detect 310 .wav files in /home/quantum/python/ml_vin/data/train/Chuyện ma chú 3 Duy/CHUYỆN MA CHÚ 3 DUY  TẬP 127 VỤ CHƠI BÙA CHẤN ĐỘNG TRI TÔN (An Giang)_trimmed
+2023-08-24 01:02:59,579 VADProcessor INFO Finish removing some unnecessary .wav file
+2023-08-24 01:02:59,579 VADProcessor WARNING 	Remove file: /home/quantum/python/ml_vin/data/train/Chuyện ma chú 3 Duy/CHUYỆN MA CHÚ 3 DUY  TẬP 127 VỤ CHƠI BÙA CHẤN ĐỘNG TRI TÔN (An Giang)_trimmed.wav
+2023-08-24 01:02:59,587 VADProcessor INFO Finish VAD process
+2023-08-24 01:02:59,604 OutlierRemover INFO Start outlier-removing process
+2023-08-24 01:02:59,605 OutlierRemover INFO Detect 310 .wav files in /home/quantum/python/ml_vin/data/train/Chuyện ma chú 3 Duy/CHUYỆN MA CHÚ 3 DUY  TẬP 127 VỤ CHƠI BÙA CHẤN ĐỘNG TRI TÔN (An Giang)_trimmed
+2023-08-24 01:02:59,605 OutlierRemover INFO Calculate the embedding values of audio
+2023-08-24 01:03:29,421 OutlierRemover INFO Score the embedding
+2023-08-24 01:03:42,569 OutlierRemover INFO Remove outliers
+2023-08-24 01:03:42,570 OutlierRemover WARNING 	Remove /home/quantum/python/ml_vin/data/train/Chuyện ma chú 3 Duy/CHUYỆN MA CHÚ 3 DUY  TẬP 127 VỤ CHƠI BÙA CHẤN ĐỘNG TRI TÔN (An Giang)_trimmed/199.wav
+2023-08-24 01:03:42,573 Pipeline INFO Finish processing for voice: Chuyện ma chú 3 Duy
+2023-08-24 01:03:42,573 Pipeline INFO Start downloading videos of voice: Mẹ Nhi healthy
+2023-08-24 01:03:42,573 Pipeline WARNING Create directory data/train/Mẹ Nhi healthy
+2023-08-24 01:03:42,573 Pipeline INFO Url number 43/199
+2023-08-24 01:03:43,831 Downloader INFO Start downloading audio at https://www.youtube.com/watch?v=T-O2IydRsvo
+2023-08-24 01:03:44,471 Downloader WARNING Rename /home/quantum/python/ml_vin/data/train/Mẹ Nhi healthy/TOP 5 APP BÁN HÀNG  ONLINE CHO MẸ BỈM HS-SV - 0 vốn 0 ôm hàng kiếm tiền thật 10trtháng.webm to /home/quantum/python/ml_vin/data/train/Mẹ Nhi healthy/TOP 5 APP BÁN HÀNG  ONLINE CHO MẸ BỈM HS-SV - 0 vốn 0 ôm hàng kiếm tiền thật 10trtháng.mp3
+2023-08-24 01:03:44,471 Downloader INFO Downloaded audio successfully, store at /home/quantum/python/ml_vin/data/train/Mẹ Nhi healthy/TOP 5 APP BÁN HÀNG  ONLINE CHO MẸ BỈM HS-SV - 0 vốn 0 ôm hàng kiếm tiền thật 10trtháng.mp3
+2023-08-24 01:03:44,471 Downloader INFO Convert into .wav and resample audio
+2023-08-24 01:03:47,977 Downloader INFO Remove /home/quantum/python/ml_vin/data/train/Mẹ Nhi healthy/TOP 5 APP BÁN HÀNG  ONLINE CHO MẸ BỈM HS-SV - 0 vốn 0 ôm hàng kiếm tiền thật 10trtháng.mp3
+2023-08-24 01:03:47,980 VADProcessor INFO Start running VAD process with file: /home/quantum/python/ml_vin/data/train/Mẹ Nhi healthy/TOP 5 APP BÁN HÀNG  ONLINE CHO MẸ BỈM HS-SV - 0 vốn 0 ôm hàng kiếm tiền thật 10trtháng.wav
+2023-08-24 01:03:55,581 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Mẹ Nhi healthy/TOP 5 APP BÁN HÀNG  ONLINE CHO MẸ BỈM HS-SV - 0 vốn 0 ôm hàng kiếm tiền thật 10trtháng/0.wav
+2023-08-24 01:03:55,583 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Mẹ Nhi healthy/TOP 5 APP BÁN HÀNG  ONLINE CHO MẸ BỈM HS-SV - 0 vốn 0 ôm hàng kiếm tiền thật 10trtháng/1.wav
+2023-08-24 01:03:55,585 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Mẹ Nhi healthy/TOP 5 APP BÁN HÀNG  ONLINE CHO MẸ BỈM HS-SV - 0 vốn 0 ôm hàng kiếm tiền thật 10trtháng/2.wav
+2023-08-24 01:03:55,587 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Mẹ Nhi healthy/TOP 5 APP BÁN HÀNG  ONLINE CHO MẸ BỈM HS-SV - 0 vốn 0 ôm hàng kiếm tiền thật 10trtháng/3.wav
+2023-08-24 01:03:55,588 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Mẹ Nhi healthy/TOP 5 APP BÁN HÀNG  ONLINE CHO MẸ BỈM HS-SV - 0 vốn 0 ôm hàng kiếm tiền thật 10trtháng/4.wav
+2023-08-24 01:03:55,590 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Mẹ Nhi healthy/TOP 5 APP BÁN HÀNG  ONLINE CHO MẸ BỈM HS-SV - 0 vốn 0 ôm hàng kiếm tiền thật 10trtháng/5.wav
+2023-08-24 01:03:55,591 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Mẹ Nhi healthy/TOP 5 APP BÁN HÀNG  ONLINE CHO MẸ BỈM HS-SV - 0 vốn 0 ôm hàng kiếm tiền thật 10trtháng/6.wav
+2023-08-24 01:03:55,593 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Mẹ Nhi healthy/TOP 5 APP BÁN HÀNG  ONLINE CHO MẸ BỈM HS-SV - 0 vốn 0 ôm hàng kiếm tiền thật 10trtháng/7.wav
+2023-08-24 01:03:55,594 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Mẹ Nhi healthy/TOP 5 APP BÁN HÀNG  ONLINE CHO MẸ BỈM HS-SV - 0 vốn 0 ôm hàng kiếm tiền thật 10trtháng/8.wav
+2023-08-24 01:03:55,596 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Mẹ Nhi healthy/TOP 5 APP BÁN HÀNG  ONLINE CHO MẸ BỈM HS-SV - 0 vốn 0 ôm hàng kiếm tiền thật 10trtháng/9.wav
+2023-08-24 01:03:55,598 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Mẹ Nhi healthy/TOP 5 APP BÁN HÀNG  ONLINE CHO MẸ BỈM HS-SV - 0 vốn 0 ôm hàng kiếm tiền thật 10trtháng/10.wav
+2023-08-24 01:03:55,599 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Mẹ Nhi healthy/TOP 5 APP BÁN HÀNG  ONLINE CHO MẸ BỈM HS-SV - 0 vốn 0 ôm hàng kiếm tiền thật 10trtháng/11.wav
+2023-08-24 01:03:55,601 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Mẹ Nhi healthy/TOP 5 APP BÁN HÀNG  ONLINE CHO MẸ BỈM HS-SV - 0 vốn 0 ôm hàng kiếm tiền thật 10trtháng/12.wav
+2023-08-24 01:03:55,603 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Mẹ Nhi healthy/TOP 5 APP BÁN HÀNG  ONLINE CHO MẸ BỈM HS-SV - 0 vốn 0 ôm hàng kiếm tiền thật 10trtháng/13.wav
+2023-08-24 01:03:55,606 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Mẹ Nhi healthy/TOP 5 APP BÁN HÀNG  ONLINE CHO MẸ BỈM HS-SV - 0 vốn 0 ôm hàng kiếm tiền thật 10trtháng/14.wav
+2023-08-24 01:03:55,610 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Mẹ Nhi healthy/TOP 5 APP BÁN HÀNG  ONLINE CHO MẸ BỈM HS-SV - 0 vốn 0 ôm hàng kiếm tiền thật 10trtháng/15.wav
+2023-08-24 01:03:55,613 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Mẹ Nhi healthy/TOP 5 APP BÁN HÀNG  ONLINE CHO MẸ BỈM HS-SV - 0 vốn 0 ôm hàng kiếm tiền thật 10trtháng/16.wav
+2023-08-24 01:03:55,616 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Mẹ Nhi healthy/TOP 5 APP BÁN HÀNG  ONLINE CHO MẸ BỈM HS-SV - 0 vốn 0 ôm hàng kiếm tiền thật 10trtháng/17.wav
+2023-08-24 01:03:55,618 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Mẹ Nhi healthy/TOP 5 APP BÁN HÀNG  ONLINE CHO MẸ BỈM HS-SV - 0 vốn 0 ôm hàng kiếm tiền thật 10trtháng/18.wav
+2023-08-24 01:03:55,620 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Mẹ Nhi healthy/TOP 5 APP BÁN HÀNG  ONLINE CHO MẸ BỈM HS-SV - 0 vốn 0 ôm hàng kiếm tiền thật 10trtháng/19.wav
+2023-08-24 01:03:55,622 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Mẹ Nhi healthy/TOP 5 APP BÁN HÀNG  ONLINE CHO MẸ BỈM HS-SV - 0 vốn 0 ôm hàng kiếm tiền thật 10trtháng/20.wav
+2023-08-24 01:03:55,624 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Mẹ Nhi healthy/TOP 5 APP BÁN HÀNG  ONLINE CHO MẸ BỈM HS-SV - 0 vốn 0 ôm hàng kiếm tiền thật 10trtháng/21.wav
+2023-08-24 01:03:55,625 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Mẹ Nhi healthy/TOP 5 APP BÁN HÀNG  ONLINE CHO MẸ BỈM HS-SV - 0 vốn 0 ôm hàng kiếm tiền thật 10trtháng/22.wav
+2023-08-24 01:03:55,626 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Mẹ Nhi healthy/TOP 5 APP BÁN HÀNG  ONLINE CHO MẸ BỈM HS-SV - 0 vốn 0 ôm hàng kiếm tiền thật 10trtháng/23.wav
+2023-08-24 01:03:55,628 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Mẹ Nhi healthy/TOP 5 APP BÁN HÀNG  ONLINE CHO MẸ BỈM HS-SV - 0 vốn 0 ôm hàng kiếm tiền thật 10trtháng/24.wav
+2023-08-24 01:03:55,629 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Mẹ Nhi healthy/TOP 5 APP BÁN HÀNG  ONLINE CHO MẸ BỈM HS-SV - 0 vốn 0 ôm hàng kiếm tiền thật 10trtháng/25.wav
+2023-08-24 01:03:55,631 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Mẹ Nhi healthy/TOP 5 APP BÁN HÀNG  ONLINE CHO MẸ BỈM HS-SV - 0 vốn 0 ôm hàng kiếm tiền thật 10trtháng/26.wav
+2023-08-24 01:03:55,632 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Mẹ Nhi healthy/TOP 5 APP BÁN HÀNG  ONLINE CHO MẸ BỈM HS-SV - 0 vốn 0 ôm hàng kiếm tiền thật 10trtháng/27.wav
+2023-08-24 01:03:55,633 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Mẹ Nhi healthy/TOP 5 APP BÁN HÀNG  ONLINE CHO MẸ BỈM HS-SV - 0 vốn 0 ôm hàng kiếm tiền thật 10trtháng/28.wav
+2023-08-24 01:03:55,635 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Mẹ Nhi healthy/TOP 5 APP BÁN HÀNG  ONLINE CHO MẸ BỈM HS-SV - 0 vốn 0 ôm hàng kiếm tiền thật 10trtháng/29.wav
+2023-08-24 01:03:55,637 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Mẹ Nhi healthy/TOP 5 APP BÁN HÀNG  ONLINE CHO MẸ BỈM HS-SV - 0 vốn 0 ôm hàng kiếm tiền thật 10trtháng/30.wav
+2023-08-24 01:03:55,640 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Mẹ Nhi healthy/TOP 5 APP BÁN HÀNG  ONLINE CHO MẸ BỈM HS-SV - 0 vốn 0 ôm hàng kiếm tiền thật 10trtháng/31.wav
+2023-08-24 01:03:55,641 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Mẹ Nhi healthy/TOP 5 APP BÁN HÀNG  ONLINE CHO MẸ BỈM HS-SV - 0 vốn 0 ôm hàng kiếm tiền thật 10trtháng/32.wav
+2023-08-24 01:03:55,642 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Mẹ Nhi healthy/TOP 5 APP BÁN HÀNG  ONLINE CHO MẸ BỈM HS-SV - 0 vốn 0 ôm hàng kiếm tiền thật 10trtháng/33.wav
+2023-08-24 01:03:55,644 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Mẹ Nhi healthy/TOP 5 APP BÁN HÀNG  ONLINE CHO MẸ BỈM HS-SV - 0 vốn 0 ôm hàng kiếm tiền thật 10trtháng/34.wav
+2023-08-24 01:03:55,645 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Mẹ Nhi healthy/TOP 5 APP BÁN HÀNG  ONLINE CHO MẸ BỈM HS-SV - 0 vốn 0 ôm hàng kiếm tiền thật 10trtháng/35.wav
+2023-08-24 01:03:55,646 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Mẹ Nhi healthy/TOP 5 APP BÁN HÀNG  ONLINE CHO MẸ BỈM HS-SV - 0 vốn 0 ôm hàng kiếm tiền thật 10trtháng/36.wav
+2023-08-24 01:03:55,648 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Mẹ Nhi healthy/TOP 5 APP BÁN HÀNG  ONLINE CHO MẸ BỈM HS-SV - 0 vốn 0 ôm hàng kiếm tiền thật 10trtháng/37.wav
+2023-08-24 01:03:55,650 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Mẹ Nhi healthy/TOP 5 APP BÁN HÀNG  ONLINE CHO MẸ BỈM HS-SV - 0 vốn 0 ôm hàng kiếm tiền thật 10trtháng/38.wav
+2023-08-24 01:03:55,651 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Mẹ Nhi healthy/TOP 5 APP BÁN HÀNG  ONLINE CHO MẸ BỈM HS-SV - 0 vốn 0 ôm hàng kiếm tiền thật 10trtháng/39.wav
+2023-08-24 01:03:55,652 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Mẹ Nhi healthy/TOP 5 APP BÁN HÀNG  ONLINE CHO MẸ BỈM HS-SV - 0 vốn 0 ôm hàng kiếm tiền thật 10trtháng/40.wav
+2023-08-24 01:03:55,654 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Mẹ Nhi healthy/TOP 5 APP BÁN HÀNG  ONLINE CHO MẸ BỈM HS-SV - 0 vốn 0 ôm hàng kiếm tiền thật 10trtháng/41.wav
+2023-08-24 01:03:55,657 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Mẹ Nhi healthy/TOP 5 APP BÁN HÀNG  ONLINE CHO MẸ BỈM HS-SV - 0 vốn 0 ôm hàng kiếm tiền thật 10trtháng/42.wav
+2023-08-24 01:03:55,658 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Mẹ Nhi healthy/TOP 5 APP BÁN HÀNG  ONLINE CHO MẸ BỈM HS-SV - 0 vốn 0 ôm hàng kiếm tiền thật 10trtháng/43.wav
+2023-08-24 01:03:55,660 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Mẹ Nhi healthy/TOP 5 APP BÁN HÀNG  ONLINE CHO MẸ BỈM HS-SV - 0 vốn 0 ôm hàng kiếm tiền thật 10trtháng/44.wav
+2023-08-24 01:03:55,661 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Mẹ Nhi healthy/TOP 5 APP BÁN HÀNG  ONLINE CHO MẸ BỈM HS-SV - 0 vốn 0 ôm hàng kiếm tiền thật 10trtháng/45.wav
+2023-08-24 01:03:55,662 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Mẹ Nhi healthy/TOP 5 APP BÁN HÀNG  ONLINE CHO MẸ BỈM HS-SV - 0 vốn 0 ôm hàng kiếm tiền thật 10trtháng/46.wav
+2023-08-24 01:03:55,664 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Mẹ Nhi healthy/TOP 5 APP BÁN HÀNG  ONLINE CHO MẸ BỈM HS-SV - 0 vốn 0 ôm hàng kiếm tiền thật 10trtháng/47.wav
+2023-08-24 01:03:55,666 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Mẹ Nhi healthy/TOP 5 APP BÁN HÀNG  ONLINE CHO MẸ BỈM HS-SV - 0 vốn 0 ôm hàng kiếm tiền thật 10trtháng/48.wav
+2023-08-24 01:03:55,667 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Mẹ Nhi healthy/TOP 5 APP BÁN HÀNG  ONLINE CHO MẸ BỈM HS-SV - 0 vốn 0 ôm hàng kiếm tiền thật 10trtháng/49.wav
+2023-08-24 01:03:55,668 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Mẹ Nhi healthy/TOP 5 APP BÁN HÀNG  ONLINE CHO MẸ BỈM HS-SV - 0 vốn 0 ôm hàng kiếm tiền thật 10trtháng/50.wav
+2023-08-24 01:03:55,670 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Mẹ Nhi healthy/TOP 5 APP BÁN HÀNG  ONLINE CHO MẸ BỈM HS-SV - 0 vốn 0 ôm hàng kiếm tiền thật 10trtháng/51.wav
+2023-08-24 01:03:55,672 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Mẹ Nhi healthy/TOP 5 APP BÁN HÀNG  ONLINE CHO MẸ BỈM HS-SV - 0 vốn 0 ôm hàng kiếm tiền thật 10trtháng/52.wav
+2023-08-24 01:03:55,674 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Mẹ Nhi healthy/TOP 5 APP BÁN HÀNG  ONLINE CHO MẸ BỈM HS-SV - 0 vốn 0 ôm hàng kiếm tiền thật 10trtháng/53.wav
+2023-08-24 01:03:55,675 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Mẹ Nhi healthy/TOP 5 APP BÁN HÀNG  ONLINE CHO MẸ BỈM HS-SV - 0 vốn 0 ôm hàng kiếm tiền thật 10trtháng/54.wav
+2023-08-24 01:03:55,676 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Mẹ Nhi healthy/TOP 5 APP BÁN HÀNG  ONLINE CHO MẸ BỈM HS-SV - 0 vốn 0 ôm hàng kiếm tiền thật 10trtháng/55.wav
+2023-08-24 01:03:55,678 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Mẹ Nhi healthy/TOP 5 APP BÁN HÀNG  ONLINE CHO MẸ BỈM HS-SV - 0 vốn 0 ôm hàng kiếm tiền thật 10trtháng/56.wav
+2023-08-24 01:03:55,679 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Mẹ Nhi healthy/TOP 5 APP BÁN HÀNG  ONLINE CHO MẸ BỈM HS-SV - 0 vốn 0 ôm hàng kiếm tiền thật 10trtháng/57.wav
+2023-08-24 01:03:55,821 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Mẹ Nhi healthy/TOP 5 APP BÁN HÀNG  ONLINE CHO MẸ BỈM HS-SV - 0 vốn 0 ôm hàng kiếm tiền thật 10trtháng/58.wav
+2023-08-24 01:03:55,822 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Mẹ Nhi healthy/TOP 5 APP BÁN HÀNG  ONLINE CHO MẸ BỈM HS-SV - 0 vốn 0 ôm hàng kiếm tiền thật 10trtháng/59.wav
+2023-08-24 01:03:55,824 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Mẹ Nhi healthy/TOP 5 APP BÁN HÀNG  ONLINE CHO MẸ BỈM HS-SV - 0 vốn 0 ôm hàng kiếm tiền thật 10trtháng/60.wav
+2023-08-24 01:03:55,825 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Mẹ Nhi healthy/TOP 5 APP BÁN HÀNG  ONLINE CHO MẸ BỈM HS-SV - 0 vốn 0 ôm hàng kiếm tiền thật 10trtháng/61.wav
+2023-08-24 01:03:55,826 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Mẹ Nhi healthy/TOP 5 APP BÁN HÀNG  ONLINE CHO MẸ BỈM HS-SV - 0 vốn 0 ôm hàng kiếm tiền thật 10trtháng/62.wav
+2023-08-24 01:03:55,827 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Mẹ Nhi healthy/TOP 5 APP BÁN HÀNG  ONLINE CHO MẸ BỈM HS-SV - 0 vốn 0 ôm hàng kiếm tiền thật 10trtháng/63.wav
+2023-08-24 01:03:55,829 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Mẹ Nhi healthy/TOP 5 APP BÁN HÀNG  ONLINE CHO MẸ BỈM HS-SV - 0 vốn 0 ôm hàng kiếm tiền thật 10trtháng/64.wav
+2023-08-24 01:03:55,830 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Mẹ Nhi healthy/TOP 5 APP BÁN HÀNG  ONLINE CHO MẸ BỈM HS-SV - 0 vốn 0 ôm hàng kiếm tiền thật 10trtháng/65.wav
+2023-08-24 01:03:55,831 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Mẹ Nhi healthy/TOP 5 APP BÁN HÀNG  ONLINE CHO MẸ BỈM HS-SV - 0 vốn 0 ôm hàng kiếm tiền thật 10trtháng/66.wav
+2023-08-24 01:03:55,833 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Mẹ Nhi healthy/TOP 5 APP BÁN HÀNG  ONLINE CHO MẸ BỈM HS-SV - 0 vốn 0 ôm hàng kiếm tiền thật 10trtháng/67.wav
+2023-08-24 01:03:55,834 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Mẹ Nhi healthy/TOP 5 APP BÁN HÀNG  ONLINE CHO MẸ BỈM HS-SV - 0 vốn 0 ôm hàng kiếm tiền thật 10trtháng/68.wav
+2023-08-24 01:03:55,836 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Mẹ Nhi healthy/TOP 5 APP BÁN HÀNG  ONLINE CHO MẸ BỈM HS-SV - 0 vốn 0 ôm hàng kiếm tiền thật 10trtháng/69.wav
+2023-08-24 01:03:55,838 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Mẹ Nhi healthy/TOP 5 APP BÁN HÀNG  ONLINE CHO MẸ BỈM HS-SV - 0 vốn 0 ôm hàng kiếm tiền thật 10trtháng/70.wav
+2023-08-24 01:03:55,839 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Mẹ Nhi healthy/TOP 5 APP BÁN HÀNG  ONLINE CHO MẸ BỈM HS-SV - 0 vốn 0 ôm hàng kiếm tiền thật 10trtháng/71.wav
+2023-08-24 01:03:55,840 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Mẹ Nhi healthy/TOP 5 APP BÁN HÀNG  ONLINE CHO MẸ BỈM HS-SV - 0 vốn 0 ôm hàng kiếm tiền thật 10trtháng/72.wav
+2023-08-24 01:03:55,841 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Mẹ Nhi healthy/TOP 5 APP BÁN HÀNG  ONLINE CHO MẸ BỈM HS-SV - 0 vốn 0 ôm hàng kiếm tiền thật 10trtháng/73.wav
+2023-08-24 01:03:55,842 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Mẹ Nhi healthy/TOP 5 APP BÁN HÀNG  ONLINE CHO MẸ BỈM HS-SV - 0 vốn 0 ôm hàng kiếm tiền thật 10trtháng/74.wav
+2023-08-24 01:03:55,844 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Mẹ Nhi healthy/TOP 5 APP BÁN HÀNG  ONLINE CHO MẸ BỈM HS-SV - 0 vốn 0 ôm hàng kiếm tiền thật 10trtháng/75.wav
+2023-08-24 01:03:55,846 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Mẹ Nhi healthy/TOP 5 APP BÁN HÀNG  ONLINE CHO MẸ BỈM HS-SV - 0 vốn 0 ôm hàng kiếm tiền thật 10trtháng/76.wav
+2023-08-24 01:03:55,848 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Mẹ Nhi healthy/TOP 5 APP BÁN HÀNG  ONLINE CHO MẸ BỈM HS-SV - 0 vốn 0 ôm hàng kiếm tiền thật 10trtháng/77.wav
+2023-08-24 01:03:55,852 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Mẹ Nhi healthy/TOP 5 APP BÁN HÀNG  ONLINE CHO MẸ BỈM HS-SV - 0 vốn 0 ôm hàng kiếm tiền thật 10trtháng/78.wav
+2023-08-24 01:03:55,855 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Mẹ Nhi healthy/TOP 5 APP BÁN HÀNG  ONLINE CHO MẸ BỈM HS-SV - 0 vốn 0 ôm hàng kiếm tiền thật 10trtháng/79.wav
+2023-08-24 01:03:55,857 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Mẹ Nhi healthy/TOP 5 APP BÁN HÀNG  ONLINE CHO MẸ BỈM HS-SV - 0 vốn 0 ôm hàng kiếm tiền thật 10trtháng/80.wav
+2023-08-24 01:03:55,859 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Mẹ Nhi healthy/TOP 5 APP BÁN HÀNG  ONLINE CHO MẸ BỈM HS-SV - 0 vốn 0 ôm hàng kiếm tiền thật 10trtháng/81.wav
+2023-08-24 01:03:55,861 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Mẹ Nhi healthy/TOP 5 APP BÁN HÀNG  ONLINE CHO MẸ BỈM HS-SV - 0 vốn 0 ôm hàng kiếm tiền thật 10trtháng/82.wav
+2023-08-24 01:03:55,862 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Mẹ Nhi healthy/TOP 5 APP BÁN HÀNG  ONLINE CHO MẸ BỈM HS-SV - 0 vốn 0 ôm hàng kiếm tiền thật 10trtháng/83.wav
+2023-08-24 01:03:55,863 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Mẹ Nhi healthy/TOP 5 APP BÁN HÀNG  ONLINE CHO MẸ BỈM HS-SV - 0 vốn 0 ôm hàng kiếm tiền thật 10trtháng/84.wav
+2023-08-24 01:03:55,865 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Mẹ Nhi healthy/TOP 5 APP BÁN HÀNG  ONLINE CHO MẸ BỈM HS-SV - 0 vốn 0 ôm hàng kiếm tiền thật 10trtháng/85.wav
+2023-08-24 01:03:55,866 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Mẹ Nhi healthy/TOP 5 APP BÁN HÀNG  ONLINE CHO MẸ BỈM HS-SV - 0 vốn 0 ôm hàng kiếm tiền thật 10trtháng/86.wav
+2023-08-24 01:03:55,867 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Mẹ Nhi healthy/TOP 5 APP BÁN HÀNG  ONLINE CHO MẸ BỈM HS-SV - 0 vốn 0 ôm hàng kiếm tiền thật 10trtháng/87.wav
+2023-08-24 01:03:55,868 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Mẹ Nhi healthy/TOP 5 APP BÁN HÀNG  ONLINE CHO MẸ BỈM HS-SV - 0 vốn 0 ôm hàng kiếm tiền thật 10trtháng/88.wav
+2023-08-24 01:03:55,870 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Mẹ Nhi healthy/TOP 5 APP BÁN HÀNG  ONLINE CHO MẸ BỈM HS-SV - 0 vốn 0 ôm hàng kiếm tiền thật 10trtháng/89.wav
+2023-08-24 01:03:55,871 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Mẹ Nhi healthy/TOP 5 APP BÁN HÀNG  ONLINE CHO MẸ BỈM HS-SV - 0 vốn 0 ôm hàng kiếm tiền thật 10trtháng/90.wav
+2023-08-24 01:03:55,873 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Mẹ Nhi healthy/TOP 5 APP BÁN HÀNG  ONLINE CHO MẸ BỈM HS-SV - 0 vốn 0 ôm hàng kiếm tiền thật 10trtháng/91.wav
+2023-08-24 01:03:55,874 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Mẹ Nhi healthy/TOP 5 APP BÁN HÀNG  ONLINE CHO MẸ BỈM HS-SV - 0 vốn 0 ôm hàng kiếm tiền thật 10trtháng/92.wav
+2023-08-24 01:03:55,876 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Mẹ Nhi healthy/TOP 5 APP BÁN HÀNG  ONLINE CHO MẸ BỈM HS-SV - 0 vốn 0 ôm hàng kiếm tiền thật 10trtháng/93.wav
+2023-08-24 01:03:55,877 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Mẹ Nhi healthy/TOP 5 APP BÁN HÀNG  ONLINE CHO MẸ BỈM HS-SV - 0 vốn 0 ôm hàng kiếm tiền thật 10trtháng/94.wav
+2023-08-24 01:03:55,879 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Mẹ Nhi healthy/TOP 5 APP BÁN HÀNG  ONLINE CHO MẸ BỈM HS-SV - 0 vốn 0 ôm hàng kiếm tiền thật 10trtháng/95.wav
+2023-08-24 01:03:55,880 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Mẹ Nhi healthy/TOP 5 APP BÁN HÀNG  ONLINE CHO MẸ BỈM HS-SV - 0 vốn 0 ôm hàng kiếm tiền thật 10trtháng/96.wav
+2023-08-24 01:03:55,883 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Mẹ Nhi healthy/TOP 5 APP BÁN HÀNG  ONLINE CHO MẸ BỈM HS-SV - 0 vốn 0 ôm hàng kiếm tiền thật 10trtháng/97.wav
+2023-08-24 01:03:55,884 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Mẹ Nhi healthy/TOP 5 APP BÁN HÀNG  ONLINE CHO MẸ BỈM HS-SV - 0 vốn 0 ôm hàng kiếm tiền thật 10trtháng/98.wav
+2023-08-24 01:03:55,886 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Mẹ Nhi healthy/TOP 5 APP BÁN HÀNG  ONLINE CHO MẸ BỈM HS-SV - 0 vốn 0 ôm hàng kiếm tiền thật 10trtháng/99.wav
+2023-08-24 01:03:55,887 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Mẹ Nhi healthy/TOP 5 APP BÁN HÀNG  ONLINE CHO MẸ BỈM HS-SV - 0 vốn 0 ôm hàng kiếm tiền thật 10trtháng/100.wav
+2023-08-24 01:03:55,889 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Mẹ Nhi healthy/TOP 5 APP BÁN HÀNG  ONLINE CHO MẸ BỈM HS-SV - 0 vốn 0 ôm hàng kiếm tiền thật 10trtháng/101.wav
+2023-08-24 01:03:55,890 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Mẹ Nhi healthy/TOP 5 APP BÁN HÀNG  ONLINE CHO MẸ BỈM HS-SV - 0 vốn 0 ôm hàng kiếm tiền thật 10trtháng/102.wav
+2023-08-24 01:03:55,891 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Mẹ Nhi healthy/TOP 5 APP BÁN HÀNG  ONLINE CHO MẸ BỈM HS-SV - 0 vốn 0 ôm hàng kiếm tiền thật 10trtháng/103.wav
+2023-08-24 01:03:55,892 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Mẹ Nhi healthy/TOP 5 APP BÁN HÀNG  ONLINE CHO MẸ BỈM HS-SV - 0 vốn 0 ôm hàng kiếm tiền thật 10trtháng/104.wav
+2023-08-24 01:03:55,893 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Mẹ Nhi healthy/TOP 5 APP BÁN HÀNG  ONLINE CHO MẸ BỈM HS-SV - 0 vốn 0 ôm hàng kiếm tiền thật 10trtháng/105.wav
+2023-08-24 01:03:55,895 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Mẹ Nhi healthy/TOP 5 APP BÁN HÀNG  ONLINE CHO MẸ BỈM HS-SV - 0 vốn 0 ôm hàng kiếm tiền thật 10trtháng/106.wav
+2023-08-24 01:03:55,897 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Mẹ Nhi healthy/TOP 5 APP BÁN HÀNG  ONLINE CHO MẸ BỈM HS-SV - 0 vốn 0 ôm hàng kiếm tiền thật 10trtháng/107.wav
+2023-08-24 01:03:55,899 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Mẹ Nhi healthy/TOP 5 APP BÁN HÀNG  ONLINE CHO MẸ BỈM HS-SV - 0 vốn 0 ôm hàng kiếm tiền thật 10trtháng/108.wav
+2023-08-24 01:03:55,901 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Mẹ Nhi healthy/TOP 5 APP BÁN HÀNG  ONLINE CHO MẸ BỈM HS-SV - 0 vốn 0 ôm hàng kiếm tiền thật 10trtháng/109.wav
+2023-08-24 01:03:55,903 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Mẹ Nhi healthy/TOP 5 APP BÁN HÀNG  ONLINE CHO MẸ BỈM HS-SV - 0 vốn 0 ôm hàng kiếm tiền thật 10trtháng/110.wav
+2023-08-24 01:03:55,904 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Mẹ Nhi healthy/TOP 5 APP BÁN HÀNG  ONLINE CHO MẸ BỈM HS-SV - 0 vốn 0 ôm hàng kiếm tiền thật 10trtháng/111.wav
+2023-08-24 01:03:55,906 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Mẹ Nhi healthy/TOP 5 APP BÁN HÀNG  ONLINE CHO MẸ BỈM HS-SV - 0 vốn 0 ôm hàng kiếm tiền thật 10trtháng/112.wav
+2023-08-24 01:03:55,908 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Mẹ Nhi healthy/TOP 5 APP BÁN HÀNG  ONLINE CHO MẸ BỈM HS-SV - 0 vốn 0 ôm hàng kiếm tiền thật 10trtháng/113.wav
+2023-08-24 01:03:55,909 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Mẹ Nhi healthy/TOP 5 APP BÁN HÀNG  ONLINE CHO MẸ BỈM HS-SV - 0 vốn 0 ôm hàng kiếm tiền thật 10trtháng/114.wav
+2023-08-24 01:03:55,911 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Mẹ Nhi healthy/TOP 5 APP BÁN HÀNG  ONLINE CHO MẸ BỈM HS-SV - 0 vốn 0 ôm hàng kiếm tiền thật 10trtháng/115.wav
+2023-08-24 01:03:55,912 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Mẹ Nhi healthy/TOP 5 APP BÁN HÀNG  ONLINE CHO MẸ BỈM HS-SV - 0 vốn 0 ôm hàng kiếm tiền thật 10trtháng/116.wav
+2023-08-24 01:03:55,913 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Mẹ Nhi healthy/TOP 5 APP BÁN HÀNG  ONLINE CHO MẸ BỈM HS-SV - 0 vốn 0 ôm hàng kiếm tiền thật 10trtháng/117.wav
+2023-08-24 01:03:55,914 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Mẹ Nhi healthy/TOP 5 APP BÁN HÀNG  ONLINE CHO MẸ BỈM HS-SV - 0 vốn 0 ôm hàng kiếm tiền thật 10trtháng/118.wav
+2023-08-24 01:03:55,916 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Mẹ Nhi healthy/TOP 5 APP BÁN HÀNG  ONLINE CHO MẸ BỈM HS-SV - 0 vốn 0 ôm hàng kiếm tiền thật 10trtháng/119.wav
+2023-08-24 01:03:55,918 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Mẹ Nhi healthy/TOP 5 APP BÁN HÀNG  ONLINE CHO MẸ BỈM HS-SV - 0 vốn 0 ôm hàng kiếm tiền thật 10trtháng/120.wav
+2023-08-24 01:03:56,114 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Mẹ Nhi healthy/TOP 5 APP BÁN HÀNG  ONLINE CHO MẸ BỈM HS-SV - 0 vốn 0 ôm hàng kiếm tiền thật 10trtháng/121.wav
+2023-08-24 01:03:56,116 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Mẹ Nhi healthy/TOP 5 APP BÁN HÀNG  ONLINE CHO MẸ BỈM HS-SV - 0 vốn 0 ôm hàng kiếm tiền thật 10trtháng/122.wav
+2023-08-24 01:03:56,118 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Mẹ Nhi healthy/TOP 5 APP BÁN HÀNG  ONLINE CHO MẸ BỈM HS-SV - 0 vốn 0 ôm hàng kiếm tiền thật 10trtháng/123.wav
+2023-08-24 01:03:56,119 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Mẹ Nhi healthy/TOP 5 APP BÁN HÀNG  ONLINE CHO MẸ BỈM HS-SV - 0 vốn 0 ôm hàng kiếm tiền thật 10trtháng/124.wav
+2023-08-24 01:03:56,122 VADProcessor INFO Start removing some unnecessary .wav file in directory: /home/quantum/python/ml_vin/data/train/Mẹ Nhi healthy/TOP 5 APP BÁN HÀNG  ONLINE CHO MẸ BỈM HS-SV - 0 vốn 0 ôm hàng kiếm tiền thật 10trtháng
+2023-08-24 01:03:56,123 VADProcessor INFO Detect 125 .wav files in /home/quantum/python/ml_vin/data/train/Mẹ Nhi healthy/TOP 5 APP BÁN HÀNG  ONLINE CHO MẸ BỈM HS-SV - 0 vốn 0 ôm hàng kiếm tiền thật 10trtháng
+2023-08-24 01:03:56,152 VADProcessor INFO Finish removing some unnecessary .wav file
+2023-08-24 01:03:56,152 VADProcessor WARNING 	Remove file: /home/quantum/python/ml_vin/data/train/Mẹ Nhi healthy/TOP 5 APP BÁN HÀNG  ONLINE CHO MẸ BỈM HS-SV - 0 vốn 0 ôm hàng kiếm tiền thật 10trtháng.wav
+2023-08-24 01:03:56,155 VADProcessor INFO Finish VAD process
+2023-08-24 01:03:56,160 OutlierRemover INFO Start outlier-removing process
+2023-08-24 01:03:56,161 OutlierRemover INFO Detect 125 .wav files in /home/quantum/python/ml_vin/data/train/Mẹ Nhi healthy/TOP 5 APP BÁN HÀNG  ONLINE CHO MẸ BỈM HS-SV - 0 vốn 0 ôm hàng kiếm tiền thật 10trtháng
+2023-08-24 01:03:56,161 OutlierRemover INFO Calculate the embedding values of audio
+2023-08-24 01:04:08,521 OutlierRemover INFO Score the embedding
+2023-08-24 01:04:10,598 OutlierRemover INFO Remove outliers
+2023-08-24 01:04:10,598 OutlierRemover WARNING 	Remove /home/quantum/python/ml_vin/data/train/Mẹ Nhi healthy/TOP 5 APP BÁN HÀNG  ONLINE CHO MẸ BỈM HS-SV - 0 vốn 0 ôm hàng kiếm tiền thật 10trtháng/59.wav
+2023-08-24 01:04:10,599 OutlierRemover WARNING 	Remove /home/quantum/python/ml_vin/data/train/Mẹ Nhi healthy/TOP 5 APP BÁN HÀNG  ONLINE CHO MẸ BỈM HS-SV - 0 vốn 0 ôm hàng kiếm tiền thật 10trtháng/90.wav
+2023-08-24 01:04:10,600 OutlierRemover WARNING 	Remove /home/quantum/python/ml_vin/data/train/Mẹ Nhi healthy/TOP 5 APP BÁN HÀNG  ONLINE CHO MẸ BỈM HS-SV - 0 vốn 0 ôm hàng kiếm tiền thật 10trtháng/88.wav
+2023-08-24 01:04:10,600 OutlierRemover WARNING 	Remove /home/quantum/python/ml_vin/data/train/Mẹ Nhi healthy/TOP 5 APP BÁN HÀNG  ONLINE CHO MẸ BỈM HS-SV - 0 vốn 0 ôm hàng kiếm tiền thật 10trtháng/0.wav
+2023-08-24 01:04:10,601 OutlierRemover WARNING 	Remove /home/quantum/python/ml_vin/data/train/Mẹ Nhi healthy/TOP 5 APP BÁN HÀNG  ONLINE CHO MẸ BỈM HS-SV - 0 vốn 0 ôm hàng kiếm tiền thật 10trtháng/106.wav
+2023-08-24 01:04:10,601 OutlierRemover WARNING 	Remove /home/quantum/python/ml_vin/data/train/Mẹ Nhi healthy/TOP 5 APP BÁN HÀNG  ONLINE CHO MẸ BỈM HS-SV - 0 vốn 0 ôm hàng kiếm tiền thật 10trtháng/68.wav
+2023-08-24 01:04:10,601 OutlierRemover WARNING 	Remove /home/quantum/python/ml_vin/data/train/Mẹ Nhi healthy/TOP 5 APP BÁN HÀNG  ONLINE CHO MẸ BỈM HS-SV - 0 vốn 0 ôm hàng kiếm tiền thật 10trtháng/124.wav
+2023-08-24 01:04:10,602 OutlierRemover WARNING 	Remove /home/quantum/python/ml_vin/data/train/Mẹ Nhi healthy/TOP 5 APP BÁN HÀNG  ONLINE CHO MẸ BỈM HS-SV - 0 vốn 0 ôm hàng kiếm tiền thật 10trtháng/111.wav
+2023-08-24 01:04:10,603 Pipeline INFO Url number 44/199

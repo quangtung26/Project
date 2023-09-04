@@ -1,0 +1,414 @@
+2023-08-24 01:05:18,699 OutlierRemover INFO Detect device: cuda
+2023-08-24 01:05:20,495 Pipeline INFO Start full process
+2023-08-24 01:05:20,501 Pipeline INFO Start downloading videos of voice: Tiệm giày cũ VQ
+2023-08-24 01:05:20,501 Pipeline INFO Url number 1/197
+2023-08-24 01:05:20,501 Pipeline WARNING Skip url https://www.youtube.com/watch?v=tZE5KkTZTT8 because it has finished the process
+2023-08-24 01:05:20,502 Pipeline INFO Url number 2/197
+2023-08-24 01:05:20,502 Pipeline WARNING Skip url https://www.youtube.com/watch?v=-em8iOd_ptY because it has finished the process
+2023-08-24 01:05:20,502 Pipeline INFO Finish processing for voice: Tiệm giày cũ VQ
+2023-08-24 01:05:20,502 Pipeline INFO Start downloading videos of voice: Nguyễn Ngọc Ngạn
+2023-08-24 01:05:20,502 Pipeline INFO Url number 3/197
+2023-08-24 01:05:20,502 Pipeline WARNING Skip url https://www.youtube.com/watch?v=IeDjubTdvXY because it has finished the process
+2023-08-24 01:05:20,502 Pipeline INFO Url number 4/197
+2023-08-24 01:05:20,502 Pipeline WARNING Skip url https://www.youtube.com/watch?v=-7aAnBs8WQc because it has finished the process
+2023-08-24 01:05:20,502 Pipeline INFO Finish processing for voice: Nguyễn Ngọc Ngạn
+2023-08-24 01:05:20,502 Pipeline INFO Start downloading videos of voice: Huy Dao
+2023-08-24 01:05:20,502 Pipeline INFO Url number 5/197
+2023-08-24 01:05:20,503 Pipeline WARNING Skip url https://www.youtube.com/watch?v=BxdMT8NXttY because it has finished the process
+2023-08-24 01:05:20,503 Pipeline INFO Url number 6/197
+2023-08-24 01:05:20,503 Pipeline WARNING Skip url https://www.youtube.com/watch?v=Y3m0_xQ8YPA because it has finished the process
+2023-08-24 01:05:20,503 Pipeline INFO Finish processing for voice: Huy Dao
+2023-08-24 01:05:20,503 Pipeline INFO Start downloading videos of voice: meowisthebest
+2023-08-24 01:05:20,503 Pipeline INFO Url number 7/197
+2023-08-24 01:05:20,503 Pipeline WARNING Skip url https://www.youtube.com/watch?v=7v1pFab1FJ8 because it has finished the process
+2023-08-24 01:05:20,503 Pipeline INFO Url number 8/197
+2023-08-24 01:05:20,503 Pipeline WARNING Skip url https://www.youtube.com/watch?v=BL3uhL60rfQ because it has finished the process
+2023-08-24 01:05:20,503 Pipeline INFO Url number 9/197
+2023-08-24 01:05:20,503 Pipeline WARNING Skip url https://www.youtube.com/watch?v=SbxPsd9H8Ws&t=128s because it has finished the process
+2023-08-24 01:05:20,504 Pipeline INFO Url number 10/197
+2023-08-24 01:05:20,504 Pipeline WARNING Skip url https://www.youtube.com/watch?v=SSmhydiVn2s because it has finished the process
+2023-08-24 01:05:20,504 Pipeline INFO Finish processing for voice: meowisthebest
+2023-08-24 01:05:20,504 Pipeline INFO Start downloading videos of voice: Ngọc Yakult
+2023-08-24 01:05:20,504 Pipeline INFO Url number 11/197
+2023-08-24 01:05:20,504 Pipeline WARNING Skip url https://www.youtube.com/watch?v=AqAZQJFLD-g because it has finished the process
+2023-08-24 01:05:20,504 Pipeline INFO Url number 12/197
+2023-08-24 01:05:20,504 Pipeline WARNING Skip url https://www.youtube.com/watch?v=_uDIe7wGTUM because it has finished the process
+2023-08-24 01:05:20,504 Pipeline INFO Url number 13/197
+2023-08-24 01:05:20,504 Pipeline WARNING Skip url https://www.youtube.com/watch?v=4225gWu9cGE because it has finished the process
+2023-08-24 01:05:20,504 Pipeline INFO Url number 14/197
+2023-08-24 01:05:20,505 Pipeline WARNING Skip url https://www.youtube.com/watch?v=XjUmgttLhCE because it has finished the process
+2023-08-24 01:05:20,505 Pipeline INFO Url number 15/197
+2023-08-24 01:05:20,505 Pipeline WARNING Skip url https://www.youtube.com/watch?v=mS-jZt1VzAo&t=6s because it has finished the process
+2023-08-24 01:05:20,505 Pipeline INFO Url number 16/197
+2023-08-24 01:05:20,505 Pipeline WARNING Skip url https://www.youtube.com/watch?v=46MKGUYekBs because it has finished the process
+2023-08-24 01:05:20,505 Pipeline INFO Url number 17/197
+2023-08-24 01:05:20,505 Pipeline WARNING Skip url https://www.youtube.com/watch?v=VwhJfC4ex_c because it has finished the process
+2023-08-24 01:05:20,505 Pipeline INFO Url number 18/197
+2023-08-24 01:05:20,505 Pipeline WARNING Skip url https://www.youtube.com/watch?v=g3aPx0FF2Bs because it has finished the process
+2023-08-24 01:05:20,505 Pipeline INFO Url number 19/197
+2023-08-24 01:05:20,506 Pipeline WARNING Skip url https://www.youtube.com/watch?v=cYM5OV2etes because it has finished the process
+2023-08-24 01:05:20,506 Pipeline INFO Url number 20/197
+2023-08-24 01:05:20,506 Pipeline WARNING Skip url https://www.youtube.com/watch?v=RqEpSj4c7MU because it has finished the process
+2023-08-24 01:05:20,506 Pipeline INFO Url number 21/197
+2023-08-24 01:05:20,506 Pipeline WARNING Skip url https://www.youtube.com/watch?v=JsEU16KhsjA because it has finished the process
+2023-08-24 01:05:20,506 Pipeline INFO Url number 22/197
+2023-08-24 01:05:20,506 Pipeline WARNING Skip url https://www.youtube.com/watch?v=rQCLLZQHXYg because it has finished the process
+2023-08-24 01:05:20,506 Pipeline INFO Url number 23/197
+2023-08-24 01:05:20,507 Pipeline WARNING Skip url https://www.youtube.com/watch?v=6g7jbIbOCHw because it has finished the process
+2023-08-24 01:05:20,507 Pipeline INFO Url number 24/197
+2023-08-24 01:05:20,507 Pipeline WARNING Skip url https://www.youtube.com/watch?v=XYo3rxMN3DY because it has finished the process
+2023-08-24 01:05:20,507 Pipeline INFO Url number 25/197
+2023-08-24 01:05:20,507 Pipeline WARNING Skip url https://www.youtube.com/watch?v=wlhzF-4sfB4 because it has finished the process
+2023-08-24 01:05:20,507 Pipeline INFO Url number 26/197
+2023-08-24 01:05:20,507 Pipeline WARNING Skip url https://www.youtube.com/watch?v=kg4fDelk8Cc because it has finished the process
+2023-08-24 01:05:20,507 Pipeline INFO Url number 27/197
+2023-08-24 01:05:20,507 Pipeline WARNING Skip url https://www.youtube.com/watch?v=pxyfeAw14_U because it has finished the process
+2023-08-24 01:05:20,508 Pipeline INFO Url number 28/197
+2023-08-24 01:05:20,508 Pipeline WARNING Skip url https://www.youtube.com/watch?v=Xei1z7TOtPM because it has finished the process
+2023-08-24 01:05:20,508 Pipeline INFO Finish processing for voice: Ngọc Yakult
+2023-08-24 01:05:20,508 Pipeline INFO Start downloading videos of voice: Bảo Châu Mobile
+2023-08-24 01:05:20,508 Pipeline INFO Url number 29/197
+2023-08-24 01:05:20,508 Pipeline WARNING Skip url https://www.youtube.com/watch?v=OcxLiRYqJ2I because it has finished the process
+2023-08-24 01:05:20,508 Pipeline INFO Url number 30/197
+2023-08-24 01:05:20,508 Pipeline WARNING Skip url https://www.youtube.com/watch?v=AyClbHM4llM because it has finished the process
+2023-08-24 01:05:20,508 Pipeline INFO Finish processing for voice: Bảo Châu Mobile
+2023-08-24 01:05:20,509 Pipeline INFO Start downloading videos of voice: Tun Cảm Ơn
+2023-08-24 01:05:20,509 Pipeline INFO Url number 31/197
+2023-08-24 01:05:20,509 Pipeline WARNING Skip url https://www.youtube.com/watch?v=odjCDVBCepU because it has finished the process
+2023-08-24 01:05:20,509 Pipeline INFO Finish processing for voice: Tun Cảm Ơn
+2023-08-24 01:05:20,509 Pipeline INFO Start downloading videos of voice: Minh Niệm
+2023-08-24 01:05:20,509 Pipeline INFO Url number 32/197
+2023-08-24 01:05:20,509 Pipeline WARNING Skip url https://www.youtube.com/watch?v=Nv5xNrbPhF0 because it has finished the process
+2023-08-24 01:05:20,509 Pipeline INFO Finish processing for voice: Minh Niệm
+2023-08-24 01:05:20,510 Pipeline INFO Start downloading videos of voice: Thái Hoàng Phi
+2023-08-24 01:05:20,510 Pipeline INFO Url number 33/197
+2023-08-24 01:05:20,510 Pipeline WARNING Skip url https://www.youtube.com/watch?v=xFYA-ZOuzwo because it has finished the process
+2023-08-24 01:05:20,510 Pipeline INFO Finish processing for voice: Thái Hoàng Phi
+2023-08-24 01:05:20,510 Pipeline INFO Start downloading videos of voice: The Hanoi Chamomile
+2023-08-24 01:05:20,510 Pipeline INFO Url number 34/197
+2023-08-24 01:05:20,510 Pipeline WARNING Skip url https://www.youtube.com/watch?v=4AIhLv-qtYk because it has finished the process
+2023-08-24 01:05:20,510 Pipeline INFO Url number 35/197
+2023-08-24 01:05:20,511 Pipeline WARNING Skip url https://www.youtube.com/watch?v=f8NHXvf4ms0 because it has finished the process
+2023-08-24 01:05:20,511 Pipeline INFO Finish processing for voice: The Hanoi Chamomile
+2023-08-24 01:05:20,511 Pipeline INFO Start downloading videos of voice: Web5ngay
+2023-08-24 01:05:20,511 Pipeline INFO Url number 36/197
+2023-08-24 01:05:20,511 Pipeline WARNING Skip url https://www.youtube.com/watch?v=yu3Y3wv3nZk because it has finished the process
+2023-08-24 01:05:20,511 Pipeline INFO Finish processing for voice: Web5ngay
+2023-08-24 01:05:20,511 Pipeline INFO Start downloading videos of voice: Hieu Nguyen (Hieu TV)
+2023-08-24 01:05:20,511 Pipeline INFO Url number 37/197
+2023-08-24 01:05:20,511 Pipeline WARNING Skip url https://www.youtube.com/watch?v=PSsM0K7O5_0 because it has finished the process
+2023-08-24 01:05:20,511 Pipeline INFO Finish processing for voice: Hieu Nguyen (Hieu TV)
+2023-08-24 01:05:20,511 Pipeline INFO Start downloading videos of voice: Duy Thanh Nguyen
+2023-08-24 01:05:20,511 Pipeline INFO Url number 38/197
+2023-08-24 01:05:20,512 Pipeline WARNING Skip url https://www.youtube.com/watch?v=0hJlVqNrnIo because it has finished the process
+2023-08-24 01:05:20,512 Pipeline INFO Finish processing for voice: Duy Thanh Nguyen
+2023-08-24 01:05:20,512 Pipeline INFO Start downloading videos of voice: The Present Writer
+2023-08-24 01:05:20,512 Pipeline INFO Url number 39/197
+2023-08-24 01:05:20,512 Pipeline WARNING Skip url https://www.youtube.com/watch?v=dGLFthZoKeo because it has finished the process
+2023-08-24 01:05:20,512 Pipeline INFO Finish processing for voice: The Present Writer
+2023-08-24 01:05:20,512 Pipeline INFO Start downloading videos of voice: Fonos (Nguyễn Phi Yến)
+2023-08-24 01:05:20,512 Pipeline INFO Url number 40/197
+2023-08-24 01:05:20,512 Pipeline WARNING Skip url https://www.youtube.com/watch?v=c0GMAhY0s5E because it has finished the process
+2023-08-24 01:05:20,512 Pipeline INFO Finish processing for voice: Fonos (Nguyễn Phi Yến)
+2023-08-24 01:05:20,513 Pipeline INFO Start downloading videos of voice: MYSU - Thy Thanh Pham
+2023-08-24 01:05:20,513 Pipeline INFO Url number 41/197
+2023-08-24 01:05:20,513 Pipeline WARNING Skip url https://www.youtube.com/watch?v=pMgUikrV3mQ because it has finished the process
+2023-08-24 01:05:20,513 Pipeline INFO Finish processing for voice: MYSU - Thy Thanh Pham
+2023-08-24 01:05:20,513 Pipeline INFO Start downloading videos of voice: Chuyện ma chú 3 Duy
+2023-08-24 01:05:20,513 Pipeline INFO Url number 42/197
+2023-08-24 01:05:20,513 Pipeline WARNING Skip url https://www.youtube.com/watch?v=00cRV9NTU0s because it has finished the process
+2023-08-24 01:05:20,513 Pipeline INFO Finish processing for voice: Chuyện ma chú 3 Duy
+2023-08-24 01:05:20,513 Pipeline INFO Start downloading videos of voice: Gia Huy Su Su
+2023-08-24 01:05:20,513 Pipeline WARNING Create directory data/train/Gia Huy Su Su
+2023-08-24 01:05:20,514 Pipeline INFO Url number 43/197
+2023-08-24 01:05:22,445 Downloader INFO Start downloading audio at https://www.youtube.com/watch?v=nDmlOrTc-IM
+2023-08-24 01:05:23,053 Downloader WARNING Rename /home/quantum/python/ml_vin/data/train/Gia Huy Su Su/(Tập 55) Thắm Liệu bị Fan cà khịa bị bả chửi tan tành Su bán hàng đừng nói chuyện  tức vậy á.webm to /home/quantum/python/ml_vin/data/train/Gia Huy Su Su/(Tập 55) Thắm Liệu bị Fan cà khịa bị bả chửi tan tành Su bán hàng đừng nói chuyện  tức vậy á.mp3
+2023-08-24 01:05:23,054 Downloader INFO Downloaded audio successfully, store at /home/quantum/python/ml_vin/data/train/Gia Huy Su Su/(Tập 55) Thắm Liệu bị Fan cà khịa bị bả chửi tan tành Su bán hàng đừng nói chuyện  tức vậy á.mp3
+2023-08-24 01:05:23,054 Downloader INFO Convert into .wav and resample audio
+2023-08-24 01:05:28,871 Downloader INFO Remove /home/quantum/python/ml_vin/data/train/Gia Huy Su Su/(Tập 55) Thắm Liệu bị Fan cà khịa bị bả chửi tan tành Su bán hàng đừng nói chuyện  tức vậy á.mp3
+2023-08-24 01:05:28,873 VADProcessor INFO Start running VAD process with file: /home/quantum/python/ml_vin/data/train/Gia Huy Su Su/(Tập 55) Thắm Liệu bị Fan cà khịa bị bả chửi tan tành Su bán hàng đừng nói chuyện  tức vậy á.wav
+2023-08-24 01:05:41,580 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Gia Huy Su Su/(Tập 55) Thắm Liệu bị Fan cà khịa bị bả chửi tan tành Su bán hàng đừng nói chuyện  tức vậy á/0.wav
+2023-08-24 01:05:41,582 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Gia Huy Su Su/(Tập 55) Thắm Liệu bị Fan cà khịa bị bả chửi tan tành Su bán hàng đừng nói chuyện  tức vậy á/1.wav
+2023-08-24 01:05:41,584 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Gia Huy Su Su/(Tập 55) Thắm Liệu bị Fan cà khịa bị bả chửi tan tành Su bán hàng đừng nói chuyện  tức vậy á/2.wav
+2023-08-24 01:05:41,585 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Gia Huy Su Su/(Tập 55) Thắm Liệu bị Fan cà khịa bị bả chửi tan tành Su bán hàng đừng nói chuyện  tức vậy á/3.wav
+2023-08-24 01:05:41,587 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Gia Huy Su Su/(Tập 55) Thắm Liệu bị Fan cà khịa bị bả chửi tan tành Su bán hàng đừng nói chuyện  tức vậy á/4.wav
+2023-08-24 01:05:41,588 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Gia Huy Su Su/(Tập 55) Thắm Liệu bị Fan cà khịa bị bả chửi tan tành Su bán hàng đừng nói chuyện  tức vậy á/5.wav
+2023-08-24 01:05:41,590 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Gia Huy Su Su/(Tập 55) Thắm Liệu bị Fan cà khịa bị bả chửi tan tành Su bán hàng đừng nói chuyện  tức vậy á/6.wav
+2023-08-24 01:05:41,591 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Gia Huy Su Su/(Tập 55) Thắm Liệu bị Fan cà khịa bị bả chửi tan tành Su bán hàng đừng nói chuyện  tức vậy á/7.wav
+2023-08-24 01:05:41,593 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Gia Huy Su Su/(Tập 55) Thắm Liệu bị Fan cà khịa bị bả chửi tan tành Su bán hàng đừng nói chuyện  tức vậy á/8.wav
+2023-08-24 01:05:41,594 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Gia Huy Su Su/(Tập 55) Thắm Liệu bị Fan cà khịa bị bả chửi tan tành Su bán hàng đừng nói chuyện  tức vậy á/9.wav
+2023-08-24 01:05:41,596 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Gia Huy Su Su/(Tập 55) Thắm Liệu bị Fan cà khịa bị bả chửi tan tành Su bán hàng đừng nói chuyện  tức vậy á/10.wav
+2023-08-24 01:05:41,598 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Gia Huy Su Su/(Tập 55) Thắm Liệu bị Fan cà khịa bị bả chửi tan tành Su bán hàng đừng nói chuyện  tức vậy á/11.wav
+2023-08-24 01:05:41,599 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Gia Huy Su Su/(Tập 55) Thắm Liệu bị Fan cà khịa bị bả chửi tan tành Su bán hàng đừng nói chuyện  tức vậy á/12.wav
+2023-08-24 01:05:41,601 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Gia Huy Su Su/(Tập 55) Thắm Liệu bị Fan cà khịa bị bả chửi tan tành Su bán hàng đừng nói chuyện  tức vậy á/13.wav
+2023-08-24 01:05:41,602 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Gia Huy Su Su/(Tập 55) Thắm Liệu bị Fan cà khịa bị bả chửi tan tành Su bán hàng đừng nói chuyện  tức vậy á/14.wav
+2023-08-24 01:05:41,604 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Gia Huy Su Su/(Tập 55) Thắm Liệu bị Fan cà khịa bị bả chửi tan tành Su bán hàng đừng nói chuyện  tức vậy á/15.wav
+2023-08-24 01:05:41,605 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Gia Huy Su Su/(Tập 55) Thắm Liệu bị Fan cà khịa bị bả chửi tan tành Su bán hàng đừng nói chuyện  tức vậy á/16.wav
+2023-08-24 01:05:41,607 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Gia Huy Su Su/(Tập 55) Thắm Liệu bị Fan cà khịa bị bả chửi tan tành Su bán hàng đừng nói chuyện  tức vậy á/17.wav
+2023-08-24 01:05:41,608 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Gia Huy Su Su/(Tập 55) Thắm Liệu bị Fan cà khịa bị bả chửi tan tành Su bán hàng đừng nói chuyện  tức vậy á/18.wav
+2023-08-24 01:05:41,610 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Gia Huy Su Su/(Tập 55) Thắm Liệu bị Fan cà khịa bị bả chửi tan tành Su bán hàng đừng nói chuyện  tức vậy á/19.wav
+2023-08-24 01:05:41,612 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Gia Huy Su Su/(Tập 55) Thắm Liệu bị Fan cà khịa bị bả chửi tan tành Su bán hàng đừng nói chuyện  tức vậy á/20.wav
+2023-08-24 01:05:41,613 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Gia Huy Su Su/(Tập 55) Thắm Liệu bị Fan cà khịa bị bả chửi tan tành Su bán hàng đừng nói chuyện  tức vậy á/21.wav
+2023-08-24 01:05:41,615 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Gia Huy Su Su/(Tập 55) Thắm Liệu bị Fan cà khịa bị bả chửi tan tành Su bán hàng đừng nói chuyện  tức vậy á/22.wav
+2023-08-24 01:05:41,617 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Gia Huy Su Su/(Tập 55) Thắm Liệu bị Fan cà khịa bị bả chửi tan tành Su bán hàng đừng nói chuyện  tức vậy á/23.wav
+2023-08-24 01:05:41,618 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Gia Huy Su Su/(Tập 55) Thắm Liệu bị Fan cà khịa bị bả chửi tan tành Su bán hàng đừng nói chuyện  tức vậy á/24.wav
+2023-08-24 01:05:41,619 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Gia Huy Su Su/(Tập 55) Thắm Liệu bị Fan cà khịa bị bả chửi tan tành Su bán hàng đừng nói chuyện  tức vậy á/25.wav
+2023-08-24 01:05:41,621 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Gia Huy Su Su/(Tập 55) Thắm Liệu bị Fan cà khịa bị bả chửi tan tành Su bán hàng đừng nói chuyện  tức vậy á/26.wav
+2023-08-24 01:05:41,622 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Gia Huy Su Su/(Tập 55) Thắm Liệu bị Fan cà khịa bị bả chửi tan tành Su bán hàng đừng nói chuyện  tức vậy á/27.wav
+2023-08-24 01:05:41,623 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Gia Huy Su Su/(Tập 55) Thắm Liệu bị Fan cà khịa bị bả chửi tan tành Su bán hàng đừng nói chuyện  tức vậy á/28.wav
+2023-08-24 01:05:41,625 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Gia Huy Su Su/(Tập 55) Thắm Liệu bị Fan cà khịa bị bả chửi tan tành Su bán hàng đừng nói chuyện  tức vậy á/29.wav
+2023-08-24 01:05:41,627 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Gia Huy Su Su/(Tập 55) Thắm Liệu bị Fan cà khịa bị bả chửi tan tành Su bán hàng đừng nói chuyện  tức vậy á/30.wav
+2023-08-24 01:05:41,628 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Gia Huy Su Su/(Tập 55) Thắm Liệu bị Fan cà khịa bị bả chửi tan tành Su bán hàng đừng nói chuyện  tức vậy á/31.wav
+2023-08-24 01:05:41,630 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Gia Huy Su Su/(Tập 55) Thắm Liệu bị Fan cà khịa bị bả chửi tan tành Su bán hàng đừng nói chuyện  tức vậy á/32.wav
+2023-08-24 01:05:41,632 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Gia Huy Su Su/(Tập 55) Thắm Liệu bị Fan cà khịa bị bả chửi tan tành Su bán hàng đừng nói chuyện  tức vậy á/33.wav
+2023-08-24 01:05:41,634 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Gia Huy Su Su/(Tập 55) Thắm Liệu bị Fan cà khịa bị bả chửi tan tành Su bán hàng đừng nói chuyện  tức vậy á/34.wav
+2023-08-24 01:05:41,635 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Gia Huy Su Su/(Tập 55) Thắm Liệu bị Fan cà khịa bị bả chửi tan tành Su bán hàng đừng nói chuyện  tức vậy á/35.wav
+2023-08-24 01:05:41,637 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Gia Huy Su Su/(Tập 55) Thắm Liệu bị Fan cà khịa bị bả chửi tan tành Su bán hàng đừng nói chuyện  tức vậy á/36.wav
+2023-08-24 01:05:41,638 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Gia Huy Su Su/(Tập 55) Thắm Liệu bị Fan cà khịa bị bả chửi tan tành Su bán hàng đừng nói chuyện  tức vậy á/37.wav
+2023-08-24 01:05:41,639 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Gia Huy Su Su/(Tập 55) Thắm Liệu bị Fan cà khịa bị bả chửi tan tành Su bán hàng đừng nói chuyện  tức vậy á/38.wav
+2023-08-24 01:05:41,641 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Gia Huy Su Su/(Tập 55) Thắm Liệu bị Fan cà khịa bị bả chửi tan tành Su bán hàng đừng nói chuyện  tức vậy á/39.wav
+2023-08-24 01:05:41,642 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Gia Huy Su Su/(Tập 55) Thắm Liệu bị Fan cà khịa bị bả chửi tan tành Su bán hàng đừng nói chuyện  tức vậy á/40.wav
+2023-08-24 01:05:41,644 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Gia Huy Su Su/(Tập 55) Thắm Liệu bị Fan cà khịa bị bả chửi tan tành Su bán hàng đừng nói chuyện  tức vậy á/41.wav
+2023-08-24 01:05:41,646 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Gia Huy Su Su/(Tập 55) Thắm Liệu bị Fan cà khịa bị bả chửi tan tành Su bán hàng đừng nói chuyện  tức vậy á/42.wav
+2023-08-24 01:05:41,648 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Gia Huy Su Su/(Tập 55) Thắm Liệu bị Fan cà khịa bị bả chửi tan tành Su bán hàng đừng nói chuyện  tức vậy á/43.wav
+2023-08-24 01:05:41,649 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Gia Huy Su Su/(Tập 55) Thắm Liệu bị Fan cà khịa bị bả chửi tan tành Su bán hàng đừng nói chuyện  tức vậy á/44.wav
+2023-08-24 01:05:41,651 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Gia Huy Su Su/(Tập 55) Thắm Liệu bị Fan cà khịa bị bả chửi tan tành Su bán hàng đừng nói chuyện  tức vậy á/45.wav
+2023-08-24 01:05:41,652 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Gia Huy Su Su/(Tập 55) Thắm Liệu bị Fan cà khịa bị bả chửi tan tành Su bán hàng đừng nói chuyện  tức vậy á/46.wav
+2023-08-24 01:05:41,654 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Gia Huy Su Su/(Tập 55) Thắm Liệu bị Fan cà khịa bị bả chửi tan tành Su bán hàng đừng nói chuyện  tức vậy á/47.wav
+2023-08-24 01:05:41,655 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Gia Huy Su Su/(Tập 55) Thắm Liệu bị Fan cà khịa bị bả chửi tan tành Su bán hàng đừng nói chuyện  tức vậy á/48.wav
+2023-08-24 01:05:41,656 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Gia Huy Su Su/(Tập 55) Thắm Liệu bị Fan cà khịa bị bả chửi tan tành Su bán hàng đừng nói chuyện  tức vậy á/49.wav
+2023-08-24 01:05:41,658 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Gia Huy Su Su/(Tập 55) Thắm Liệu bị Fan cà khịa bị bả chửi tan tành Su bán hàng đừng nói chuyện  tức vậy á/50.wav
+2023-08-24 01:05:41,659 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Gia Huy Su Su/(Tập 55) Thắm Liệu bị Fan cà khịa bị bả chửi tan tành Su bán hàng đừng nói chuyện  tức vậy á/51.wav
+2023-08-24 01:05:41,661 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Gia Huy Su Su/(Tập 55) Thắm Liệu bị Fan cà khịa bị bả chửi tan tành Su bán hàng đừng nói chuyện  tức vậy á/52.wav
+2023-08-24 01:05:41,662 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Gia Huy Su Su/(Tập 55) Thắm Liệu bị Fan cà khịa bị bả chửi tan tành Su bán hàng đừng nói chuyện  tức vậy á/53.wav
+2023-08-24 01:05:41,664 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Gia Huy Su Su/(Tập 55) Thắm Liệu bị Fan cà khịa bị bả chửi tan tành Su bán hàng đừng nói chuyện  tức vậy á/54.wav
+2023-08-24 01:05:41,666 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Gia Huy Su Su/(Tập 55) Thắm Liệu bị Fan cà khịa bị bả chửi tan tành Su bán hàng đừng nói chuyện  tức vậy á/55.wav
+2023-08-24 01:05:41,668 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Gia Huy Su Su/(Tập 55) Thắm Liệu bị Fan cà khịa bị bả chửi tan tành Su bán hàng đừng nói chuyện  tức vậy á/56.wav
+2023-08-24 01:05:41,670 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Gia Huy Su Su/(Tập 55) Thắm Liệu bị Fan cà khịa bị bả chửi tan tành Su bán hàng đừng nói chuyện  tức vậy á/57.wav
+2023-08-24 01:05:41,671 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Gia Huy Su Su/(Tập 55) Thắm Liệu bị Fan cà khịa bị bả chửi tan tành Su bán hàng đừng nói chuyện  tức vậy á/58.wav
+2023-08-24 01:05:41,673 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Gia Huy Su Su/(Tập 55) Thắm Liệu bị Fan cà khịa bị bả chửi tan tành Su bán hàng đừng nói chuyện  tức vậy á/59.wav
+2023-08-24 01:05:41,674 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Gia Huy Su Su/(Tập 55) Thắm Liệu bị Fan cà khịa bị bả chửi tan tành Su bán hàng đừng nói chuyện  tức vậy á/60.wav
+2023-08-24 01:05:41,676 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Gia Huy Su Su/(Tập 55) Thắm Liệu bị Fan cà khịa bị bả chửi tan tành Su bán hàng đừng nói chuyện  tức vậy á/61.wav
+2023-08-24 01:05:41,678 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Gia Huy Su Su/(Tập 55) Thắm Liệu bị Fan cà khịa bị bả chửi tan tành Su bán hàng đừng nói chuyện  tức vậy á/62.wav
+2023-08-24 01:05:41,680 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Gia Huy Su Su/(Tập 55) Thắm Liệu bị Fan cà khịa bị bả chửi tan tành Su bán hàng đừng nói chuyện  tức vậy á/63.wav
+2023-08-24 01:05:41,681 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Gia Huy Su Su/(Tập 55) Thắm Liệu bị Fan cà khịa bị bả chửi tan tành Su bán hàng đừng nói chuyện  tức vậy á/64.wav
+2023-08-24 01:05:41,682 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Gia Huy Su Su/(Tập 55) Thắm Liệu bị Fan cà khịa bị bả chửi tan tành Su bán hàng đừng nói chuyện  tức vậy á/65.wav
+2023-08-24 01:05:41,684 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Gia Huy Su Su/(Tập 55) Thắm Liệu bị Fan cà khịa bị bả chửi tan tành Su bán hàng đừng nói chuyện  tức vậy á/66.wav
+2023-08-24 01:05:41,685 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Gia Huy Su Su/(Tập 55) Thắm Liệu bị Fan cà khịa bị bả chửi tan tành Su bán hàng đừng nói chuyện  tức vậy á/67.wav
+2023-08-24 01:05:41,687 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Gia Huy Su Su/(Tập 55) Thắm Liệu bị Fan cà khịa bị bả chửi tan tành Su bán hàng đừng nói chuyện  tức vậy á/68.wav
+2023-08-24 01:05:41,689 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Gia Huy Su Su/(Tập 55) Thắm Liệu bị Fan cà khịa bị bả chửi tan tành Su bán hàng đừng nói chuyện  tức vậy á/69.wav
+2023-08-24 01:05:41,929 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Gia Huy Su Su/(Tập 55) Thắm Liệu bị Fan cà khịa bị bả chửi tan tành Su bán hàng đừng nói chuyện  tức vậy á/70.wav
+2023-08-24 01:05:41,931 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Gia Huy Su Su/(Tập 55) Thắm Liệu bị Fan cà khịa bị bả chửi tan tành Su bán hàng đừng nói chuyện  tức vậy á/71.wav
+2023-08-24 01:05:41,933 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Gia Huy Su Su/(Tập 55) Thắm Liệu bị Fan cà khịa bị bả chửi tan tành Su bán hàng đừng nói chuyện  tức vậy á/72.wav
+2023-08-24 01:05:41,936 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Gia Huy Su Su/(Tập 55) Thắm Liệu bị Fan cà khịa bị bả chửi tan tành Su bán hàng đừng nói chuyện  tức vậy á/73.wav
+2023-08-24 01:05:41,938 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Gia Huy Su Su/(Tập 55) Thắm Liệu bị Fan cà khịa bị bả chửi tan tành Su bán hàng đừng nói chuyện  tức vậy á/74.wav
+2023-08-24 01:05:41,939 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Gia Huy Su Su/(Tập 55) Thắm Liệu bị Fan cà khịa bị bả chửi tan tành Su bán hàng đừng nói chuyện  tức vậy á/75.wav
+2023-08-24 01:05:41,941 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Gia Huy Su Su/(Tập 55) Thắm Liệu bị Fan cà khịa bị bả chửi tan tành Su bán hàng đừng nói chuyện  tức vậy á/76.wav
+2023-08-24 01:05:41,943 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Gia Huy Su Su/(Tập 55) Thắm Liệu bị Fan cà khịa bị bả chửi tan tành Su bán hàng đừng nói chuyện  tức vậy á/77.wav
+2023-08-24 01:05:42,161 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Gia Huy Su Su/(Tập 55) Thắm Liệu bị Fan cà khịa bị bả chửi tan tành Su bán hàng đừng nói chuyện  tức vậy á/78.wav
+2023-08-24 01:05:42,162 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Gia Huy Su Su/(Tập 55) Thắm Liệu bị Fan cà khịa bị bả chửi tan tành Su bán hàng đừng nói chuyện  tức vậy á/79.wav
+2023-08-24 01:05:42,164 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Gia Huy Su Su/(Tập 55) Thắm Liệu bị Fan cà khịa bị bả chửi tan tành Su bán hàng đừng nói chuyện  tức vậy á/80.wav
+2023-08-24 01:05:42,166 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Gia Huy Su Su/(Tập 55) Thắm Liệu bị Fan cà khịa bị bả chửi tan tành Su bán hàng đừng nói chuyện  tức vậy á/81.wav
+2023-08-24 01:05:42,168 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Gia Huy Su Su/(Tập 55) Thắm Liệu bị Fan cà khịa bị bả chửi tan tành Su bán hàng đừng nói chuyện  tức vậy á/82.wav
+2023-08-24 01:05:42,825 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Gia Huy Su Su/(Tập 55) Thắm Liệu bị Fan cà khịa bị bả chửi tan tành Su bán hàng đừng nói chuyện  tức vậy á/83.wav
+2023-08-24 01:05:42,827 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Gia Huy Su Su/(Tập 55) Thắm Liệu bị Fan cà khịa bị bả chửi tan tành Su bán hàng đừng nói chuyện  tức vậy á/84.wav
+2023-08-24 01:05:42,828 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Gia Huy Su Su/(Tập 55) Thắm Liệu bị Fan cà khịa bị bả chửi tan tành Su bán hàng đừng nói chuyện  tức vậy á/85.wav
+2023-08-24 01:05:42,829 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Gia Huy Su Su/(Tập 55) Thắm Liệu bị Fan cà khịa bị bả chửi tan tành Su bán hàng đừng nói chuyện  tức vậy á/86.wav
+2023-08-24 01:05:42,831 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Gia Huy Su Su/(Tập 55) Thắm Liệu bị Fan cà khịa bị bả chửi tan tành Su bán hàng đừng nói chuyện  tức vậy á/87.wav
+2023-08-24 01:05:42,832 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Gia Huy Su Su/(Tập 55) Thắm Liệu bị Fan cà khịa bị bả chửi tan tành Su bán hàng đừng nói chuyện  tức vậy á/88.wav
+2023-08-24 01:05:42,834 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Gia Huy Su Su/(Tập 55) Thắm Liệu bị Fan cà khịa bị bả chửi tan tành Su bán hàng đừng nói chuyện  tức vậy á/89.wav
+2023-08-24 01:05:42,836 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Gia Huy Su Su/(Tập 55) Thắm Liệu bị Fan cà khịa bị bả chửi tan tành Su bán hàng đừng nói chuyện  tức vậy á/90.wav
+2023-08-24 01:05:42,837 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Gia Huy Su Su/(Tập 55) Thắm Liệu bị Fan cà khịa bị bả chửi tan tành Su bán hàng đừng nói chuyện  tức vậy á/91.wav
+2023-08-24 01:05:42,838 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Gia Huy Su Su/(Tập 55) Thắm Liệu bị Fan cà khịa bị bả chửi tan tành Su bán hàng đừng nói chuyện  tức vậy á/92.wav
+2023-08-24 01:05:42,840 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Gia Huy Su Su/(Tập 55) Thắm Liệu bị Fan cà khịa bị bả chửi tan tành Su bán hàng đừng nói chuyện  tức vậy á/93.wav
+2023-08-24 01:05:42,841 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Gia Huy Su Su/(Tập 55) Thắm Liệu bị Fan cà khịa bị bả chửi tan tành Su bán hàng đừng nói chuyện  tức vậy á/94.wav
+2023-08-24 01:05:43,200 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Gia Huy Su Su/(Tập 55) Thắm Liệu bị Fan cà khịa bị bả chửi tan tành Su bán hàng đừng nói chuyện  tức vậy á/95.wav
+2023-08-24 01:05:43,202 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Gia Huy Su Su/(Tập 55) Thắm Liệu bị Fan cà khịa bị bả chửi tan tành Su bán hàng đừng nói chuyện  tức vậy á/96.wav
+2023-08-24 01:05:43,203 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Gia Huy Su Su/(Tập 55) Thắm Liệu bị Fan cà khịa bị bả chửi tan tành Su bán hàng đừng nói chuyện  tức vậy á/97.wav
+2023-08-24 01:05:43,204 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Gia Huy Su Su/(Tập 55) Thắm Liệu bị Fan cà khịa bị bả chửi tan tành Su bán hàng đừng nói chuyện  tức vậy á/98.wav
+2023-08-24 01:05:43,205 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Gia Huy Su Su/(Tập 55) Thắm Liệu bị Fan cà khịa bị bả chửi tan tành Su bán hàng đừng nói chuyện  tức vậy á/99.wav
+2023-08-24 01:05:43,207 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Gia Huy Su Su/(Tập 55) Thắm Liệu bị Fan cà khịa bị bả chửi tan tành Su bán hàng đừng nói chuyện  tức vậy á/100.wav
+2023-08-24 01:05:43,209 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Gia Huy Su Su/(Tập 55) Thắm Liệu bị Fan cà khịa bị bả chửi tan tành Su bán hàng đừng nói chuyện  tức vậy á/101.wav
+2023-08-24 01:05:43,210 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Gia Huy Su Su/(Tập 55) Thắm Liệu bị Fan cà khịa bị bả chửi tan tành Su bán hàng đừng nói chuyện  tức vậy á/102.wav
+2023-08-24 01:05:43,212 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Gia Huy Su Su/(Tập 55) Thắm Liệu bị Fan cà khịa bị bả chửi tan tành Su bán hàng đừng nói chuyện  tức vậy á/103.wav
+2023-08-24 01:05:43,213 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Gia Huy Su Su/(Tập 55) Thắm Liệu bị Fan cà khịa bị bả chửi tan tành Su bán hàng đừng nói chuyện  tức vậy á/104.wav
+2023-08-24 01:05:43,215 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Gia Huy Su Su/(Tập 55) Thắm Liệu bị Fan cà khịa bị bả chửi tan tành Su bán hàng đừng nói chuyện  tức vậy á/105.wav
+2023-08-24 01:05:43,217 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Gia Huy Su Su/(Tập 55) Thắm Liệu bị Fan cà khịa bị bả chửi tan tành Su bán hàng đừng nói chuyện  tức vậy á/106.wav
+2023-08-24 01:05:43,366 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Gia Huy Su Su/(Tập 55) Thắm Liệu bị Fan cà khịa bị bả chửi tan tành Su bán hàng đừng nói chuyện  tức vậy á/107.wav
+2023-08-24 01:05:43,367 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Gia Huy Su Su/(Tập 55) Thắm Liệu bị Fan cà khịa bị bả chửi tan tành Su bán hàng đừng nói chuyện  tức vậy á/108.wav
+2023-08-24 01:05:43,368 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Gia Huy Su Su/(Tập 55) Thắm Liệu bị Fan cà khịa bị bả chửi tan tành Su bán hàng đừng nói chuyện  tức vậy á/109.wav
+2023-08-24 01:05:43,370 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Gia Huy Su Su/(Tập 55) Thắm Liệu bị Fan cà khịa bị bả chửi tan tành Su bán hàng đừng nói chuyện  tức vậy á/110.wav
+2023-08-24 01:05:43,371 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Gia Huy Su Su/(Tập 55) Thắm Liệu bị Fan cà khịa bị bả chửi tan tành Su bán hàng đừng nói chuyện  tức vậy á/111.wav
+2023-08-24 01:05:43,373 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Gia Huy Su Su/(Tập 55) Thắm Liệu bị Fan cà khịa bị bả chửi tan tành Su bán hàng đừng nói chuyện  tức vậy á/112.wav
+2023-08-24 01:05:43,375 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Gia Huy Su Su/(Tập 55) Thắm Liệu bị Fan cà khịa bị bả chửi tan tành Su bán hàng đừng nói chuyện  tức vậy á/113.wav
+2023-08-24 01:05:43,377 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Gia Huy Su Su/(Tập 55) Thắm Liệu bị Fan cà khịa bị bả chửi tan tành Su bán hàng đừng nói chuyện  tức vậy á/114.wav
+2023-08-24 01:05:43,379 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Gia Huy Su Su/(Tập 55) Thắm Liệu bị Fan cà khịa bị bả chửi tan tành Su bán hàng đừng nói chuyện  tức vậy á/115.wav
+2023-08-24 01:05:43,381 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Gia Huy Su Su/(Tập 55) Thắm Liệu bị Fan cà khịa bị bả chửi tan tành Su bán hàng đừng nói chuyện  tức vậy á/116.wav
+2023-08-24 01:05:43,588 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Gia Huy Su Su/(Tập 55) Thắm Liệu bị Fan cà khịa bị bả chửi tan tành Su bán hàng đừng nói chuyện  tức vậy á/117.wav
+2023-08-24 01:05:43,811 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Gia Huy Su Su/(Tập 55) Thắm Liệu bị Fan cà khịa bị bả chửi tan tành Su bán hàng đừng nói chuyện  tức vậy á/118.wav
+2023-08-24 01:05:43,812 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Gia Huy Su Su/(Tập 55) Thắm Liệu bị Fan cà khịa bị bả chửi tan tành Su bán hàng đừng nói chuyện  tức vậy á/119.wav
+2023-08-24 01:05:43,813 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Gia Huy Su Su/(Tập 55) Thắm Liệu bị Fan cà khịa bị bả chửi tan tành Su bán hàng đừng nói chuyện  tức vậy á/120.wav
+2023-08-24 01:05:43,815 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Gia Huy Su Su/(Tập 55) Thắm Liệu bị Fan cà khịa bị bả chửi tan tành Su bán hàng đừng nói chuyện  tức vậy á/121.wav
+2023-08-24 01:05:43,817 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Gia Huy Su Su/(Tập 55) Thắm Liệu bị Fan cà khịa bị bả chửi tan tành Su bán hàng đừng nói chuyện  tức vậy á/122.wav
+2023-08-24 01:05:43,819 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Gia Huy Su Su/(Tập 55) Thắm Liệu bị Fan cà khịa bị bả chửi tan tành Su bán hàng đừng nói chuyện  tức vậy á/123.wav
+2023-08-24 01:05:43,820 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Gia Huy Su Su/(Tập 55) Thắm Liệu bị Fan cà khịa bị bả chửi tan tành Su bán hàng đừng nói chuyện  tức vậy á/124.wav
+2023-08-24 01:05:43,821 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Gia Huy Su Su/(Tập 55) Thắm Liệu bị Fan cà khịa bị bả chửi tan tành Su bán hàng đừng nói chuyện  tức vậy á/125.wav
+2023-08-24 01:05:43,823 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Gia Huy Su Su/(Tập 55) Thắm Liệu bị Fan cà khịa bị bả chửi tan tành Su bán hàng đừng nói chuyện  tức vậy á/126.wav
+2023-08-24 01:05:43,825 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Gia Huy Su Su/(Tập 55) Thắm Liệu bị Fan cà khịa bị bả chửi tan tành Su bán hàng đừng nói chuyện  tức vậy á/127.wav
+2023-08-24 01:05:43,827 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Gia Huy Su Su/(Tập 55) Thắm Liệu bị Fan cà khịa bị bả chửi tan tành Su bán hàng đừng nói chuyện  tức vậy á/128.wav
+2023-08-24 01:05:43,829 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Gia Huy Su Su/(Tập 55) Thắm Liệu bị Fan cà khịa bị bả chửi tan tành Su bán hàng đừng nói chuyện  tức vậy á/129.wav
+2023-08-24 01:05:43,830 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Gia Huy Su Su/(Tập 55) Thắm Liệu bị Fan cà khịa bị bả chửi tan tành Su bán hàng đừng nói chuyện  tức vậy á/130.wav
+2023-08-24 01:05:43,832 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Gia Huy Su Su/(Tập 55) Thắm Liệu bị Fan cà khịa bị bả chửi tan tành Su bán hàng đừng nói chuyện  tức vậy á/131.wav
+2023-08-24 01:05:43,833 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Gia Huy Su Su/(Tập 55) Thắm Liệu bị Fan cà khịa bị bả chửi tan tành Su bán hàng đừng nói chuyện  tức vậy á/132.wav
+2023-08-24 01:05:43,834 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Gia Huy Su Su/(Tập 55) Thắm Liệu bị Fan cà khịa bị bả chửi tan tành Su bán hàng đừng nói chuyện  tức vậy á/133.wav
+2023-08-24 01:05:43,835 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Gia Huy Su Su/(Tập 55) Thắm Liệu bị Fan cà khịa bị bả chửi tan tành Su bán hàng đừng nói chuyện  tức vậy á/134.wav
+2023-08-24 01:05:43,837 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Gia Huy Su Su/(Tập 55) Thắm Liệu bị Fan cà khịa bị bả chửi tan tành Su bán hàng đừng nói chuyện  tức vậy á/135.wav
+2023-08-24 01:05:43,838 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Gia Huy Su Su/(Tập 55) Thắm Liệu bị Fan cà khịa bị bả chửi tan tành Su bán hàng đừng nói chuyện  tức vậy á/136.wav
+2023-08-24 01:05:43,840 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Gia Huy Su Su/(Tập 55) Thắm Liệu bị Fan cà khịa bị bả chửi tan tành Su bán hàng đừng nói chuyện  tức vậy á/137.wav
+2023-08-24 01:05:43,841 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Gia Huy Su Su/(Tập 55) Thắm Liệu bị Fan cà khịa bị bả chửi tan tành Su bán hàng đừng nói chuyện  tức vậy á/138.wav
+2023-08-24 01:05:43,842 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Gia Huy Su Su/(Tập 55) Thắm Liệu bị Fan cà khịa bị bả chửi tan tành Su bán hàng đừng nói chuyện  tức vậy á/139.wav
+2023-08-24 01:05:43,843 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Gia Huy Su Su/(Tập 55) Thắm Liệu bị Fan cà khịa bị bả chửi tan tành Su bán hàng đừng nói chuyện  tức vậy á/140.wav
+2023-08-24 01:05:43,845 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Gia Huy Su Su/(Tập 55) Thắm Liệu bị Fan cà khịa bị bả chửi tan tành Su bán hàng đừng nói chuyện  tức vậy á/141.wav
+2023-08-24 01:05:43,846 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Gia Huy Su Su/(Tập 55) Thắm Liệu bị Fan cà khịa bị bả chửi tan tành Su bán hàng đừng nói chuyện  tức vậy á/142.wav
+2023-08-24 01:05:43,848 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Gia Huy Su Su/(Tập 55) Thắm Liệu bị Fan cà khịa bị bả chửi tan tành Su bán hàng đừng nói chuyện  tức vậy á/143.wav
+2023-08-24 01:05:43,849 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Gia Huy Su Su/(Tập 55) Thắm Liệu bị Fan cà khịa bị bả chửi tan tành Su bán hàng đừng nói chuyện  tức vậy á/144.wav
+2023-08-24 01:05:43,850 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Gia Huy Su Su/(Tập 55) Thắm Liệu bị Fan cà khịa bị bả chửi tan tành Su bán hàng đừng nói chuyện  tức vậy á/145.wav
+2023-08-24 01:05:43,852 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Gia Huy Su Su/(Tập 55) Thắm Liệu bị Fan cà khịa bị bả chửi tan tành Su bán hàng đừng nói chuyện  tức vậy á/146.wav
+2023-08-24 01:05:44,035 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Gia Huy Su Su/(Tập 55) Thắm Liệu bị Fan cà khịa bị bả chửi tan tành Su bán hàng đừng nói chuyện  tức vậy á/147.wav
+2023-08-24 01:05:44,036 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Gia Huy Su Su/(Tập 55) Thắm Liệu bị Fan cà khịa bị bả chửi tan tành Su bán hàng đừng nói chuyện  tức vậy á/148.wav
+2023-08-24 01:05:44,037 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Gia Huy Su Su/(Tập 55) Thắm Liệu bị Fan cà khịa bị bả chửi tan tành Su bán hàng đừng nói chuyện  tức vậy á/149.wav
+2023-08-24 01:05:44,039 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Gia Huy Su Su/(Tập 55) Thắm Liệu bị Fan cà khịa bị bả chửi tan tành Su bán hàng đừng nói chuyện  tức vậy á/150.wav
+2023-08-24 01:05:44,041 VADProcessor INFO Start removing some unnecessary .wav file in directory: /home/quantum/python/ml_vin/data/train/Gia Huy Su Su/(Tập 55) Thắm Liệu bị Fan cà khịa bị bả chửi tan tành Su bán hàng đừng nói chuyện  tức vậy á
+2023-08-24 01:05:44,042 VADProcessor INFO Detect 151 .wav files in /home/quantum/python/ml_vin/data/train/Gia Huy Su Su/(Tập 55) Thắm Liệu bị Fan cà khịa bị bả chửi tan tành Su bán hàng đừng nói chuyện  tức vậy á
+2023-08-24 01:05:44,077 VADProcessor INFO Finish removing some unnecessary .wav file
+2023-08-24 01:05:44,077 VADProcessor WARNING 	Remove file: /home/quantum/python/ml_vin/data/train/Gia Huy Su Su/(Tập 55) Thắm Liệu bị Fan cà khịa bị bả chửi tan tành Su bán hàng đừng nói chuyện  tức vậy á.wav
+2023-08-24 01:05:44,082 VADProcessor INFO Finish VAD process
+2023-08-24 01:05:44,088 OutlierRemover INFO Start outlier-removing process
+2023-08-24 01:05:44,089 OutlierRemover INFO Detect 151 .wav files in /home/quantum/python/ml_vin/data/train/Gia Huy Su Su/(Tập 55) Thắm Liệu bị Fan cà khịa bị bả chửi tan tành Su bán hàng đừng nói chuyện  tức vậy á
+2023-08-24 01:05:44,089 OutlierRemover INFO Calculate the embedding values of audio
+2023-08-24 01:06:00,320 OutlierRemover INFO Score the embedding
+2023-08-24 01:06:03,625 OutlierRemover INFO Remove outliers
+2023-08-24 01:06:03,626 OutlierRemover WARNING 	Remove /home/quantum/python/ml_vin/data/train/Gia Huy Su Su/(Tập 55) Thắm Liệu bị Fan cà khịa bị bả chửi tan tành Su bán hàng đừng nói chuyện  tức vậy á/118.wav
+2023-08-24 01:06:03,626 OutlierRemover WARNING 	Remove /home/quantum/python/ml_vin/data/train/Gia Huy Su Su/(Tập 55) Thắm Liệu bị Fan cà khịa bị bả chửi tan tành Su bán hàng đừng nói chuyện  tức vậy á/69.wav
+2023-08-24 01:06:03,627 OutlierRemover WARNING 	Remove /home/quantum/python/ml_vin/data/train/Gia Huy Su Su/(Tập 55) Thắm Liệu bị Fan cà khịa bị bả chửi tan tành Su bán hàng đừng nói chuyện  tức vậy á/143.wav
+2023-08-24 01:06:03,627 OutlierRemover WARNING 	Remove /home/quantum/python/ml_vin/data/train/Gia Huy Su Su/(Tập 55) Thắm Liệu bị Fan cà khịa bị bả chửi tan tành Su bán hàng đừng nói chuyện  tức vậy á/144.wav
+2023-08-24 01:06:03,628 OutlierRemover WARNING 	Remove /home/quantum/python/ml_vin/data/train/Gia Huy Su Su/(Tập 55) Thắm Liệu bị Fan cà khịa bị bả chửi tan tành Su bán hàng đừng nói chuyện  tức vậy á/117.wav
+2023-08-24 01:06:03,629 OutlierRemover WARNING 	Remove /home/quantum/python/ml_vin/data/train/Gia Huy Su Su/(Tập 55) Thắm Liệu bị Fan cà khịa bị bả chửi tan tành Su bán hàng đừng nói chuyện  tức vậy á/20.wav
+2023-08-24 01:06:03,630 Pipeline INFO Url number 44/197
+2023-08-24 01:06:05,013 Downloader INFO Start downloading audio at https://www.youtube.com/watch?v=w3w5d8s5QO8
+2023-08-24 01:06:05,269 Downloader WARNING Rename /home/quantum/python/ml_vin/data/train/Gia Huy Su Su/(Tập 66) Fan Cà Khịa Tắt đèn LiveStream Thắm Liệu Su Su đáp ứng luôn - lòi bộ tóc quyến rũ.webm to /home/quantum/python/ml_vin/data/train/Gia Huy Su Su/(Tập 66) Fan Cà Khịa Tắt đèn LiveStream Thắm Liệu Su Su đáp ứng luôn - lòi bộ tóc quyến rũ.mp3
+2023-08-24 01:06:05,269 Downloader INFO Downloaded audio successfully, store at /home/quantum/python/ml_vin/data/train/Gia Huy Su Su/(Tập 66) Fan Cà Khịa Tắt đèn LiveStream Thắm Liệu Su Su đáp ứng luôn - lòi bộ tóc quyến rũ.mp3
+2023-08-24 01:06:05,269 Downloader INFO Convert into .wav and resample audio
+2023-08-24 01:06:08,481 Downloader INFO Remove /home/quantum/python/ml_vin/data/train/Gia Huy Su Su/(Tập 66) Fan Cà Khịa Tắt đèn LiveStream Thắm Liệu Su Su đáp ứng luôn - lòi bộ tóc quyến rũ.mp3
+2023-08-24 01:06:08,484 VADProcessor INFO Start running VAD process with file: /home/quantum/python/ml_vin/data/train/Gia Huy Su Su/(Tập 66) Fan Cà Khịa Tắt đèn LiveStream Thắm Liệu Su Su đáp ứng luôn - lòi bộ tóc quyến rũ.wav
+2023-08-24 01:06:14,645 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Gia Huy Su Su/(Tập 66) Fan Cà Khịa Tắt đèn LiveStream Thắm Liệu Su Su đáp ứng luôn - lòi bộ tóc quyến rũ/0.wav
+2023-08-24 01:06:14,646 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Gia Huy Su Su/(Tập 66) Fan Cà Khịa Tắt đèn LiveStream Thắm Liệu Su Su đáp ứng luôn - lòi bộ tóc quyến rũ/1.wav
+2023-08-24 01:06:14,647 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Gia Huy Su Su/(Tập 66) Fan Cà Khịa Tắt đèn LiveStream Thắm Liệu Su Su đáp ứng luôn - lòi bộ tóc quyến rũ/2.wav
+2023-08-24 01:06:14,648 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Gia Huy Su Su/(Tập 66) Fan Cà Khịa Tắt đèn LiveStream Thắm Liệu Su Su đáp ứng luôn - lòi bộ tóc quyến rũ/3.wav
+2023-08-24 01:06:14,650 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Gia Huy Su Su/(Tập 66) Fan Cà Khịa Tắt đèn LiveStream Thắm Liệu Su Su đáp ứng luôn - lòi bộ tóc quyến rũ/4.wav
+2023-08-24 01:06:14,651 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Gia Huy Su Su/(Tập 66) Fan Cà Khịa Tắt đèn LiveStream Thắm Liệu Su Su đáp ứng luôn - lòi bộ tóc quyến rũ/5.wav
+2023-08-24 01:06:14,652 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Gia Huy Su Su/(Tập 66) Fan Cà Khịa Tắt đèn LiveStream Thắm Liệu Su Su đáp ứng luôn - lòi bộ tóc quyến rũ/6.wav
+2023-08-24 01:06:14,653 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Gia Huy Su Su/(Tập 66) Fan Cà Khịa Tắt đèn LiveStream Thắm Liệu Su Su đáp ứng luôn - lòi bộ tóc quyến rũ/7.wav
+2023-08-24 01:06:14,654 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Gia Huy Su Su/(Tập 66) Fan Cà Khịa Tắt đèn LiveStream Thắm Liệu Su Su đáp ứng luôn - lòi bộ tóc quyến rũ/8.wav
+2023-08-24 01:06:14,656 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Gia Huy Su Su/(Tập 66) Fan Cà Khịa Tắt đèn LiveStream Thắm Liệu Su Su đáp ứng luôn - lòi bộ tóc quyến rũ/9.wav
+2023-08-24 01:06:14,659 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Gia Huy Su Su/(Tập 66) Fan Cà Khịa Tắt đèn LiveStream Thắm Liệu Su Su đáp ứng luôn - lòi bộ tóc quyến rũ/10.wav
+2023-08-24 01:06:14,660 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Gia Huy Su Su/(Tập 66) Fan Cà Khịa Tắt đèn LiveStream Thắm Liệu Su Su đáp ứng luôn - lòi bộ tóc quyến rũ/11.wav
+2023-08-24 01:06:14,804 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Gia Huy Su Su/(Tập 66) Fan Cà Khịa Tắt đèn LiveStream Thắm Liệu Su Su đáp ứng luôn - lòi bộ tóc quyến rũ/12.wav
+2023-08-24 01:06:14,963 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Gia Huy Su Su/(Tập 66) Fan Cà Khịa Tắt đèn LiveStream Thắm Liệu Su Su đáp ứng luôn - lòi bộ tóc quyến rũ/13.wav
+2023-08-24 01:06:14,965 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Gia Huy Su Su/(Tập 66) Fan Cà Khịa Tắt đèn LiveStream Thắm Liệu Su Su đáp ứng luôn - lòi bộ tóc quyến rũ/14.wav
+2023-08-24 01:06:14,966 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Gia Huy Su Su/(Tập 66) Fan Cà Khịa Tắt đèn LiveStream Thắm Liệu Su Su đáp ứng luôn - lòi bộ tóc quyến rũ/15.wav
+2023-08-24 01:06:14,968 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Gia Huy Su Su/(Tập 66) Fan Cà Khịa Tắt đèn LiveStream Thắm Liệu Su Su đáp ứng luôn - lòi bộ tóc quyến rũ/16.wav
+2023-08-24 01:06:14,970 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Gia Huy Su Su/(Tập 66) Fan Cà Khịa Tắt đèn LiveStream Thắm Liệu Su Su đáp ứng luôn - lòi bộ tóc quyến rũ/17.wav
+2023-08-24 01:06:15,110 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Gia Huy Su Su/(Tập 66) Fan Cà Khịa Tắt đèn LiveStream Thắm Liệu Su Su đáp ứng luôn - lòi bộ tóc quyến rũ/18.wav
+2023-08-24 01:06:15,111 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Gia Huy Su Su/(Tập 66) Fan Cà Khịa Tắt đèn LiveStream Thắm Liệu Su Su đáp ứng luôn - lòi bộ tóc quyến rũ/19.wav
+2023-08-24 01:06:15,257 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Gia Huy Su Su/(Tập 66) Fan Cà Khịa Tắt đèn LiveStream Thắm Liệu Su Su đáp ứng luôn - lòi bộ tóc quyến rũ/20.wav
+2023-08-24 01:06:15,258 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Gia Huy Su Su/(Tập 66) Fan Cà Khịa Tắt đèn LiveStream Thắm Liệu Su Su đáp ứng luôn - lòi bộ tóc quyến rũ/21.wav
+2023-08-24 01:06:15,259 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Gia Huy Su Su/(Tập 66) Fan Cà Khịa Tắt đèn LiveStream Thắm Liệu Su Su đáp ứng luôn - lòi bộ tóc quyến rũ/22.wav
+2023-08-24 01:06:15,261 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Gia Huy Su Su/(Tập 66) Fan Cà Khịa Tắt đèn LiveStream Thắm Liệu Su Su đáp ứng luôn - lòi bộ tóc quyến rũ/23.wav
+2023-08-24 01:06:15,262 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Gia Huy Su Su/(Tập 66) Fan Cà Khịa Tắt đèn LiveStream Thắm Liệu Su Su đáp ứng luôn - lòi bộ tóc quyến rũ/24.wav
+2023-08-24 01:06:15,263 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Gia Huy Su Su/(Tập 66) Fan Cà Khịa Tắt đèn LiveStream Thắm Liệu Su Su đáp ứng luôn - lòi bộ tóc quyến rũ/25.wav
+2023-08-24 01:06:15,266 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Gia Huy Su Su/(Tập 66) Fan Cà Khịa Tắt đèn LiveStream Thắm Liệu Su Su đáp ứng luôn - lòi bộ tóc quyến rũ/26.wav
+2023-08-24 01:06:15,267 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Gia Huy Su Su/(Tập 66) Fan Cà Khịa Tắt đèn LiveStream Thắm Liệu Su Su đáp ứng luôn - lòi bộ tóc quyến rũ/27.wav
+2023-08-24 01:06:15,268 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Gia Huy Su Su/(Tập 66) Fan Cà Khịa Tắt đèn LiveStream Thắm Liệu Su Su đáp ứng luôn - lòi bộ tóc quyến rũ/28.wav
+2023-08-24 01:06:15,270 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Gia Huy Su Su/(Tập 66) Fan Cà Khịa Tắt đèn LiveStream Thắm Liệu Su Su đáp ứng luôn - lòi bộ tóc quyến rũ/29.wav
+2023-08-24 01:06:15,394 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Gia Huy Su Su/(Tập 66) Fan Cà Khịa Tắt đèn LiveStream Thắm Liệu Su Su đáp ứng luôn - lòi bộ tóc quyến rũ/30.wav
+2023-08-24 01:06:15,395 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Gia Huy Su Su/(Tập 66) Fan Cà Khịa Tắt đèn LiveStream Thắm Liệu Su Su đáp ứng luôn - lòi bộ tóc quyến rũ/31.wav
+2023-08-24 01:06:15,397 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Gia Huy Su Su/(Tập 66) Fan Cà Khịa Tắt đèn LiveStream Thắm Liệu Su Su đáp ứng luôn - lòi bộ tóc quyến rũ/32.wav
+2023-08-24 01:06:15,535 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Gia Huy Su Su/(Tập 66) Fan Cà Khịa Tắt đèn LiveStream Thắm Liệu Su Su đáp ứng luôn - lòi bộ tóc quyến rũ/33.wav
+2023-08-24 01:06:15,536 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Gia Huy Su Su/(Tập 66) Fan Cà Khịa Tắt đèn LiveStream Thắm Liệu Su Su đáp ứng luôn - lòi bộ tóc quyến rũ/34.wav
+2023-08-24 01:06:15,537 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Gia Huy Su Su/(Tập 66) Fan Cà Khịa Tắt đèn LiveStream Thắm Liệu Su Su đáp ứng luôn - lòi bộ tóc quyến rũ/35.wav
+2023-08-24 01:06:15,683 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Gia Huy Su Su/(Tập 66) Fan Cà Khịa Tắt đèn LiveStream Thắm Liệu Su Su đáp ứng luôn - lòi bộ tóc quyến rũ/36.wav
+2023-08-24 01:06:15,685 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Gia Huy Su Su/(Tập 66) Fan Cà Khịa Tắt đèn LiveStream Thắm Liệu Su Su đáp ứng luôn - lòi bộ tóc quyến rũ/37.wav
+2023-08-24 01:06:15,815 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Gia Huy Su Su/(Tập 66) Fan Cà Khịa Tắt đèn LiveStream Thắm Liệu Su Su đáp ứng luôn - lòi bộ tóc quyến rũ/38.wav
+2023-08-24 01:06:15,816 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Gia Huy Su Su/(Tập 66) Fan Cà Khịa Tắt đèn LiveStream Thắm Liệu Su Su đáp ứng luôn - lòi bộ tóc quyến rũ/39.wav
+2023-08-24 01:06:15,819 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Gia Huy Su Su/(Tập 66) Fan Cà Khịa Tắt đèn LiveStream Thắm Liệu Su Su đáp ứng luôn - lòi bộ tóc quyến rũ/40.wav
+2023-08-24 01:06:15,821 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Gia Huy Su Su/(Tập 66) Fan Cà Khịa Tắt đèn LiveStream Thắm Liệu Su Su đáp ứng luôn - lòi bộ tóc quyến rũ/41.wav
+2023-08-24 01:06:15,823 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Gia Huy Su Su/(Tập 66) Fan Cà Khịa Tắt đèn LiveStream Thắm Liệu Su Su đáp ứng luôn - lòi bộ tóc quyến rũ/42.wav
+2023-08-24 01:06:15,824 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Gia Huy Su Su/(Tập 66) Fan Cà Khịa Tắt đèn LiveStream Thắm Liệu Su Su đáp ứng luôn - lòi bộ tóc quyến rũ/43.wav
+2023-08-24 01:06:15,826 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Gia Huy Su Su/(Tập 66) Fan Cà Khịa Tắt đèn LiveStream Thắm Liệu Su Su đáp ứng luôn - lòi bộ tóc quyến rũ/44.wav
+2023-08-24 01:06:15,974 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Gia Huy Su Su/(Tập 66) Fan Cà Khịa Tắt đèn LiveStream Thắm Liệu Su Su đáp ứng luôn - lòi bộ tóc quyến rũ/45.wav
+2023-08-24 01:06:15,976 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Gia Huy Su Su/(Tập 66) Fan Cà Khịa Tắt đèn LiveStream Thắm Liệu Su Su đáp ứng luôn - lòi bộ tóc quyến rũ/46.wav
+2023-08-24 01:06:15,977 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Gia Huy Su Su/(Tập 66) Fan Cà Khịa Tắt đèn LiveStream Thắm Liệu Su Su đáp ứng luôn - lòi bộ tóc quyến rũ/47.wav
+2023-08-24 01:06:15,979 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Gia Huy Su Su/(Tập 66) Fan Cà Khịa Tắt đèn LiveStream Thắm Liệu Su Su đáp ứng luôn - lòi bộ tóc quyến rũ/48.wav
+2023-08-24 01:06:15,981 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Gia Huy Su Su/(Tập 66) Fan Cà Khịa Tắt đèn LiveStream Thắm Liệu Su Su đáp ứng luôn - lòi bộ tóc quyến rũ/49.wav
+2023-08-24 01:06:15,983 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Gia Huy Su Su/(Tập 66) Fan Cà Khịa Tắt đèn LiveStream Thắm Liệu Su Su đáp ứng luôn - lòi bộ tóc quyến rũ/50.wav
+2023-08-24 01:06:15,984 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Gia Huy Su Su/(Tập 66) Fan Cà Khịa Tắt đèn LiveStream Thắm Liệu Su Su đáp ứng luôn - lòi bộ tóc quyến rũ/51.wav
+2023-08-24 01:06:15,985 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Gia Huy Su Su/(Tập 66) Fan Cà Khịa Tắt đèn LiveStream Thắm Liệu Su Su đáp ứng luôn - lòi bộ tóc quyến rũ/52.wav
+2023-08-24 01:06:15,987 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Gia Huy Su Su/(Tập 66) Fan Cà Khịa Tắt đèn LiveStream Thắm Liệu Su Su đáp ứng luôn - lòi bộ tóc quyến rũ/53.wav
+2023-08-24 01:06:15,989 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Gia Huy Su Su/(Tập 66) Fan Cà Khịa Tắt đèn LiveStream Thắm Liệu Su Su đáp ứng luôn - lòi bộ tóc quyến rũ/54.wav
+2023-08-24 01:06:15,989 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Gia Huy Su Su/(Tập 66) Fan Cà Khịa Tắt đèn LiveStream Thắm Liệu Su Su đáp ứng luôn - lòi bộ tóc quyến rũ/55.wav
+2023-08-24 01:06:15,991 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Gia Huy Su Su/(Tập 66) Fan Cà Khịa Tắt đèn LiveStream Thắm Liệu Su Su đáp ứng luôn - lòi bộ tóc quyến rũ/56.wav
+2023-08-24 01:06:15,992 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Gia Huy Su Su/(Tập 66) Fan Cà Khịa Tắt đèn LiveStream Thắm Liệu Su Su đáp ứng luôn - lòi bộ tóc quyến rũ/57.wav
+2023-08-24 01:06:15,993 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Gia Huy Su Su/(Tập 66) Fan Cà Khịa Tắt đèn LiveStream Thắm Liệu Su Su đáp ứng luôn - lòi bộ tóc quyến rũ/58.wav
+2023-08-24 01:06:15,994 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Gia Huy Su Su/(Tập 66) Fan Cà Khịa Tắt đèn LiveStream Thắm Liệu Su Su đáp ứng luôn - lòi bộ tóc quyến rũ/59.wav
+2023-08-24 01:06:15,996 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Gia Huy Su Su/(Tập 66) Fan Cà Khịa Tắt đèn LiveStream Thắm Liệu Su Su đáp ứng luôn - lòi bộ tóc quyến rũ/60.wav
+2023-08-24 01:06:16,313 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Gia Huy Su Su/(Tập 66) Fan Cà Khịa Tắt đèn LiveStream Thắm Liệu Su Su đáp ứng luôn - lòi bộ tóc quyến rũ/61.wav
+2023-08-24 01:06:16,315 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Gia Huy Su Su/(Tập 66) Fan Cà Khịa Tắt đèn LiveStream Thắm Liệu Su Su đáp ứng luôn - lòi bộ tóc quyến rũ/62.wav
+2023-08-24 01:06:16,316 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Gia Huy Su Su/(Tập 66) Fan Cà Khịa Tắt đèn LiveStream Thắm Liệu Su Su đáp ứng luôn - lòi bộ tóc quyến rũ/63.wav
+2023-08-24 01:06:16,318 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Gia Huy Su Su/(Tập 66) Fan Cà Khịa Tắt đèn LiveStream Thắm Liệu Su Su đáp ứng luôn - lòi bộ tóc quyến rũ/64.wav
+2023-08-24 01:06:16,319 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Gia Huy Su Su/(Tập 66) Fan Cà Khịa Tắt đèn LiveStream Thắm Liệu Su Su đáp ứng luôn - lòi bộ tóc quyến rũ/65.wav
+2023-08-24 01:06:16,321 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Gia Huy Su Su/(Tập 66) Fan Cà Khịa Tắt đèn LiveStream Thắm Liệu Su Su đáp ứng luôn - lòi bộ tóc quyến rũ/66.wav
+2023-08-24 01:06:16,322 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Gia Huy Su Su/(Tập 66) Fan Cà Khịa Tắt đèn LiveStream Thắm Liệu Su Su đáp ứng luôn - lòi bộ tóc quyến rũ/67.wav
+2023-08-24 01:06:16,323 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Gia Huy Su Su/(Tập 66) Fan Cà Khịa Tắt đèn LiveStream Thắm Liệu Su Su đáp ứng luôn - lòi bộ tóc quyến rũ/68.wav
+2023-08-24 01:06:16,325 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Gia Huy Su Su/(Tập 66) Fan Cà Khịa Tắt đèn LiveStream Thắm Liệu Su Su đáp ứng luôn - lòi bộ tóc quyến rũ/69.wav
+2023-08-24 01:06:16,326 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Gia Huy Su Su/(Tập 66) Fan Cà Khịa Tắt đèn LiveStream Thắm Liệu Su Su đáp ứng luôn - lòi bộ tóc quyến rũ/70.wav
+2023-08-24 01:06:16,327 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Gia Huy Su Su/(Tập 66) Fan Cà Khịa Tắt đèn LiveStream Thắm Liệu Su Su đáp ứng luôn - lòi bộ tóc quyến rũ/71.wav
+2023-08-24 01:06:16,328 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Gia Huy Su Su/(Tập 66) Fan Cà Khịa Tắt đèn LiveStream Thắm Liệu Su Su đáp ứng luôn - lòi bộ tóc quyến rũ/72.wav
+2023-08-24 01:06:16,478 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Gia Huy Su Su/(Tập 66) Fan Cà Khịa Tắt đèn LiveStream Thắm Liệu Su Su đáp ứng luôn - lòi bộ tóc quyến rũ/73.wav
+2023-08-24 01:06:16,480 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Gia Huy Su Su/(Tập 66) Fan Cà Khịa Tắt đèn LiveStream Thắm Liệu Su Su đáp ứng luôn - lòi bộ tóc quyến rũ/74.wav
+2023-08-24 01:06:16,481 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Gia Huy Su Su/(Tập 66) Fan Cà Khịa Tắt đèn LiveStream Thắm Liệu Su Su đáp ứng luôn - lòi bộ tóc quyến rũ/75.wav
+2023-08-24 01:06:16,483 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Gia Huy Su Su/(Tập 66) Fan Cà Khịa Tắt đèn LiveStream Thắm Liệu Su Su đáp ứng luôn - lòi bộ tóc quyến rũ/76.wav
+2023-08-24 01:06:16,485 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Gia Huy Su Su/(Tập 66) Fan Cà Khịa Tắt đèn LiveStream Thắm Liệu Su Su đáp ứng luôn - lòi bộ tóc quyến rũ/77.wav
+2023-08-24 01:06:16,614 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Gia Huy Su Su/(Tập 66) Fan Cà Khịa Tắt đèn LiveStream Thắm Liệu Su Su đáp ứng luôn - lòi bộ tóc quyến rũ/78.wav
+2023-08-24 01:06:16,616 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Gia Huy Su Su/(Tập 66) Fan Cà Khịa Tắt đèn LiveStream Thắm Liệu Su Su đáp ứng luôn - lòi bộ tóc quyến rũ/79.wav
+2023-08-24 01:06:16,619 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Gia Huy Su Su/(Tập 66) Fan Cà Khịa Tắt đèn LiveStream Thắm Liệu Su Su đáp ứng luôn - lòi bộ tóc quyến rũ/80.wav
+2023-08-24 01:06:16,622 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Gia Huy Su Su/(Tập 66) Fan Cà Khịa Tắt đèn LiveStream Thắm Liệu Su Su đáp ứng luôn - lòi bộ tóc quyến rũ/81.wav
+2023-08-24 01:06:16,818 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Gia Huy Su Su/(Tập 66) Fan Cà Khịa Tắt đèn LiveStream Thắm Liệu Su Su đáp ứng luôn - lòi bộ tóc quyến rũ/82.wav
+2023-08-24 01:06:16,820 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Gia Huy Su Su/(Tập 66) Fan Cà Khịa Tắt đèn LiveStream Thắm Liệu Su Su đáp ứng luôn - lòi bộ tóc quyến rũ/83.wav
+2023-08-24 01:06:16,821 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Gia Huy Su Su/(Tập 66) Fan Cà Khịa Tắt đèn LiveStream Thắm Liệu Su Su đáp ứng luôn - lòi bộ tóc quyến rũ/84.wav
+2023-08-24 01:06:16,823 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Gia Huy Su Su/(Tập 66) Fan Cà Khịa Tắt đèn LiveStream Thắm Liệu Su Su đáp ứng luôn - lòi bộ tóc quyến rũ/85.wav
+2023-08-24 01:06:16,824 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Gia Huy Su Su/(Tập 66) Fan Cà Khịa Tắt đèn LiveStream Thắm Liệu Su Su đáp ứng luôn - lòi bộ tóc quyến rũ/86.wav
+2023-08-24 01:06:16,826 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/Gia Huy Su Su/(Tập 66) Fan Cà Khịa Tắt đèn LiveStream Thắm Liệu Su Su đáp ứng luôn - lòi bộ tóc quyến rũ/87.wav
+2023-08-24 01:06:16,827 VADProcessor INFO Start removing some unnecessary .wav file in directory: /home/quantum/python/ml_vin/data/train/Gia Huy Su Su/(Tập 66) Fan Cà Khịa Tắt đèn LiveStream Thắm Liệu Su Su đáp ứng luôn - lòi bộ tóc quyến rũ
+2023-08-24 01:06:16,828 VADProcessor INFO Detect 88 .wav files in /home/quantum/python/ml_vin/data/train/Gia Huy Su Su/(Tập 66) Fan Cà Khịa Tắt đèn LiveStream Thắm Liệu Su Su đáp ứng luôn - lòi bộ tóc quyến rũ
+2023-08-24 01:06:16,847 VADProcessor INFO Finish removing some unnecessary .wav file
+2023-08-24 01:06:16,847 VADProcessor WARNING 	Remove file: /home/quantum/python/ml_vin/data/train/Gia Huy Su Su/(Tập 66) Fan Cà Khịa Tắt đèn LiveStream Thắm Liệu Su Su đáp ứng luôn - lòi bộ tóc quyến rũ.wav
+2023-08-24 01:06:16,850 VADProcessor INFO Finish VAD process
+2023-08-24 01:06:16,853 OutlierRemover INFO Start outlier-removing process
+2023-08-24 01:06:16,853 OutlierRemover INFO Detect 88 .wav files in /home/quantum/python/ml_vin/data/train/Gia Huy Su Su/(Tập 66) Fan Cà Khịa Tắt đèn LiveStream Thắm Liệu Su Su đáp ứng luôn - lòi bộ tóc quyến rũ
+2023-08-24 01:06:16,854 OutlierRemover INFO Calculate the embedding values of audio
+2023-08-24 01:06:25,932 OutlierRemover INFO Score the embedding
+2023-08-24 01:06:26,890 OutlierRemover INFO Remove outliers
+2023-08-24 01:06:26,891 OutlierRemover WARNING 	Remove /home/quantum/python/ml_vin/data/train/Gia Huy Su Su/(Tập 66) Fan Cà Khịa Tắt đèn LiveStream Thắm Liệu Su Su đáp ứng luôn - lòi bộ tóc quyến rũ/10.wav
+2023-08-24 01:06:26,891 OutlierRemover WARNING 	Remove /home/quantum/python/ml_vin/data/train/Gia Huy Su Su/(Tập 66) Fan Cà Khịa Tắt đèn LiveStream Thắm Liệu Su Su đáp ứng luôn - lòi bộ tóc quyến rũ/52.wav
+2023-08-24 01:06:26,892 OutlierRemover WARNING 	Remove /home/quantum/python/ml_vin/data/train/Gia Huy Su Su/(Tập 66) Fan Cà Khịa Tắt đèn LiveStream Thắm Liệu Su Su đáp ứng luôn - lòi bộ tóc quyến rũ/58.wav
+2023-08-24 01:06:26,892 OutlierRemover WARNING 	Remove /home/quantum/python/ml_vin/data/train/Gia Huy Su Su/(Tập 66) Fan Cà Khịa Tắt đèn LiveStream Thắm Liệu Su Su đáp ứng luôn - lòi bộ tóc quyến rũ/47.wav
+2023-08-24 01:06:26,893 OutlierRemover WARNING 	Remove /home/quantum/python/ml_vin/data/train/Gia Huy Su Su/(Tập 66) Fan Cà Khịa Tắt đèn LiveStream Thắm Liệu Su Su đáp ứng luôn - lòi bộ tóc quyến rũ/64.wav
+2023-08-24 01:06:26,893 OutlierRemover WARNING 	Remove /home/quantum/python/ml_vin/data/train/Gia Huy Su Su/(Tập 66) Fan Cà Khịa Tắt đèn LiveStream Thắm Liệu Su Su đáp ứng luôn - lòi bộ tóc quyến rũ/50.wav
+2023-08-24 01:06:26,894 OutlierRemover WARNING 	Remove /home/quantum/python/ml_vin/data/train/Gia Huy Su Su/(Tập 66) Fan Cà Khịa Tắt đèn LiveStream Thắm Liệu Su Su đáp ứng luôn - lòi bộ tóc quyến rũ/23.wav
+2023-08-24 01:06:26,894 OutlierRemover WARNING 	Remove /home/quantum/python/ml_vin/data/train/Gia Huy Su Su/(Tập 66) Fan Cà Khịa Tắt đèn LiveStream Thắm Liệu Su Su đáp ứng luôn - lòi bộ tóc quyến rũ/75.wav
+2023-08-24 01:06:26,895 OutlierRemover WARNING 	Remove /home/quantum/python/ml_vin/data/train/Gia Huy Su Su/(Tập 66) Fan Cà Khịa Tắt đèn LiveStream Thắm Liệu Su Su đáp ứng luôn - lòi bộ tóc quyến rũ/4.wav
+2023-08-24 01:06:26,896 Pipeline INFO Finish processing for voice: Gia Huy Su Su
+2023-08-24 01:06:26,896 Pipeline INFO Start downloading videos of voice: Trang Khàn
+2023-08-24 01:06:26,896 Pipeline WARNING Create directory data/train/Trang Khàn
+2023-08-24 01:06:26,896 Pipeline INFO Url number 45/197

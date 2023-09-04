@@ -1,0 +1,14 @@
+tqdm
+pandas
+pytube
+librosa
+soundfile
+speechbrain
+onnxruntime
+pyyaml
+scikit-learn
+scipy
+torch
+torchaudio
+asteroid-filterbanks
+streamlit

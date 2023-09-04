@@ -1,0 +1,15 @@
+model: VGG_M_40
+encoder_type: SAP
+n_out: 512
+batch_size: 512
+loss_function: aamsoftmax
+augment: True
+max_epoch: 50
+save_path: output/VGG_M_40_AAM
+train_list: data/metadata/train/training_metadata.txt
+train_path: ./
+test_list: data/metadata/test/sample_test_pairs.txt
+test_path: data/test/sv_vlsp_2021/public_test/competition_public_test
+musan_path: data/musan_augment
+rir_path: data/rirs_noises
+output_path: output/testing_results/public_test

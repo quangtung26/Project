@@ -1,0 +1,394 @@
+2023-08-24 00:58:40,591 OutlierRemover INFO Detect device: cuda
+2023-08-24 00:58:43,898 Pipeline INFO Start full process
+2023-08-24 00:58:43,911 Pipeline INFO Start downloading videos of voice: Tiệm giày cũ VQ
+2023-08-24 00:58:43,911 Pipeline INFO Url number 1/200
+2023-08-24 00:58:43,911 Pipeline WARNING Skip url https://www.youtube.com/watch?v=tZE5KkTZTT8 because it has finished the process
+2023-08-24 00:58:43,911 Pipeline INFO Url number 2/200
+2023-08-24 00:58:43,911 Pipeline WARNING Skip url https://www.youtube.com/watch?v=-em8iOd_ptY because it has finished the process
+2023-08-24 00:58:43,911 Pipeline INFO Finish processing for voice: Tiệm giày cũ VQ
+2023-08-24 00:58:43,911 Pipeline INFO Start downloading videos of voice: Nguyễn Ngọc Ngạn
+2023-08-24 00:58:43,911 Pipeline INFO Url number 3/200
+2023-08-24 00:58:43,911 Pipeline WARNING Skip url https://www.youtube.com/watch?v=IeDjubTdvXY because it has finished the process
+2023-08-24 00:58:43,911 Pipeline INFO Url number 4/200
+2023-08-24 00:58:43,911 Pipeline WARNING Skip url https://www.youtube.com/watch?v=-7aAnBs8WQc because it has finished the process
+2023-08-24 00:58:43,912 Pipeline INFO Finish processing for voice: Nguyễn Ngọc Ngạn
+2023-08-24 00:58:43,912 Pipeline INFO Start downloading videos of voice: Huy Dao
+2023-08-24 00:58:43,912 Pipeline INFO Url number 5/200
+2023-08-24 00:58:43,912 Pipeline WARNING Skip url https://www.youtube.com/watch?v=BxdMT8NXttY because it has finished the process
+2023-08-24 00:58:43,912 Pipeline INFO Url number 6/200
+2023-08-24 00:58:43,912 Pipeline WARNING Skip url https://www.youtube.com/watch?v=Y3m0_xQ8YPA because it has finished the process
+2023-08-24 00:58:43,912 Pipeline INFO Finish processing for voice: Huy Dao
+2023-08-24 00:58:43,912 Pipeline INFO Start downloading videos of voice: meowisthebest
+2023-08-24 00:58:43,912 Pipeline INFO Url number 7/200
+2023-08-24 00:58:43,912 Pipeline WARNING Skip url https://www.youtube.com/watch?v=7v1pFab1FJ8 because it has finished the process
+2023-08-24 00:58:43,912 Pipeline INFO Url number 8/200
+2023-08-24 00:58:43,912 Pipeline WARNING Skip url https://www.youtube.com/watch?v=BL3uhL60rfQ because it has finished the process
+2023-08-24 00:58:43,912 Pipeline INFO Url number 9/200
+2023-08-24 00:58:43,912 Pipeline WARNING Skip url https://www.youtube.com/watch?v=SbxPsd9H8Ws&t=128s because it has finished the process
+2023-08-24 00:58:43,912 Pipeline INFO Url number 10/200
+2023-08-24 00:58:43,913 Pipeline WARNING Skip url https://www.youtube.com/watch?v=SSmhydiVn2s because it has finished the process
+2023-08-24 00:58:43,913 Pipeline INFO Finish processing for voice: meowisthebest
+2023-08-24 00:58:43,913 Pipeline INFO Start downloading videos of voice: Ngọc Yakult
+2023-08-24 00:58:43,913 Pipeline INFO Url number 11/200
+2023-08-24 00:58:43,913 Pipeline WARNING Skip url https://www.youtube.com/watch?v=AqAZQJFLD-g because it has finished the process
+2023-08-24 00:58:43,913 Pipeline INFO Url number 12/200
+2023-08-24 00:58:43,913 Pipeline WARNING Skip url https://www.youtube.com/watch?v=_uDIe7wGTUM because it has finished the process
+2023-08-24 00:58:43,913 Pipeline INFO Url number 13/200
+2023-08-24 00:58:43,913 Pipeline WARNING Skip url https://www.youtube.com/watch?v=4225gWu9cGE because it has finished the process
+2023-08-24 00:58:43,913 Pipeline INFO Url number 14/200
+2023-08-24 00:58:43,913 Pipeline WARNING Skip url https://www.youtube.com/watch?v=XjUmgttLhCE because it has finished the process
+2023-08-24 00:58:43,914 Pipeline INFO Url number 15/200
+2023-08-24 00:58:43,914 Pipeline WARNING Skip url https://www.youtube.com/watch?v=mS-jZt1VzAo&t=6s because it has finished the process
+2023-08-24 00:58:43,914 Pipeline INFO Url number 16/200
+2023-08-24 00:58:43,914 Pipeline WARNING Skip url https://www.youtube.com/watch?v=46MKGUYekBs because it has finished the process
+2023-08-24 00:58:43,914 Pipeline INFO Url number 17/200
+2023-08-24 00:58:43,914 Pipeline WARNING Skip url https://www.youtube.com/watch?v=VwhJfC4ex_c because it has finished the process
+2023-08-24 00:58:43,914 Pipeline INFO Url number 18/200
+2023-08-24 00:58:43,914 Pipeline WARNING Skip url https://www.youtube.com/watch?v=g3aPx0FF2Bs because it has finished the process
+2023-08-24 00:58:43,914 Pipeline INFO Url number 19/200
+2023-08-24 00:58:43,914 Pipeline WARNING Skip url https://www.youtube.com/watch?v=cYM5OV2etes because it has finished the process
+2023-08-24 00:58:43,914 Pipeline INFO Url number 20/200
+2023-08-24 00:58:43,914 Pipeline WARNING Skip url https://www.youtube.com/watch?v=RqEpSj4c7MU because it has finished the process
+2023-08-24 00:58:43,914 Pipeline INFO Url number 21/200
+2023-08-24 00:58:43,914 Pipeline WARNING Skip url https://www.youtube.com/watch?v=JsEU16KhsjA because it has finished the process
+2023-08-24 00:58:43,914 Pipeline INFO Url number 22/200
+2023-08-24 00:58:43,915 Pipeline WARNING Skip url https://www.youtube.com/watch?v=rQCLLZQHXYg because it has finished the process
+2023-08-24 00:58:43,915 Pipeline INFO Url number 23/200
+2023-08-24 00:58:43,915 Pipeline WARNING Skip url https://www.youtube.com/watch?v=6g7jbIbOCHw because it has finished the process
+2023-08-24 00:58:43,915 Pipeline INFO Url number 24/200
+2023-08-24 00:58:43,915 Pipeline WARNING Skip url https://www.youtube.com/watch?v=XYo3rxMN3DY because it has finished the process
+2023-08-24 00:58:43,915 Pipeline INFO Url number 25/200
+2023-08-24 00:58:43,915 Pipeline WARNING Skip url https://www.youtube.com/watch?v=wlhzF-4sfB4 because it has finished the process
+2023-08-24 00:58:43,915 Pipeline INFO Url number 26/200
+2023-08-24 00:58:43,915 Pipeline WARNING Skip url https://www.youtube.com/watch?v=kg4fDelk8Cc because it has finished the process
+2023-08-24 00:58:43,915 Pipeline INFO Url number 27/200
+2023-08-24 00:58:43,915 Pipeline WARNING Skip url https://www.youtube.com/watch?v=pxyfeAw14_U because it has finished the process
+2023-08-24 00:58:43,915 Pipeline INFO Url number 28/200
+2023-08-24 00:58:43,915 Pipeline WARNING Skip url https://www.youtube.com/watch?v=Xei1z7TOtPM because it has finished the process
+2023-08-24 00:58:43,915 Pipeline INFO Finish processing for voice: Ngọc Yakult
+2023-08-24 00:58:43,915 Pipeline INFO Start downloading videos of voice: Bảo Châu Mobile
+2023-08-24 00:58:43,915 Pipeline INFO Url number 29/200
+2023-08-24 00:58:43,916 Pipeline WARNING Skip url https://www.youtube.com/watch?v=OcxLiRYqJ2I because it has finished the process
+2023-08-24 00:58:43,916 Pipeline INFO Url number 30/200
+2023-08-24 00:58:43,916 Pipeline WARNING Skip url https://www.youtube.com/watch?v=AyClbHM4llM because it has finished the process
+2023-08-24 00:58:43,916 Pipeline INFO Finish processing for voice: Bảo Châu Mobile
+2023-08-24 00:58:43,916 Pipeline INFO Start downloading videos of voice: Tun Cảm Ơn
+2023-08-24 00:58:43,916 Pipeline INFO Url number 31/200
+2023-08-24 00:58:43,916 Pipeline WARNING Skip url https://www.youtube.com/watch?v=odjCDVBCepU because it has finished the process
+2023-08-24 00:58:43,916 Pipeline INFO Finish processing for voice: Tun Cảm Ơn
+2023-08-24 00:58:43,916 Pipeline INFO Start downloading videos of voice: Minh Niệm
+2023-08-24 00:58:43,917 Pipeline INFO Url number 32/200
+2023-08-24 00:58:43,917 Pipeline WARNING Skip url https://www.youtube.com/watch?v=Nv5xNrbPhF0 because it has finished the process
+2023-08-24 00:58:43,917 Pipeline INFO Finish processing for voice: Minh Niệm
+2023-08-24 00:58:43,917 Pipeline INFO Start downloading videos of voice: Thái Hoàng Phi
+2023-08-24 00:58:43,917 Pipeline INFO Url number 33/200
+2023-08-24 00:58:43,918 Pipeline WARNING Skip url https://www.youtube.com/watch?v=xFYA-ZOuzwo because it has finished the process
+2023-08-24 00:58:43,918 Pipeline INFO Finish processing for voice: Thái Hoàng Phi
+2023-08-24 00:58:43,918 Pipeline INFO Start downloading videos of voice: The Hanoi Chamomile
+2023-08-24 00:58:43,918 Pipeline INFO Url number 34/200
+2023-08-24 00:58:43,918 Pipeline WARNING Skip url https://www.youtube.com/watch?v=4AIhLv-qtYk because it has finished the process
+2023-08-24 00:58:43,919 Pipeline INFO Url number 35/200
+2023-08-24 00:58:43,919 Pipeline WARNING Skip url https://www.youtube.com/watch?v=f8NHXvf4ms0 because it has finished the process
+2023-08-24 00:58:43,919 Pipeline INFO Finish processing for voice: The Hanoi Chamomile
+2023-08-24 00:58:43,919 Pipeline INFO Start downloading videos of voice: Web5ngay
+2023-08-24 00:58:43,919 Pipeline INFO Url number 36/200
+2023-08-24 00:58:43,920 Pipeline WARNING Skip url https://www.youtube.com/watch?v=yu3Y3wv3nZk because it has finished the process
+2023-08-24 00:58:43,920 Pipeline INFO Finish processing for voice: Web5ngay
+2023-08-24 00:58:43,920 Pipeline INFO Start downloading videos of voice: Hieu Nguyen (Hieu TV)
+2023-08-24 00:58:43,920 Pipeline INFO Url number 37/200
+2023-08-24 00:58:43,920 Pipeline WARNING Skip url https://www.youtube.com/watch?v=PSsM0K7O5_0 because it has finished the process
+2023-08-24 00:58:43,921 Pipeline INFO Finish processing for voice: Hieu Nguyen (Hieu TV)
+2023-08-24 00:58:43,921 Pipeline INFO Start downloading videos of voice: Duy Thanh Nguyen
+2023-08-24 00:58:43,921 Pipeline INFO Url number 38/200
+2023-08-24 00:58:43,921 Pipeline WARNING Skip url https://www.youtube.com/watch?v=0hJlVqNrnIo because it has finished the process
+2023-08-24 00:58:43,921 Pipeline INFO Finish processing for voice: Duy Thanh Nguyen
+2023-08-24 00:58:43,921 Pipeline INFO Start downloading videos of voice: The Present Writer
+2023-08-24 00:58:43,922 Pipeline INFO Url number 39/200
+2023-08-24 00:58:43,922 Pipeline WARNING Skip url https://www.youtube.com/watch?v=dGLFthZoKeo because it has finished the process
+2023-08-24 00:58:43,922 Pipeline INFO Finish processing for voice: The Present Writer
+2023-08-24 00:58:43,922 Pipeline INFO Start downloading videos of voice: Fonos (Nguyễn Phi Yến)
+2023-08-24 00:58:43,922 Pipeline INFO Url number 40/200
+2023-08-24 00:58:43,922 Pipeline WARNING Skip url https://www.youtube.com/watch?v=c0GMAhY0s5E because it has finished the process
+2023-08-24 00:58:43,923 Pipeline INFO Finish processing for voice: Fonos (Nguyễn Phi Yến)
+2023-08-24 00:58:43,923 Pipeline INFO Start downloading videos of voice: MYSU - Thy Thanh Pham
+2023-08-24 00:58:43,923 Pipeline WARNING Create directory data/train/MYSU - Thy Thanh Pham
+2023-08-24 00:58:43,923 Pipeline INFO Url number 41/200
+2023-08-24 00:58:46,177 Downloader INFO Start downloading audio at https://www.youtube.com/watch?v=pMgUikrV3mQ
+2023-08-24 00:58:48,994 Downloader WARNING Rename /home/quantum/python/ml_vin/data/train/MYSU - Thy Thanh Pham/[ Tập 1427 ] TÒ MÒ GẶP MA - Chuyện Tâm Linh.webm to /home/quantum/python/ml_vin/data/train/MYSU - Thy Thanh Pham/[ Tập 1427 ] TÒ MÒ GẶP MA - Chuyện Tâm Linh.mp3
+2023-08-24 00:58:48,994 Downloader INFO Downloaded audio successfully, store at /home/quantum/python/ml_vin/data/train/MYSU - Thy Thanh Pham/[ Tập 1427 ] TÒ MÒ GẶP MA - Chuyện Tâm Linh.mp3
+2023-08-24 00:59:24,248 Downloader INFO Convert into .wav and resample audio
+2023-08-24 00:59:31,345 Downloader INFO Remove /home/quantum/python/ml_vin/data/train/MYSU - Thy Thanh Pham/[ Tập 1427 ] TÒ MÒ GẶP MA - Chuyện Tâm Linh_trimmed.mp3
+2023-08-24 00:59:31,347 VADProcessor INFO Start running VAD process with file: /home/quantum/python/ml_vin/data/train/MYSU - Thy Thanh Pham/[ Tập 1427 ] TÒ MÒ GẶP MA - Chuyện Tâm Linh_trimmed.wav
+2023-08-24 00:59:50,964 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/MYSU - Thy Thanh Pham/[ Tập 1427 ] TÒ MÒ GẶP MA - Chuyện Tâm Linh_trimmed/0.wav
+2023-08-24 00:59:50,966 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/MYSU - Thy Thanh Pham/[ Tập 1427 ] TÒ MÒ GẶP MA - Chuyện Tâm Linh_trimmed/1.wav
+2023-08-24 00:59:50,967 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/MYSU - Thy Thanh Pham/[ Tập 1427 ] TÒ MÒ GẶP MA - Chuyện Tâm Linh_trimmed/2.wav
+2023-08-24 00:59:50,969 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/MYSU - Thy Thanh Pham/[ Tập 1427 ] TÒ MÒ GẶP MA - Chuyện Tâm Linh_trimmed/3.wav
+2023-08-24 00:59:50,971 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/MYSU - Thy Thanh Pham/[ Tập 1427 ] TÒ MÒ GẶP MA - Chuyện Tâm Linh_trimmed/4.wav
+2023-08-24 00:59:50,973 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/MYSU - Thy Thanh Pham/[ Tập 1427 ] TÒ MÒ GẶP MA - Chuyện Tâm Linh_trimmed/5.wav
+2023-08-24 00:59:50,974 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/MYSU - Thy Thanh Pham/[ Tập 1427 ] TÒ MÒ GẶP MA - Chuyện Tâm Linh_trimmed/6.wav
+2023-08-24 00:59:50,976 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/MYSU - Thy Thanh Pham/[ Tập 1427 ] TÒ MÒ GẶP MA - Chuyện Tâm Linh_trimmed/7.wav
+2023-08-24 00:59:50,977 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/MYSU - Thy Thanh Pham/[ Tập 1427 ] TÒ MÒ GẶP MA - Chuyện Tâm Linh_trimmed/8.wav
+2023-08-24 00:59:50,979 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/MYSU - Thy Thanh Pham/[ Tập 1427 ] TÒ MÒ GẶP MA - Chuyện Tâm Linh_trimmed/9.wav
+2023-08-24 00:59:50,980 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/MYSU - Thy Thanh Pham/[ Tập 1427 ] TÒ MÒ GẶP MA - Chuyện Tâm Linh_trimmed/10.wav
+2023-08-24 00:59:50,982 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/MYSU - Thy Thanh Pham/[ Tập 1427 ] TÒ MÒ GẶP MA - Chuyện Tâm Linh_trimmed/11.wav
+2023-08-24 00:59:50,983 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/MYSU - Thy Thanh Pham/[ Tập 1427 ] TÒ MÒ GẶP MA - Chuyện Tâm Linh_trimmed/12.wav
+2023-08-24 00:59:50,984 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/MYSU - Thy Thanh Pham/[ Tập 1427 ] TÒ MÒ GẶP MA - Chuyện Tâm Linh_trimmed/13.wav
+2023-08-24 00:59:50,985 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/MYSU - Thy Thanh Pham/[ Tập 1427 ] TÒ MÒ GẶP MA - Chuyện Tâm Linh_trimmed/14.wav
+2023-08-24 00:59:50,986 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/MYSU - Thy Thanh Pham/[ Tập 1427 ] TÒ MÒ GẶP MA - Chuyện Tâm Linh_trimmed/15.wav
+2023-08-24 00:59:50,988 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/MYSU - Thy Thanh Pham/[ Tập 1427 ] TÒ MÒ GẶP MA - Chuyện Tâm Linh_trimmed/16.wav
+2023-08-24 00:59:50,989 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/MYSU - Thy Thanh Pham/[ Tập 1427 ] TÒ MÒ GẶP MA - Chuyện Tâm Linh_trimmed/17.wav
+2023-08-24 00:59:50,992 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/MYSU - Thy Thanh Pham/[ Tập 1427 ] TÒ MÒ GẶP MA - Chuyện Tâm Linh_trimmed/18.wav
+2023-08-24 00:59:50,994 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/MYSU - Thy Thanh Pham/[ Tập 1427 ] TÒ MÒ GẶP MA - Chuyện Tâm Linh_trimmed/19.wav
+2023-08-24 00:59:50,996 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/MYSU - Thy Thanh Pham/[ Tập 1427 ] TÒ MÒ GẶP MA - Chuyện Tâm Linh_trimmed/20.wav
+2023-08-24 00:59:50,997 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/MYSU - Thy Thanh Pham/[ Tập 1427 ] TÒ MÒ GẶP MA - Chuyện Tâm Linh_trimmed/21.wav
+2023-08-24 00:59:50,998 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/MYSU - Thy Thanh Pham/[ Tập 1427 ] TÒ MÒ GẶP MA - Chuyện Tâm Linh_trimmed/22.wav
+2023-08-24 00:59:50,999 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/MYSU - Thy Thanh Pham/[ Tập 1427 ] TÒ MÒ GẶP MA - Chuyện Tâm Linh_trimmed/23.wav
+2023-08-24 00:59:51,001 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/MYSU - Thy Thanh Pham/[ Tập 1427 ] TÒ MÒ GẶP MA - Chuyện Tâm Linh_trimmed/24.wav
+2023-08-24 00:59:51,002 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/MYSU - Thy Thanh Pham/[ Tập 1427 ] TÒ MÒ GẶP MA - Chuyện Tâm Linh_trimmed/25.wav
+2023-08-24 00:59:51,003 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/MYSU - Thy Thanh Pham/[ Tập 1427 ] TÒ MÒ GẶP MA - Chuyện Tâm Linh_trimmed/26.wav
+2023-08-24 00:59:51,005 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/MYSU - Thy Thanh Pham/[ Tập 1427 ] TÒ MÒ GẶP MA - Chuyện Tâm Linh_trimmed/27.wav
+2023-08-24 00:59:51,006 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/MYSU - Thy Thanh Pham/[ Tập 1427 ] TÒ MÒ GẶP MA - Chuyện Tâm Linh_trimmed/28.wav
+2023-08-24 00:59:51,007 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/MYSU - Thy Thanh Pham/[ Tập 1427 ] TÒ MÒ GẶP MA - Chuyện Tâm Linh_trimmed/29.wav
+2023-08-24 00:59:51,009 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/MYSU - Thy Thanh Pham/[ Tập 1427 ] TÒ MÒ GẶP MA - Chuyện Tâm Linh_trimmed/30.wav
+2023-08-24 00:59:51,010 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/MYSU - Thy Thanh Pham/[ Tập 1427 ] TÒ MÒ GẶP MA - Chuyện Tâm Linh_trimmed/31.wav
+2023-08-24 00:59:51,012 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/MYSU - Thy Thanh Pham/[ Tập 1427 ] TÒ MÒ GẶP MA - Chuyện Tâm Linh_trimmed/32.wav
+2023-08-24 00:59:51,014 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/MYSU - Thy Thanh Pham/[ Tập 1427 ] TÒ MÒ GẶP MA - Chuyện Tâm Linh_trimmed/33.wav
+2023-08-24 00:59:51,016 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/MYSU - Thy Thanh Pham/[ Tập 1427 ] TÒ MÒ GẶP MA - Chuyện Tâm Linh_trimmed/34.wav
+2023-08-24 00:59:51,017 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/MYSU - Thy Thanh Pham/[ Tập 1427 ] TÒ MÒ GẶP MA - Chuyện Tâm Linh_trimmed/35.wav
+2023-08-24 00:59:51,018 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/MYSU - Thy Thanh Pham/[ Tập 1427 ] TÒ MÒ GẶP MA - Chuyện Tâm Linh_trimmed/36.wav
+2023-08-24 00:59:51,020 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/MYSU - Thy Thanh Pham/[ Tập 1427 ] TÒ MÒ GẶP MA - Chuyện Tâm Linh_trimmed/37.wav
+2023-08-24 00:59:51,021 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/MYSU - Thy Thanh Pham/[ Tập 1427 ] TÒ MÒ GẶP MA - Chuyện Tâm Linh_trimmed/38.wav
+2023-08-24 00:59:51,023 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/MYSU - Thy Thanh Pham/[ Tập 1427 ] TÒ MÒ GẶP MA - Chuyện Tâm Linh_trimmed/39.wav
+2023-08-24 00:59:51,024 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/MYSU - Thy Thanh Pham/[ Tập 1427 ] TÒ MÒ GẶP MA - Chuyện Tâm Linh_trimmed/40.wav
+2023-08-24 00:59:51,026 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/MYSU - Thy Thanh Pham/[ Tập 1427 ] TÒ MÒ GẶP MA - Chuyện Tâm Linh_trimmed/41.wav
+2023-08-24 00:59:51,028 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/MYSU - Thy Thanh Pham/[ Tập 1427 ] TÒ MÒ GẶP MA - Chuyện Tâm Linh_trimmed/42.wav
+2023-08-24 00:59:51,029 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/MYSU - Thy Thanh Pham/[ Tập 1427 ] TÒ MÒ GẶP MA - Chuyện Tâm Linh_trimmed/43.wav
+2023-08-24 00:59:51,031 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/MYSU - Thy Thanh Pham/[ Tập 1427 ] TÒ MÒ GẶP MA - Chuyện Tâm Linh_trimmed/44.wav
+2023-08-24 00:59:51,032 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/MYSU - Thy Thanh Pham/[ Tập 1427 ] TÒ MÒ GẶP MA - Chuyện Tâm Linh_trimmed/45.wav
+2023-08-24 00:59:51,033 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/MYSU - Thy Thanh Pham/[ Tập 1427 ] TÒ MÒ GẶP MA - Chuyện Tâm Linh_trimmed/46.wav
+2023-08-24 00:59:51,035 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/MYSU - Thy Thanh Pham/[ Tập 1427 ] TÒ MÒ GẶP MA - Chuyện Tâm Linh_trimmed/47.wav
+2023-08-24 00:59:51,036 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/MYSU - Thy Thanh Pham/[ Tập 1427 ] TÒ MÒ GẶP MA - Chuyện Tâm Linh_trimmed/48.wav
+2023-08-24 00:59:51,038 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/MYSU - Thy Thanh Pham/[ Tập 1427 ] TÒ MÒ GẶP MA - Chuyện Tâm Linh_trimmed/49.wav
+2023-08-24 00:59:51,039 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/MYSU - Thy Thanh Pham/[ Tập 1427 ] TÒ MÒ GẶP MA - Chuyện Tâm Linh_trimmed/50.wav
+2023-08-24 00:59:51,041 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/MYSU - Thy Thanh Pham/[ Tập 1427 ] TÒ MÒ GẶP MA - Chuyện Tâm Linh_trimmed/51.wav
+2023-08-24 00:59:51,043 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/MYSU - Thy Thanh Pham/[ Tập 1427 ] TÒ MÒ GẶP MA - Chuyện Tâm Linh_trimmed/52.wav
+2023-08-24 00:59:51,044 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/MYSU - Thy Thanh Pham/[ Tập 1427 ] TÒ MÒ GẶP MA - Chuyện Tâm Linh_trimmed/53.wav
+2023-08-24 00:59:51,045 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/MYSU - Thy Thanh Pham/[ Tập 1427 ] TÒ MÒ GẶP MA - Chuyện Tâm Linh_trimmed/54.wav
+2023-08-24 00:59:51,047 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/MYSU - Thy Thanh Pham/[ Tập 1427 ] TÒ MÒ GẶP MA - Chuyện Tâm Linh_trimmed/55.wav
+2023-08-24 00:59:51,048 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/MYSU - Thy Thanh Pham/[ Tập 1427 ] TÒ MÒ GẶP MA - Chuyện Tâm Linh_trimmed/56.wav
+2023-08-24 00:59:51,050 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/MYSU - Thy Thanh Pham/[ Tập 1427 ] TÒ MÒ GẶP MA - Chuyện Tâm Linh_trimmed/57.wav
+2023-08-24 00:59:51,051 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/MYSU - Thy Thanh Pham/[ Tập 1427 ] TÒ MÒ GẶP MA - Chuyện Tâm Linh_trimmed/58.wav
+2023-08-24 00:59:51,052 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/MYSU - Thy Thanh Pham/[ Tập 1427 ] TÒ MÒ GẶP MA - Chuyện Tâm Linh_trimmed/59.wav
+2023-08-24 00:59:51,054 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/MYSU - Thy Thanh Pham/[ Tập 1427 ] TÒ MÒ GẶP MA - Chuyện Tâm Linh_trimmed/60.wav
+2023-08-24 00:59:51,055 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/MYSU - Thy Thanh Pham/[ Tập 1427 ] TÒ MÒ GẶP MA - Chuyện Tâm Linh_trimmed/61.wav
+2023-08-24 00:59:51,056 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/MYSU - Thy Thanh Pham/[ Tập 1427 ] TÒ MÒ GẶP MA - Chuyện Tâm Linh_trimmed/62.wav
+2023-08-24 00:59:51,057 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/MYSU - Thy Thanh Pham/[ Tập 1427 ] TÒ MÒ GẶP MA - Chuyện Tâm Linh_trimmed/63.wav
+2023-08-24 00:59:51,059 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/MYSU - Thy Thanh Pham/[ Tập 1427 ] TÒ MÒ GẶP MA - Chuyện Tâm Linh_trimmed/64.wav
+2023-08-24 00:59:51,061 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/MYSU - Thy Thanh Pham/[ Tập 1427 ] TÒ MÒ GẶP MA - Chuyện Tâm Linh_trimmed/65.wav
+2023-08-24 00:59:51,063 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/MYSU - Thy Thanh Pham/[ Tập 1427 ] TÒ MÒ GẶP MA - Chuyện Tâm Linh_trimmed/66.wav
+2023-08-24 00:59:51,064 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/MYSU - Thy Thanh Pham/[ Tập 1427 ] TÒ MÒ GẶP MA - Chuyện Tâm Linh_trimmed/67.wav
+2023-08-24 00:59:51,065 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/MYSU - Thy Thanh Pham/[ Tập 1427 ] TÒ MÒ GẶP MA - Chuyện Tâm Linh_trimmed/68.wav
+2023-08-24 00:59:51,066 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/MYSU - Thy Thanh Pham/[ Tập 1427 ] TÒ MÒ GẶP MA - Chuyện Tâm Linh_trimmed/69.wav
+2023-08-24 00:59:51,067 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/MYSU - Thy Thanh Pham/[ Tập 1427 ] TÒ MÒ GẶP MA - Chuyện Tâm Linh_trimmed/70.wav
+2023-08-24 00:59:51,068 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/MYSU - Thy Thanh Pham/[ Tập 1427 ] TÒ MÒ GẶP MA - Chuyện Tâm Linh_trimmed/71.wav
+2023-08-24 00:59:51,070 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/MYSU - Thy Thanh Pham/[ Tập 1427 ] TÒ MÒ GẶP MA - Chuyện Tâm Linh_trimmed/72.wav
+2023-08-24 00:59:51,071 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/MYSU - Thy Thanh Pham/[ Tập 1427 ] TÒ MÒ GẶP MA - Chuyện Tâm Linh_trimmed/73.wav
+2023-08-24 00:59:51,073 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/MYSU - Thy Thanh Pham/[ Tập 1427 ] TÒ MÒ GẶP MA - Chuyện Tâm Linh_trimmed/74.wav
+2023-08-24 00:59:51,074 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/MYSU - Thy Thanh Pham/[ Tập 1427 ] TÒ MÒ GẶP MA - Chuyện Tâm Linh_trimmed/75.wav
+2023-08-24 00:59:51,076 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/MYSU - Thy Thanh Pham/[ Tập 1427 ] TÒ MÒ GẶP MA - Chuyện Tâm Linh_trimmed/76.wav
+2023-08-24 00:59:51,077 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/MYSU - Thy Thanh Pham/[ Tập 1427 ] TÒ MÒ GẶP MA - Chuyện Tâm Linh_trimmed/77.wav
+2023-08-24 00:59:51,078 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/MYSU - Thy Thanh Pham/[ Tập 1427 ] TÒ MÒ GẶP MA - Chuyện Tâm Linh_trimmed/78.wav
+2023-08-24 00:59:51,079 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/MYSU - Thy Thanh Pham/[ Tập 1427 ] TÒ MÒ GẶP MA - Chuyện Tâm Linh_trimmed/79.wav
+2023-08-24 00:59:51,081 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/MYSU - Thy Thanh Pham/[ Tập 1427 ] TÒ MÒ GẶP MA - Chuyện Tâm Linh_trimmed/80.wav
+2023-08-24 00:59:51,083 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/MYSU - Thy Thanh Pham/[ Tập 1427 ] TÒ MÒ GẶP MA - Chuyện Tâm Linh_trimmed/81.wav
+2023-08-24 00:59:51,084 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/MYSU - Thy Thanh Pham/[ Tập 1427 ] TÒ MÒ GẶP MA - Chuyện Tâm Linh_trimmed/82.wav
+2023-08-24 00:59:51,085 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/MYSU - Thy Thanh Pham/[ Tập 1427 ] TÒ MÒ GẶP MA - Chuyện Tâm Linh_trimmed/83.wav
+2023-08-24 00:59:51,087 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/MYSU - Thy Thanh Pham/[ Tập 1427 ] TÒ MÒ GẶP MA - Chuyện Tâm Linh_trimmed/84.wav
+2023-08-24 00:59:51,088 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/MYSU - Thy Thanh Pham/[ Tập 1427 ] TÒ MÒ GẶP MA - Chuyện Tâm Linh_trimmed/85.wav
+2023-08-24 00:59:51,089 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/MYSU - Thy Thanh Pham/[ Tập 1427 ] TÒ MÒ GẶP MA - Chuyện Tâm Linh_trimmed/86.wav
+2023-08-24 00:59:51,090 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/MYSU - Thy Thanh Pham/[ Tập 1427 ] TÒ MÒ GẶP MA - Chuyện Tâm Linh_trimmed/87.wav
+2023-08-24 00:59:51,091 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/MYSU - Thy Thanh Pham/[ Tập 1427 ] TÒ MÒ GẶP MA - Chuyện Tâm Linh_trimmed/88.wav
+2023-08-24 00:59:51,093 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/MYSU - Thy Thanh Pham/[ Tập 1427 ] TÒ MÒ GẶP MA - Chuyện Tâm Linh_trimmed/89.wav
+2023-08-24 00:59:51,095 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/MYSU - Thy Thanh Pham/[ Tập 1427 ] TÒ MÒ GẶP MA - Chuyện Tâm Linh_trimmed/90.wav
+2023-08-24 00:59:51,097 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/MYSU - Thy Thanh Pham/[ Tập 1427 ] TÒ MÒ GẶP MA - Chuyện Tâm Linh_trimmed/91.wav
+2023-08-24 00:59:51,098 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/MYSU - Thy Thanh Pham/[ Tập 1427 ] TÒ MÒ GẶP MA - Chuyện Tâm Linh_trimmed/92.wav
+2023-08-24 00:59:51,099 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/MYSU - Thy Thanh Pham/[ Tập 1427 ] TÒ MÒ GẶP MA - Chuyện Tâm Linh_trimmed/93.wav
+2023-08-24 00:59:51,101 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/MYSU - Thy Thanh Pham/[ Tập 1427 ] TÒ MÒ GẶP MA - Chuyện Tâm Linh_trimmed/94.wav
+2023-08-24 00:59:51,103 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/MYSU - Thy Thanh Pham/[ Tập 1427 ] TÒ MÒ GẶP MA - Chuyện Tâm Linh_trimmed/95.wav
+2023-08-24 00:59:51,104 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/MYSU - Thy Thanh Pham/[ Tập 1427 ] TÒ MÒ GẶP MA - Chuyện Tâm Linh_trimmed/96.wav
+2023-08-24 00:59:51,105 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/MYSU - Thy Thanh Pham/[ Tập 1427 ] TÒ MÒ GẶP MA - Chuyện Tâm Linh_trimmed/97.wav
+2023-08-24 00:59:51,223 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/MYSU - Thy Thanh Pham/[ Tập 1427 ] TÒ MÒ GẶP MA - Chuyện Tâm Linh_trimmed/98.wav
+2023-08-24 00:59:51,225 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/MYSU - Thy Thanh Pham/[ Tập 1427 ] TÒ MÒ GẶP MA - Chuyện Tâm Linh_trimmed/99.wav
+2023-08-24 00:59:51,226 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/MYSU - Thy Thanh Pham/[ Tập 1427 ] TÒ MÒ GẶP MA - Chuyện Tâm Linh_trimmed/100.wav
+2023-08-24 00:59:51,228 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/MYSU - Thy Thanh Pham/[ Tập 1427 ] TÒ MÒ GẶP MA - Chuyện Tâm Linh_trimmed/101.wav
+2023-08-24 00:59:51,229 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/MYSU - Thy Thanh Pham/[ Tập 1427 ] TÒ MÒ GẶP MA - Chuyện Tâm Linh_trimmed/102.wav
+2023-08-24 00:59:51,231 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/MYSU - Thy Thanh Pham/[ Tập 1427 ] TÒ MÒ GẶP MA - Chuyện Tâm Linh_trimmed/103.wav
+2023-08-24 00:59:51,232 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/MYSU - Thy Thanh Pham/[ Tập 1427 ] TÒ MÒ GẶP MA - Chuyện Tâm Linh_trimmed/104.wav
+2023-08-24 00:59:51,234 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/MYSU - Thy Thanh Pham/[ Tập 1427 ] TÒ MÒ GẶP MA - Chuyện Tâm Linh_trimmed/105.wav
+2023-08-24 00:59:51,235 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/MYSU - Thy Thanh Pham/[ Tập 1427 ] TÒ MÒ GẶP MA - Chuyện Tâm Linh_trimmed/106.wav
+2023-08-24 00:59:51,236 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/MYSU - Thy Thanh Pham/[ Tập 1427 ] TÒ MÒ GẶP MA - Chuyện Tâm Linh_trimmed/107.wav
+2023-08-24 00:59:51,237 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/MYSU - Thy Thanh Pham/[ Tập 1427 ] TÒ MÒ GẶP MA - Chuyện Tâm Linh_trimmed/108.wav
+2023-08-24 00:59:51,239 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/MYSU - Thy Thanh Pham/[ Tập 1427 ] TÒ MÒ GẶP MA - Chuyện Tâm Linh_trimmed/109.wav
+2023-08-24 00:59:51,241 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/MYSU - Thy Thanh Pham/[ Tập 1427 ] TÒ MÒ GẶP MA - Chuyện Tâm Linh_trimmed/110.wav
+2023-08-24 00:59:51,243 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/MYSU - Thy Thanh Pham/[ Tập 1427 ] TÒ MÒ GẶP MA - Chuyện Tâm Linh_trimmed/111.wav
+2023-08-24 00:59:51,245 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/MYSU - Thy Thanh Pham/[ Tập 1427 ] TÒ MÒ GẶP MA - Chuyện Tâm Linh_trimmed/112.wav
+2023-08-24 00:59:51,247 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/MYSU - Thy Thanh Pham/[ Tập 1427 ] TÒ MÒ GẶP MA - Chuyện Tâm Linh_trimmed/113.wav
+2023-08-24 00:59:51,248 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/MYSU - Thy Thanh Pham/[ Tập 1427 ] TÒ MÒ GẶP MA - Chuyện Tâm Linh_trimmed/114.wav
+2023-08-24 00:59:51,250 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/MYSU - Thy Thanh Pham/[ Tập 1427 ] TÒ MÒ GẶP MA - Chuyện Tâm Linh_trimmed/115.wav
+2023-08-24 00:59:51,251 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/MYSU - Thy Thanh Pham/[ Tập 1427 ] TÒ MÒ GẶP MA - Chuyện Tâm Linh_trimmed/116.wav
+2023-08-24 00:59:51,253 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/MYSU - Thy Thanh Pham/[ Tập 1427 ] TÒ MÒ GẶP MA - Chuyện Tâm Linh_trimmed/117.wav
+2023-08-24 00:59:51,254 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/MYSU - Thy Thanh Pham/[ Tập 1427 ] TÒ MÒ GẶP MA - Chuyện Tâm Linh_trimmed/118.wav
+2023-08-24 00:59:51,257 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/MYSU - Thy Thanh Pham/[ Tập 1427 ] TÒ MÒ GẶP MA - Chuyện Tâm Linh_trimmed/119.wav
+2023-08-24 00:59:51,258 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/MYSU - Thy Thanh Pham/[ Tập 1427 ] TÒ MÒ GẶP MA - Chuyện Tâm Linh_trimmed/120.wav
+2023-08-24 00:59:51,413 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/MYSU - Thy Thanh Pham/[ Tập 1427 ] TÒ MÒ GẶP MA - Chuyện Tâm Linh_trimmed/121.wav
+2023-08-24 00:59:51,416 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/MYSU - Thy Thanh Pham/[ Tập 1427 ] TÒ MÒ GẶP MA - Chuyện Tâm Linh_trimmed/122.wav
+2023-08-24 00:59:51,417 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/MYSU - Thy Thanh Pham/[ Tập 1427 ] TÒ MÒ GẶP MA - Chuyện Tâm Linh_trimmed/123.wav
+2023-08-24 00:59:51,418 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/MYSU - Thy Thanh Pham/[ Tập 1427 ] TÒ MÒ GẶP MA - Chuyện Tâm Linh_trimmed/124.wav
+2023-08-24 00:59:51,419 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/MYSU - Thy Thanh Pham/[ Tập 1427 ] TÒ MÒ GẶP MA - Chuyện Tâm Linh_trimmed/125.wav
+2023-08-24 00:59:51,421 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/MYSU - Thy Thanh Pham/[ Tập 1427 ] TÒ MÒ GẶP MA - Chuyện Tâm Linh_trimmed/126.wav
+2023-08-24 00:59:51,423 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/MYSU - Thy Thanh Pham/[ Tập 1427 ] TÒ MÒ GẶP MA - Chuyện Tâm Linh_trimmed/127.wav
+2023-08-24 00:59:51,425 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/MYSU - Thy Thanh Pham/[ Tập 1427 ] TÒ MÒ GẶP MA - Chuyện Tâm Linh_trimmed/128.wav
+2023-08-24 00:59:51,426 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/MYSU - Thy Thanh Pham/[ Tập 1427 ] TÒ MÒ GẶP MA - Chuyện Tâm Linh_trimmed/129.wav
+2023-08-24 00:59:51,427 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/MYSU - Thy Thanh Pham/[ Tập 1427 ] TÒ MÒ GẶP MA - Chuyện Tâm Linh_trimmed/130.wav
+2023-08-24 00:59:51,428 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/MYSU - Thy Thanh Pham/[ Tập 1427 ] TÒ MÒ GẶP MA - Chuyện Tâm Linh_trimmed/131.wav
+2023-08-24 00:59:51,429 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/MYSU - Thy Thanh Pham/[ Tập 1427 ] TÒ MÒ GẶP MA - Chuyện Tâm Linh_trimmed/132.wav
+2023-08-24 00:59:51,431 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/MYSU - Thy Thanh Pham/[ Tập 1427 ] TÒ MÒ GẶP MA - Chuyện Tâm Linh_trimmed/133.wav
+2023-08-24 00:59:51,432 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/MYSU - Thy Thanh Pham/[ Tập 1427 ] TÒ MÒ GẶP MA - Chuyện Tâm Linh_trimmed/134.wav
+2023-08-24 00:59:51,434 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/MYSU - Thy Thanh Pham/[ Tập 1427 ] TÒ MÒ GẶP MA - Chuyện Tâm Linh_trimmed/135.wav
+2023-08-24 00:59:51,435 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/MYSU - Thy Thanh Pham/[ Tập 1427 ] TÒ MÒ GẶP MA - Chuyện Tâm Linh_trimmed/136.wav
+2023-08-24 00:59:51,436 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/MYSU - Thy Thanh Pham/[ Tập 1427 ] TÒ MÒ GẶP MA - Chuyện Tâm Linh_trimmed/137.wav
+2023-08-24 00:59:51,438 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/MYSU - Thy Thanh Pham/[ Tập 1427 ] TÒ MÒ GẶP MA - Chuyện Tâm Linh_trimmed/138.wav
+2023-08-24 00:59:51,439 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/MYSU - Thy Thanh Pham/[ Tập 1427 ] TÒ MÒ GẶP MA - Chuyện Tâm Linh_trimmed/139.wav
+2023-08-24 00:59:51,441 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/MYSU - Thy Thanh Pham/[ Tập 1427 ] TÒ MÒ GẶP MA - Chuyện Tâm Linh_trimmed/140.wav
+2023-08-24 00:59:51,442 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/MYSU - Thy Thanh Pham/[ Tập 1427 ] TÒ MÒ GẶP MA - Chuyện Tâm Linh_trimmed/141.wav
+2023-08-24 00:59:51,444 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/MYSU - Thy Thanh Pham/[ Tập 1427 ] TÒ MÒ GẶP MA - Chuyện Tâm Linh_trimmed/142.wav
+2023-08-24 00:59:51,446 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/MYSU - Thy Thanh Pham/[ Tập 1427 ] TÒ MÒ GẶP MA - Chuyện Tâm Linh_trimmed/143.wav
+2023-08-24 00:59:51,448 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/MYSU - Thy Thanh Pham/[ Tập 1427 ] TÒ MÒ GẶP MA - Chuyện Tâm Linh_trimmed/144.wav
+2023-08-24 00:59:51,450 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/MYSU - Thy Thanh Pham/[ Tập 1427 ] TÒ MÒ GẶP MA - Chuyện Tâm Linh_trimmed/145.wav
+2023-08-24 00:59:51,452 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/MYSU - Thy Thanh Pham/[ Tập 1427 ] TÒ MÒ GẶP MA - Chuyện Tâm Linh_trimmed/146.wav
+2023-08-24 00:59:51,453 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/MYSU - Thy Thanh Pham/[ Tập 1427 ] TÒ MÒ GẶP MA - Chuyện Tâm Linh_trimmed/147.wav
+2023-08-24 00:59:51,455 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/MYSU - Thy Thanh Pham/[ Tập 1427 ] TÒ MÒ GẶP MA - Chuyện Tâm Linh_trimmed/148.wav
+2023-08-24 00:59:51,456 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/MYSU - Thy Thanh Pham/[ Tập 1427 ] TÒ MÒ GẶP MA - Chuyện Tâm Linh_trimmed/149.wav
+2023-08-24 00:59:51,457 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/MYSU - Thy Thanh Pham/[ Tập 1427 ] TÒ MÒ GẶP MA - Chuyện Tâm Linh_trimmed/150.wav
+2023-08-24 00:59:51,459 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/MYSU - Thy Thanh Pham/[ Tập 1427 ] TÒ MÒ GẶP MA - Chuyện Tâm Linh_trimmed/151.wav
+2023-08-24 00:59:51,461 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/MYSU - Thy Thanh Pham/[ Tập 1427 ] TÒ MÒ GẶP MA - Chuyện Tâm Linh_trimmed/152.wav
+2023-08-24 00:59:51,463 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/MYSU - Thy Thanh Pham/[ Tập 1427 ] TÒ MÒ GẶP MA - Chuyện Tâm Linh_trimmed/153.wav
+2023-08-24 00:59:51,465 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/MYSU - Thy Thanh Pham/[ Tập 1427 ] TÒ MÒ GẶP MA - Chuyện Tâm Linh_trimmed/154.wav
+2023-08-24 00:59:51,466 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/MYSU - Thy Thanh Pham/[ Tập 1427 ] TÒ MÒ GẶP MA - Chuyện Tâm Linh_trimmed/155.wav
+2023-08-24 00:59:51,468 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/MYSU - Thy Thanh Pham/[ Tập 1427 ] TÒ MÒ GẶP MA - Chuyện Tâm Linh_trimmed/156.wav
+2023-08-24 00:59:51,469 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/MYSU - Thy Thanh Pham/[ Tập 1427 ] TÒ MÒ GẶP MA - Chuyện Tâm Linh_trimmed/157.wav
+2023-08-24 00:59:51,471 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/MYSU - Thy Thanh Pham/[ Tập 1427 ] TÒ MÒ GẶP MA - Chuyện Tâm Linh_trimmed/158.wav
+2023-08-24 00:59:51,472 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/MYSU - Thy Thanh Pham/[ Tập 1427 ] TÒ MÒ GẶP MA - Chuyện Tâm Linh_trimmed/159.wav
+2023-08-24 00:59:51,474 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/MYSU - Thy Thanh Pham/[ Tập 1427 ] TÒ MÒ GẶP MA - Chuyện Tâm Linh_trimmed/160.wav
+2023-08-24 00:59:51,476 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/MYSU - Thy Thanh Pham/[ Tập 1427 ] TÒ MÒ GẶP MA - Chuyện Tâm Linh_trimmed/161.wav
+2023-08-24 00:59:51,477 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/MYSU - Thy Thanh Pham/[ Tập 1427 ] TÒ MÒ GẶP MA - Chuyện Tâm Linh_trimmed/162.wav
+2023-08-24 00:59:51,479 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/MYSU - Thy Thanh Pham/[ Tập 1427 ] TÒ MÒ GẶP MA - Chuyện Tâm Linh_trimmed/163.wav
+2023-08-24 00:59:51,481 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/MYSU - Thy Thanh Pham/[ Tập 1427 ] TÒ MÒ GẶP MA - Chuyện Tâm Linh_trimmed/164.wav
+2023-08-24 00:59:51,483 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/MYSU - Thy Thanh Pham/[ Tập 1427 ] TÒ MÒ GẶP MA - Chuyện Tâm Linh_trimmed/165.wav
+2023-08-24 00:59:51,485 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/MYSU - Thy Thanh Pham/[ Tập 1427 ] TÒ MÒ GẶP MA - Chuyện Tâm Linh_trimmed/166.wav
+2023-08-24 00:59:51,486 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/MYSU - Thy Thanh Pham/[ Tập 1427 ] TÒ MÒ GẶP MA - Chuyện Tâm Linh_trimmed/167.wav
+2023-08-24 00:59:51,487 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/MYSU - Thy Thanh Pham/[ Tập 1427 ] TÒ MÒ GẶP MA - Chuyện Tâm Linh_trimmed/168.wav
+2023-08-24 00:59:51,490 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/MYSU - Thy Thanh Pham/[ Tập 1427 ] TÒ MÒ GẶP MA - Chuyện Tâm Linh_trimmed/169.wav
+2023-08-24 00:59:51,491 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/MYSU - Thy Thanh Pham/[ Tập 1427 ] TÒ MÒ GẶP MA - Chuyện Tâm Linh_trimmed/170.wav
+2023-08-24 00:59:51,492 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/MYSU - Thy Thanh Pham/[ Tập 1427 ] TÒ MÒ GẶP MA - Chuyện Tâm Linh_trimmed/171.wav
+2023-08-24 00:59:51,494 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/MYSU - Thy Thanh Pham/[ Tập 1427 ] TÒ MÒ GẶP MA - Chuyện Tâm Linh_trimmed/172.wav
+2023-08-24 00:59:51,496 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/MYSU - Thy Thanh Pham/[ Tập 1427 ] TÒ MÒ GẶP MA - Chuyện Tâm Linh_trimmed/173.wav
+2023-08-24 00:59:51,659 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/MYSU - Thy Thanh Pham/[ Tập 1427 ] TÒ MÒ GẶP MA - Chuyện Tâm Linh_trimmed/174.wav
+2023-08-24 00:59:51,661 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/MYSU - Thy Thanh Pham/[ Tập 1427 ] TÒ MÒ GẶP MA - Chuyện Tâm Linh_trimmed/175.wav
+2023-08-24 00:59:51,663 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/MYSU - Thy Thanh Pham/[ Tập 1427 ] TÒ MÒ GẶP MA - Chuyện Tâm Linh_trimmed/176.wav
+2023-08-24 00:59:51,664 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/MYSU - Thy Thanh Pham/[ Tập 1427 ] TÒ MÒ GẶP MA - Chuyện Tâm Linh_trimmed/177.wav
+2023-08-24 00:59:51,666 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/MYSU - Thy Thanh Pham/[ Tập 1427 ] TÒ MÒ GẶP MA - Chuyện Tâm Linh_trimmed/178.wav
+2023-08-24 00:59:51,669 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/MYSU - Thy Thanh Pham/[ Tập 1427 ] TÒ MÒ GẶP MA - Chuyện Tâm Linh_trimmed/179.wav
+2023-08-24 00:59:51,671 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/MYSU - Thy Thanh Pham/[ Tập 1427 ] TÒ MÒ GẶP MA - Chuyện Tâm Linh_trimmed/180.wav
+2023-08-24 00:59:51,672 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/MYSU - Thy Thanh Pham/[ Tập 1427 ] TÒ MÒ GẶP MA - Chuyện Tâm Linh_trimmed/181.wav
+2023-08-24 00:59:51,674 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/MYSU - Thy Thanh Pham/[ Tập 1427 ] TÒ MÒ GẶP MA - Chuyện Tâm Linh_trimmed/182.wav
+2023-08-24 00:59:51,676 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/MYSU - Thy Thanh Pham/[ Tập 1427 ] TÒ MÒ GẶP MA - Chuyện Tâm Linh_trimmed/183.wav
+2023-08-24 00:59:51,677 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/MYSU - Thy Thanh Pham/[ Tập 1427 ] TÒ MÒ GẶP MA - Chuyện Tâm Linh_trimmed/184.wav
+2023-08-24 00:59:51,678 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/MYSU - Thy Thanh Pham/[ Tập 1427 ] TÒ MÒ GẶP MA - Chuyện Tâm Linh_trimmed/185.wav
+2023-08-24 00:59:51,680 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/MYSU - Thy Thanh Pham/[ Tập 1427 ] TÒ MÒ GẶP MA - Chuyện Tâm Linh_trimmed/186.wav
+2023-08-24 00:59:51,681 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/MYSU - Thy Thanh Pham/[ Tập 1427 ] TÒ MÒ GẶP MA - Chuyện Tâm Linh_trimmed/187.wav
+2023-08-24 00:59:51,683 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/MYSU - Thy Thanh Pham/[ Tập 1427 ] TÒ MÒ GẶP MA - Chuyện Tâm Linh_trimmed/188.wav
+2023-08-24 00:59:51,684 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/MYSU - Thy Thanh Pham/[ Tập 1427 ] TÒ MÒ GẶP MA - Chuyện Tâm Linh_trimmed/189.wav
+2023-08-24 00:59:51,686 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/MYSU - Thy Thanh Pham/[ Tập 1427 ] TÒ MÒ GẶP MA - Chuyện Tâm Linh_trimmed/190.wav
+2023-08-24 00:59:51,687 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/MYSU - Thy Thanh Pham/[ Tập 1427 ] TÒ MÒ GẶP MA - Chuyện Tâm Linh_trimmed/191.wav
+2023-08-24 00:59:51,689 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/MYSU - Thy Thanh Pham/[ Tập 1427 ] TÒ MÒ GẶP MA - Chuyện Tâm Linh_trimmed/192.wav
+2023-08-24 00:59:51,691 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/MYSU - Thy Thanh Pham/[ Tập 1427 ] TÒ MÒ GẶP MA - Chuyện Tâm Linh_trimmed/193.wav
+2023-08-24 00:59:51,692 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/MYSU - Thy Thanh Pham/[ Tập 1427 ] TÒ MÒ GẶP MA - Chuyện Tâm Linh_trimmed/194.wav
+2023-08-24 00:59:51,693 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/MYSU - Thy Thanh Pham/[ Tập 1427 ] TÒ MÒ GẶP MA - Chuyện Tâm Linh_trimmed/195.wav
+2023-08-24 00:59:51,695 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/MYSU - Thy Thanh Pham/[ Tập 1427 ] TÒ MÒ GẶP MA - Chuyện Tâm Linh_trimmed/196.wav
+2023-08-24 00:59:51,697 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/MYSU - Thy Thanh Pham/[ Tập 1427 ] TÒ MÒ GẶP MA - Chuyện Tâm Linh_trimmed/197.wav
+2023-08-24 00:59:51,699 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/MYSU - Thy Thanh Pham/[ Tập 1427 ] TÒ MÒ GẶP MA - Chuyện Tâm Linh_trimmed/198.wav
+2023-08-24 00:59:51,700 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/MYSU - Thy Thanh Pham/[ Tập 1427 ] TÒ MÒ GẶP MA - Chuyện Tâm Linh_trimmed/199.wav
+2023-08-24 00:59:51,702 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/MYSU - Thy Thanh Pham/[ Tập 1427 ] TÒ MÒ GẶP MA - Chuyện Tâm Linh_trimmed/200.wav
+2023-08-24 00:59:51,704 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/MYSU - Thy Thanh Pham/[ Tập 1427 ] TÒ MÒ GẶP MA - Chuyện Tâm Linh_trimmed/201.wav
+2023-08-24 00:59:51,706 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/MYSU - Thy Thanh Pham/[ Tập 1427 ] TÒ MÒ GẶP MA - Chuyện Tâm Linh_trimmed/202.wav
+2023-08-24 00:59:51,707 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/MYSU - Thy Thanh Pham/[ Tập 1427 ] TÒ MÒ GẶP MA - Chuyện Tâm Linh_trimmed/203.wav
+2023-08-24 00:59:51,708 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/MYSU - Thy Thanh Pham/[ Tập 1427 ] TÒ MÒ GẶP MA - Chuyện Tâm Linh_trimmed/204.wav
+2023-08-24 00:59:51,709 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/MYSU - Thy Thanh Pham/[ Tập 1427 ] TÒ MÒ GẶP MA - Chuyện Tâm Linh_trimmed/205.wav
+2023-08-24 00:59:51,711 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/MYSU - Thy Thanh Pham/[ Tập 1427 ] TÒ MÒ GẶP MA - Chuyện Tâm Linh_trimmed/206.wav
+2023-08-24 00:59:51,713 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/MYSU - Thy Thanh Pham/[ Tập 1427 ] TÒ MÒ GẶP MA - Chuyện Tâm Linh_trimmed/207.wav
+2023-08-24 00:59:51,714 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/MYSU - Thy Thanh Pham/[ Tập 1427 ] TÒ MÒ GẶP MA - Chuyện Tâm Linh_trimmed/208.wav
+2023-08-24 00:59:51,716 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/MYSU - Thy Thanh Pham/[ Tập 1427 ] TÒ MÒ GẶP MA - Chuyện Tâm Linh_trimmed/209.wav
+2023-08-24 00:59:51,718 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/MYSU - Thy Thanh Pham/[ Tập 1427 ] TÒ MÒ GẶP MA - Chuyện Tâm Linh_trimmed/210.wav
+2023-08-24 00:59:51,719 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/MYSU - Thy Thanh Pham/[ Tập 1427 ] TÒ MÒ GẶP MA - Chuyện Tâm Linh_trimmed/211.wav
+2023-08-24 00:59:51,720 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/MYSU - Thy Thanh Pham/[ Tập 1427 ] TÒ MÒ GẶP MA - Chuyện Tâm Linh_trimmed/212.wav
+2023-08-24 00:59:51,722 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/MYSU - Thy Thanh Pham/[ Tập 1427 ] TÒ MÒ GẶP MA - Chuyện Tâm Linh_trimmed/213.wav
+2023-08-24 00:59:51,724 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/MYSU - Thy Thanh Pham/[ Tập 1427 ] TÒ MÒ GẶP MA - Chuyện Tâm Linh_trimmed/214.wav
+2023-08-24 00:59:51,725 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/MYSU - Thy Thanh Pham/[ Tập 1427 ] TÒ MÒ GẶP MA - Chuyện Tâm Linh_trimmed/215.wav
+2023-08-24 00:59:51,727 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/MYSU - Thy Thanh Pham/[ Tập 1427 ] TÒ MÒ GẶP MA - Chuyện Tâm Linh_trimmed/216.wav
+2023-08-24 00:59:51,729 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/MYSU - Thy Thanh Pham/[ Tập 1427 ] TÒ MÒ GẶP MA - Chuyện Tâm Linh_trimmed/217.wav
+2023-08-24 00:59:51,730 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/MYSU - Thy Thanh Pham/[ Tập 1427 ] TÒ MÒ GẶP MA - Chuyện Tâm Linh_trimmed/218.wav
+2023-08-24 00:59:51,732 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/MYSU - Thy Thanh Pham/[ Tập 1427 ] TÒ MÒ GẶP MA - Chuyện Tâm Linh_trimmed/219.wav
+2023-08-24 00:59:51,733 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/MYSU - Thy Thanh Pham/[ Tập 1427 ] TÒ MÒ GẶP MA - Chuyện Tâm Linh_trimmed/220.wav
+2023-08-24 00:59:51,734 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/MYSU - Thy Thanh Pham/[ Tập 1427 ] TÒ MÒ GẶP MA - Chuyện Tâm Linh_trimmed/221.wav
+2023-08-24 00:59:51,736 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/MYSU - Thy Thanh Pham/[ Tập 1427 ] TÒ MÒ GẶP MA - Chuyện Tâm Linh_trimmed/222.wav
+2023-08-24 00:59:51,737 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/MYSU - Thy Thanh Pham/[ Tập 1427 ] TÒ MÒ GẶP MA - Chuyện Tâm Linh_trimmed/223.wav
+2023-08-24 00:59:51,739 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/MYSU - Thy Thanh Pham/[ Tập 1427 ] TÒ MÒ GẶP MA - Chuyện Tâm Linh_trimmed/224.wav
+2023-08-24 00:59:51,740 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/MYSU - Thy Thanh Pham/[ Tập 1427 ] TÒ MÒ GẶP MA - Chuyện Tâm Linh_trimmed/225.wav
+2023-08-24 00:59:51,741 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/MYSU - Thy Thanh Pham/[ Tập 1427 ] TÒ MÒ GẶP MA - Chuyện Tâm Linh_trimmed/226.wav
+2023-08-24 00:59:51,743 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/MYSU - Thy Thanh Pham/[ Tập 1427 ] TÒ MÒ GẶP MA - Chuyện Tâm Linh_trimmed/227.wav
+2023-08-24 00:59:51,745 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/MYSU - Thy Thanh Pham/[ Tập 1427 ] TÒ MÒ GẶP MA - Chuyện Tâm Linh_trimmed/228.wav
+2023-08-24 00:59:51,747 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/MYSU - Thy Thanh Pham/[ Tập 1427 ] TÒ MÒ GẶP MA - Chuyện Tâm Linh_trimmed/229.wav
+2023-08-24 00:59:51,748 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/MYSU - Thy Thanh Pham/[ Tập 1427 ] TÒ MÒ GẶP MA - Chuyện Tâm Linh_trimmed/230.wav
+2023-08-24 00:59:51,750 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/MYSU - Thy Thanh Pham/[ Tập 1427 ] TÒ MÒ GẶP MA - Chuyện Tâm Linh_trimmed/231.wav
+2023-08-24 00:59:51,752 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/MYSU - Thy Thanh Pham/[ Tập 1427 ] TÒ MÒ GẶP MA - Chuyện Tâm Linh_trimmed/232.wav
+2023-08-24 00:59:51,753 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/MYSU - Thy Thanh Pham/[ Tập 1427 ] TÒ MÒ GẶP MA - Chuyện Tâm Linh_trimmed/233.wav
+2023-08-24 00:59:51,755 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/MYSU - Thy Thanh Pham/[ Tập 1427 ] TÒ MÒ GẶP MA - Chuyện Tâm Linh_trimmed/234.wav
+2023-08-24 00:59:51,757 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/MYSU - Thy Thanh Pham/[ Tập 1427 ] TÒ MÒ GẶP MA - Chuyện Tâm Linh_trimmed/235.wav
+2023-08-24 00:59:51,759 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/MYSU - Thy Thanh Pham/[ Tập 1427 ] TÒ MÒ GẶP MA - Chuyện Tâm Linh_trimmed/236.wav
+2023-08-24 00:59:51,761 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/MYSU - Thy Thanh Pham/[ Tập 1427 ] TÒ MÒ GẶP MA - Chuyện Tâm Linh_trimmed/237.wav
+2023-08-24 00:59:51,764 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/MYSU - Thy Thanh Pham/[ Tập 1427 ] TÒ MÒ GẶP MA - Chuyện Tâm Linh_trimmed/238.wav
+2023-08-24 00:59:51,765 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/MYSU - Thy Thanh Pham/[ Tập 1427 ] TÒ MÒ GẶP MA - Chuyện Tâm Linh_trimmed/239.wav
+2023-08-24 00:59:51,767 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/MYSU - Thy Thanh Pham/[ Tập 1427 ] TÒ MÒ GẶP MA - Chuyện Tâm Linh_trimmed/240.wav
+2023-08-24 00:59:51,769 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/MYSU - Thy Thanh Pham/[ Tập 1427 ] TÒ MÒ GẶP MA - Chuyện Tâm Linh_trimmed/241.wav
+2023-08-24 00:59:51,770 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/MYSU - Thy Thanh Pham/[ Tập 1427 ] TÒ MÒ GẶP MA - Chuyện Tâm Linh_trimmed/242.wav
+2023-08-24 00:59:51,771 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/MYSU - Thy Thanh Pham/[ Tập 1427 ] TÒ MÒ GẶP MA - Chuyện Tâm Linh_trimmed/243.wav
+2023-08-24 00:59:51,773 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/MYSU - Thy Thanh Pham/[ Tập 1427 ] TÒ MÒ GẶP MA - Chuyện Tâm Linh_trimmed/244.wav
+2023-08-24 00:59:51,776 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/MYSU - Thy Thanh Pham/[ Tập 1427 ] TÒ MÒ GẶP MA - Chuyện Tâm Linh_trimmed/245.wav
+2023-08-24 00:59:51,777 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/MYSU - Thy Thanh Pham/[ Tập 1427 ] TÒ MÒ GẶP MA - Chuyện Tâm Linh_trimmed/246.wav
+2023-08-24 00:59:51,779 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/MYSU - Thy Thanh Pham/[ Tập 1427 ] TÒ MÒ GẶP MA - Chuyện Tâm Linh_trimmed/247.wav
+2023-08-24 00:59:51,780 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/MYSU - Thy Thanh Pham/[ Tập 1427 ] TÒ MÒ GẶP MA - Chuyện Tâm Linh_trimmed/248.wav
+2023-08-24 00:59:51,782 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/MYSU - Thy Thanh Pham/[ Tập 1427 ] TÒ MÒ GẶP MA - Chuyện Tâm Linh_trimmed/249.wav
+2023-08-24 00:59:51,784 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/MYSU - Thy Thanh Pham/[ Tập 1427 ] TÒ MÒ GẶP MA - Chuyện Tâm Linh_trimmed/250.wav
+2023-08-24 00:59:51,785 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/MYSU - Thy Thanh Pham/[ Tập 1427 ] TÒ MÒ GẶP MA - Chuyện Tâm Linh_trimmed/251.wav
+2023-08-24 00:59:51,785 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/MYSU - Thy Thanh Pham/[ Tập 1427 ] TÒ MÒ GẶP MA - Chuyện Tâm Linh_trimmed/252.wav
+2023-08-24 00:59:51,939 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/MYSU - Thy Thanh Pham/[ Tập 1427 ] TÒ MÒ GẶP MA - Chuyện Tâm Linh_trimmed/253.wav
+2023-08-24 00:59:51,941 VADProcessor INFO 	Save audio /home/quantum/python/ml_vin/data/train/MYSU - Thy Thanh Pham/[ Tập 1427 ] TÒ MÒ GẶP MA - Chuyện Tâm Linh_trimmed/254.wav
+2023-08-24 00:59:51,943 VADProcessor INFO Start removing some unnecessary .wav file in directory: /home/quantum/python/ml_vin/data/train/MYSU - Thy Thanh Pham/[ Tập 1427 ] TÒ MÒ GẶP MA - Chuyện Tâm Linh_trimmed
+2023-08-24 00:59:51,944 VADProcessor INFO Detect 255 .wav files in /home/quantum/python/ml_vin/data/train/MYSU - Thy Thanh Pham/[ Tập 1427 ] TÒ MÒ GẶP MA - Chuyện Tâm Linh_trimmed
+2023-08-24 00:59:52,010 VADProcessor INFO Finish removing some unnecessary .wav file
+2023-08-24 00:59:52,010 VADProcessor WARNING 	Remove file: /home/quantum/python/ml_vin/data/train/MYSU - Thy Thanh Pham/[ Tập 1427 ] TÒ MÒ GẶP MA - Chuyện Tâm Linh_trimmed.wav
+2023-08-24 00:59:52,017 VADProcessor INFO Finish VAD process
+2023-08-24 00:59:52,025 OutlierRemover INFO Start outlier-removing process
+2023-08-24 00:59:52,026 OutlierRemover INFO Detect 255 .wav files in /home/quantum/python/ml_vin/data/train/MYSU - Thy Thanh Pham/[ Tập 1427 ] TÒ MÒ GẶP MA - Chuyện Tâm Linh_trimmed
+2023-08-24 00:59:52,026 OutlierRemover INFO Calculate the embedding values of audio
+2023-08-24 01:00:20,910 OutlierRemover INFO Score the embedding
+2023-08-24 01:00:29,508 OutlierRemover INFO Remove outliers
+2023-08-24 01:00:29,509 OutlierRemover WARNING 	Remove /home/quantum/python/ml_vin/data/train/MYSU - Thy Thanh Pham/[ Tập 1427 ] TÒ MÒ GẶP MA - Chuyện Tâm Linh_trimmed/86.wav
+2023-08-24 01:00:29,510 OutlierRemover WARNING 	Remove /home/quantum/python/ml_vin/data/train/MYSU - Thy Thanh Pham/[ Tập 1427 ] TÒ MÒ GẶP MA - Chuyện Tâm Linh_trimmed/67.wav
+2023-08-24 01:00:29,510 OutlierRemover WARNING 	Remove /home/quantum/python/ml_vin/data/train/MYSU - Thy Thanh Pham/[ Tập 1427 ] TÒ MÒ GẶP MA - Chuyện Tâm Linh_trimmed/138.wav
+2023-08-24 01:00:29,511 OutlierRemover WARNING 	Remove /home/quantum/python/ml_vin/data/train/MYSU - Thy Thanh Pham/[ Tập 1427 ] TÒ MÒ GẶP MA - Chuyện Tâm Linh_trimmed/158.wav
+2023-08-24 01:00:29,513 Pipeline INFO Finish processing for voice: MYSU - Thy Thanh Pham
+2023-08-24 01:00:29,513 Pipeline INFO Start downloading videos of voice: VOV Live - Đọc truyện (NSƯT Hoàng Yến)
+2023-08-24 01:00:29,513 Pipeline WARNING Create directory data/train/VOV Live - Đọc truyện (NSƯT Hoàng Yến)
+2023-08-24 01:00:29,513 Pipeline INFO Url number 42/200

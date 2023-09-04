@@ -1,0 +1,17 @@
+model: ECAPA_CNN_TDNN
+C: 1024
+n_out: 192
+batch_size: 64
+n_per_speaker: 2
+loss_function: angleproto
+augment: True
+max_epoch: 50
+save_path: output/ECAPA_CNN_TDNN_AP
+train_list: data/metadata/train/training_metadata.txt
+train_path: ./
+test_list: data/metadata/test/sample_test_pairs.txt
+test_path: data/test/sv_vlsp_2021/public_test/competition_public_test
+musan_path: data/musan_augment
+rir_path: data/rirs_noises
+output_path: output/testing_results/public_test
+output_path: output/testing_results/public_test

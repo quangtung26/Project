@@ -1,0 +1,15 @@
+model: ECAPA_CNN_TDNN
+C: 1024
+n_out: 192
+batch_size: 128
+loss_function: aamsoftmax
+augment: True
+max_epoch: 50
+save_path: output/ECAPA_CNN_TDNN_AAM
+train_list: data/metadata/train/training_metadata.txt
+train_path: ./
+test_list: data/metadata/test/sample_test_pairs.txt
+test_path: data/test/sv_vlsp_2021/public_test/competition_public_test
+musan_path: data/musan_augment
+rir_path: data/rirs_noises
+output_path: output/testing_results/public_test
