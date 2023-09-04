@@ -39,8 +39,6 @@ class ModelController(object):
 
         stepsize = loader.batch_size
 
-        print(len(loader))
-
         counter = 0
         index = 0
         loss = 0
@@ -50,6 +48,8 @@ class ModelController(object):
         for data, data_label in loader:
 
             data = data.transpose(1, 0)
+
+            print(data.shape)
 
             self.__model__.zero_grad()
 
@@ -79,6 +79,8 @@ class ModelController(object):
 
             if self.lr_step == "iteration":
                 self.__scheduler__.step()
+            
+            break
 
         if self.lr_step == "epoch":
             self.__scheduler__.step()
