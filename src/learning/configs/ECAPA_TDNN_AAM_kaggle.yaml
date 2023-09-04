@@ -1,0 +1,15 @@
+model: ECAPA_TDNN
+C: 1024
+n_out: 192
+batch_size: 128
+loss_function: aamsoftmax
+augment: True
+max_epoch: 50
+save_path: output/ECAPA_TDNN_AAM
+train_list: /kaggle/input/vin-project/data/data/metadata/train/training_metadata.txt
+train_path: /kaggle/input/vin-project/data/
+test_list: /kaggle/input/vin-project/data/data/metadata/test/sample_test_pairs_with_label.txt
+test_path: /kaggle/input/vin-project/data/data/test/sv_vlsp_2021/public_test/competition_public_test
+musan_path: /kaggle/input/vin-project/data/data/musan_augment
+rir_path: /kaggle/input/vin-project/data/data/rirs_noises
+output_path: output/testing_results/public_test
