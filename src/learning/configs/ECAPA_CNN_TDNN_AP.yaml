@@ -9,7 +9,7 @@ max_epoch: 50
 save_path: output/ECAPA_CNN_TDNN_AP
 train_list: data/metadata/train/training_metadata.txt
 train_path: ./
-test_list: data/metadata/test/sample_test_pairs.txt
+test_list: data/metadata/test/sample_test_pairs_with_label.txt
 test_path: data/test/sv_vlsp_2021/public_test/competition_public_test
 musan_path: data/musan_augment
 rir_path: data/rirs_noises

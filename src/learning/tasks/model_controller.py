@@ -39,6 +39,8 @@ class ModelController(object):
 
         stepsize = loader.batch_size
 
+        print(len(loader))
+
         counter = 0
         index = 0
         loss = 0
@@ -77,8 +79,6 @@ class ModelController(object):
 
             if self.lr_step == "iteration":
                 self.__scheduler__.step()
-            
-            break
 
         if self.lr_step == "epoch":
             self.__scheduler__.step()
@@ -95,8 +95,8 @@ class ModelController(object):
         embeddings = {}
         lines = open(test_list).read().splitlines()
         for line in lines:
-            files.append(line.split()[0])
             files.append(line.split()[1])
+            files.append(line.split()[2])
         setfiles = list(set(files))
         setfiles.sort()
 
@@ -138,15 +138,14 @@ class ModelController(object):
         scores, labels  = [], []
 
         for line in lines:			
-            embedding_11, embedding_12 = embeddings[line.split()[0]]
-            embedding_21, embedding_22 = embeddings[line.split()[1]]
+            embedding_11, embedding_12 = embeddings[line.split()[1]]
+            embedding_21, embedding_22 = embeddings[line.split()[2]]
             # Compute the scores
             score_1 = torch.mean(torch.matmul(embedding_11, embedding_21.T)) # higher is positive
             score_2 = torch.mean(torch.matmul(embedding_12, embedding_22.T))
             score = (score_1 + score_2) / 2
             score = score.detach().cpu().numpy()
             scores.append(score)
-            print(line)
             labels.append(int(line.split()[0]))
 
         return scores, labels
