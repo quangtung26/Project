@@ -6,7 +6,7 @@ loss_function: aamsoftmax
 augment: True
 max_epoch: 50
 save_path: output/ECAPA_TDNN_AAM
-train_list: /kaggle/input/vin-project/data/data/metadata/train/training_metadata.txt
+test_list: /kaggle/input/vin-project/data/data/metadata/test/labels/public_test_pairs_with_label.txt
 train_path: /kaggle/input/vin-project/data/
 test_list: /kaggle/input/vin-project/data/data/metadata/test/sample_test_pairs_with_label.txt
 test_path: /kaggle/input/vin-project/data/data/test/sv_vlsp_2021/public_test/competition_public_test
