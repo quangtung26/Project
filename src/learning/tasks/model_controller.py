@@ -49,8 +49,6 @@ class ModelController(object):
 
             data = data.transpose(1, 0)
 
-            print(data.shape)
-
             self.__model__.zero_grad()
 
             label = torch.LongTensor(data_label).to(self.device)
@@ -80,7 +78,6 @@ class ModelController(object):
             if self.lr_step == "iteration":
                 self.__scheduler__.step()
             
-            break
 
         if self.lr_step == "epoch":
             self.__scheduler__.step()
