@@ -1,1 +1,1 @@
-python src/learn.py --config src/learning/configs/ECAPA_TDNN_AP.yaml --train
+python src/learn.py --config src/learning/configs/SEResNet34_AP.yaml --train

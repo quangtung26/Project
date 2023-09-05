@@ -277,3 +277,35 @@ class TrainDataSampler(torch.utils.data.Sampler):
 
 	def set_epoch(self, epoch: int) -> None:
 		self.epoch = epoch
+
+
+if __name__ == '__main__':
+	import warnings
+	warnings.filterwarnings('ignore')
+	
+	args = {
+		'train_list': 'data/metadata/train/training_metadata.txt',
+		'augment': True, 
+		'musan_path': 'data/musan_augment', 
+		'rir_path': 'data/rirs_noises', 
+		'max_frames': 200, 
+		'train_path': './',
+		'batch_size': 16,
+		'seed': 10}
+
+	train_dataset = TrainDataset(**args)
+	train_sampler = TrainDataSampler(train_dataset, **args)
+	train_loader = torch.utils.data.DataLoader(
+		train_dataset,
+		batch_size=16,
+		num_workers=2,
+		sampler=train_sampler,
+		pin_memory=True,
+		worker_init_fn=worker_init_fn,
+		drop_last=True,
+	)
+
+	for x, y in train_loader:
+		print(x.shape)
+		print(y)
+		break

@@ -53,6 +53,7 @@ class ModelController(object):
 
             label = torch.LongTensor(data_label).to(self.device)
 
+
             if self.mixedprec:
                 with autocast():
                     nloss, prec1 = self.__model__(data, label)
@@ -77,6 +78,8 @@ class ModelController(object):
 
             if self.lr_step == "iteration":
                 self.__scheduler__.step()
+
+            # break
             
 
         if self.lr_step == "epoch":
@@ -163,8 +166,8 @@ class ModelController(object):
         lines = open(test_list).read().splitlines()
         
         for line in lines:
-            files.append(line.split()[0])
             files.append(line.split()[1])
+            files.append(line.split()[2])
         setfiles = list(set(files))
         setfiles.sort()
 
@@ -173,6 +176,7 @@ class ModelController(object):
             fn_get_speech_timestamps, fn_save_audio, fn_read_audio, VADIterator, fn_collect_chunks = vad_utils
 
         for idx, file in tqdm.tqdm(enumerate(setfiles), total = len(setfiles)):
+            # print(test_path, file, sep='\n')
             audio, _  = soundfile.read(os.path.join(test_path, file))
             if use_vad:
                 try:
@@ -205,8 +209,8 @@ class ModelController(object):
             embeddings[file] = [embedding_1, embedding_2]
 
         for line in lines:			
-            embedding_11, embedding_12 = embeddings[line.split()[0]]
-            embedding_21, embedding_22 = embeddings[line.split()[1]]
+            embedding_11, embedding_12 = embeddings[line.split()[1]]
+            embedding_21, embedding_22 = embeddings[line.split()[2]]
             # Compute the scores
             score_1 = torch.mean(torch.matmul(embedding_11, embedding_21.T)) 
             score_2 = torch.mean(torch.matmul(embedding_12, embedding_22.T))

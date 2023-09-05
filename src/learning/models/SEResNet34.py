@@ -134,3 +134,11 @@ def model_init(n_out: int = 512, encoder_type: str = "ASP", **kwargs):
     model = ResNetSE(block=SEBasicBlock, layers=[3, 4, 6, 3], num_filters=num_filters, n_out=n_out, encoder_type=encoder_type, **kwargs)
     
     return model
+
+
+if __name__ == '__main__':
+    from torchinfo import summary
+
+    model = model_init().cuda()
+    
+    summary(model, (1, 32240,))

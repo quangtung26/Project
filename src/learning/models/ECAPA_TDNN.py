@@ -101,19 +101,21 @@ class ECAPA_TDNN(nn.Module):
             nn.Conv1d(256, 1536, kernel_size=1),
             nn.Softmax(dim=2),
             )
+        
         self.bn5 = nn.BatchNorm1d(3072)
         self.fc6 = nn.Linear(3072, 192)
         self.bn6 = nn.BatchNorm1d(192)
 
 
     def forward(self, x, aug=False):
+        # print(x.shape)
         with torch.no_grad():
             x = self.torchfbank(x)+1e-6
             x = x.log()   
             x = x - torch.mean(x, dim=-1, keepdim=True)
             if aug == True:
                 x = self.specaug(x)
-
+        
         x = self.conv1(x)
         x = self.relu(x)
         x = self.bn1(x)
@@ -148,3 +150,12 @@ class ECAPA_TDNN(nn.Module):
 def model_init(**kwargs):
     model = ECAPA_TDNN(C=1024)
     return model
+
+
+if __name__ == '__main__':
+    from torchinfo import summary
+
+    model = model_init().cuda()
+    
+    summary(model, (1, 32240,))
+   
