@@ -3,7 +3,7 @@ log_input: True
 encoder_type: ASP
 loss_function: aamsoftmax
 n_classes: 1015
-batch_size: 128
+batch_size: 64
 max_seg_per_spk: 1000
 augment: True
 max_epoch: 50
